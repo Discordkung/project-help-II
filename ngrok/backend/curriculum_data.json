@@ -1,0 +1,2041 @@
+{
+ "structure": {
+  "01999111": {
+   "code": "01999111",
+   "name_th": "ศาสตร์แห่งแผ่นดิน",
+   "credit": "2(2-0-4)",
+   "name_en": "Knowledge of the Land",
+   "section": null
+  },
+  "01403114": {
+   "code": "01403114",
+   "name_th": "ปฏิบัติการหลักมูลเคมีทั่วไป",
+   "credit": "1(0-3-2)",
+   "name_en": "Laboratory in Fundamentals of General Chemistry",
+   "section": "found_math_sci"
+  },
+  "01403117": {
+   "code": "01403117",
+   "name_th": "หลักมูลเคมีทั่วไป",
+   "credit": "3(3-0-6)",
+   "name_en": "Fundamentals of General Chemistry",
+   "section": "found_math_sci"
+  },
+  "01417167": {
+   "code": "01417167",
+   "name_th": "คณิตศาสตร์วิศวกรรม I",
+   "credit": "3(3-0-6)",
+   "name_en": "Engineering Mathematics I",
+   "section": "found_math_sci"
+  },
+  "01417168": {
+   "code": "01417168",
+   "name_th": "คณิตศาสตร์วิศวกรรม II",
+   "credit": "3(3-0-6)",
+   "name_en": "Engineering Mathematics II",
+   "section": "found_math_sci"
+  },
+  "01420111": {
+   "code": "01420111",
+   "name_th": "ฟิสิกส์ทั่วไป I",
+   "credit": "3(3-0-6)",
+   "name_en": "General Physics I",
+   "section": "found_math_sci"
+  },
+  "01420113": {
+   "code": "01420113",
+   "name_th": "ปฏิบัติการฟิสิกส์ I",
+   "credit": "1(0-3-2)",
+   "name_en": "Laboratory in Physics I",
+   "section": "found_math_sci"
+  },
+  "03602211": {
+   "code": "03602211",
+   "name_th": "วัสดุศาสตร์สำหรับวิศวกร",
+   "credit": "3(3-0-6)",
+   "name_en": "Materials Science for Engineers",
+   "section": "found_eng"
+  },
+  "03603101": {
+   "code": "03603101",
+   "name_th": "การโปรแกรมคอมพิวเตอร์เบื้องต้น",
+   "credit": "3(2-3-6)",
+   "name_en": "Introduction to Computer Programming",
+   "section": "found_eng"
+  },
+  "03604111": {
+   "code": "03604111",
+   "name_th": "การเขียนแบบทางวิศวกรรม",
+   "credit": "3(2-3-6)",
+   "name_en": "Engineering Drawing",
+   "section": "found_eng"
+  },
+  "03601211": {
+   "code": "03601211",
+   "name_th": "การวิเคราะห์วงจรไฟฟ้า I",
+   "credit": "3(3-0-6)",
+   "name_en": "Electric Circuit Analysis I",
+   "section": "core"
+  },
+  "03601212": {
+   "code": "03601212",
+   "name_th": "การวิเคราะห์วงจรไฟฟ้า II",
+   "credit": "3(3-0-6)",
+   "name_en": "Electric Circuit Analysis II",
+   "section": "core"
+  },
+  "03601213": {
+   "code": "03601213",
+   "name_th": "ปฏิบัติการวงจรไฟฟ้า",
+   "credit": "1(0-3-2)",
+   "name_en": "Electric Circuit Laboratory",
+   "section": "core"
+  },
+  "03601214": {
+   "code": "03601214",
+   "name_th": "คณิตศาสตร์วิศวกรรมไฟฟ้า",
+   "credit": "3(3-0-6)",
+   "name_en": "Electrical Engineering Mathematics",
+   "section": "core"
+  },
+  "03601215": {
+   "code": "03601215",
+   "name_th": "ความน่าจะเป็นประยุกต์สำหรับวิศวกรไฟฟ้า",
+   "credit": "3(3-0-6)",
+   "name_en": "Applied Probability for Electrical Engineers",
+   "section": "core"
+  },
+  "03601221": {
+   "code": "03601221",
+   "name_th": "เทคโนโลยีการสื่อสารและโครงข่ายไฟฟ้าอัจฉริยะ",
+   "credit": "3(3-0-6)",
+   "name_en": "Communication Technology and Smart Grid",
+   "section": "core"
+  },
+  "03601231": {
+   "code": "03601231",
+   "name_th": "วงจรและระบบอิเล็กทรอนิกส์ I",
+   "credit": "3(3-0-6)",
+   "name_en": "Electronic Circuits and Systems I",
+   "section": "core"
+  },
+  "03601232": {
+   "code": "03601232",
+   "name_th": "การออกแบบวงจรดิจิทัลและตรรกะ",
+   "credit": "3(3-0-6)",
+   "name_en": "Digital Circuits and Logic Design",
+   "section": "core"
+  },
+  "03601241": {
+   "code": "03601241",
+   "name_th": "สนามแม่เหล็กไฟฟ้าและคลื่น",
+   "credit": "3(3-0-6)",
+   "name_en": "Electromagnetic Fields and Waves",
+   "section": "core"
+  },
+  "03601251": {
+   "code": "03601251",
+   "name_th": "การแปลงผันพลังงานเครื่องกลไฟฟ้า I",
+   "credit": "3(3-0-6)",
+   "name_en": "Electromechanical Energy Conversion I",
+   "section": "core"
+  },
+  "03601252": {
+   "code": "03601252",
+   "name_th": "ปฏิบัติการการแปลงผันพลังงานเครื่องกลไฟฟ้า I",
+   "credit": "1(0-3-2)",
+   "name_en": "Electromechanical Energy Conversion Laboratory I",
+   "section": "core"
+  },
+  "03601271": {
+   "code": "03601271",
+   "name_th": "การปฏิบัติงานทางวิศวกรรมไฟฟ้า",
+   "credit": "1(0-3-2)",
+   "name_en": "Practice in Electrical Engineering",
+   "section": "core"
+  },
+  "03601311": {
+   "code": "03601311",
+   "name_th": "สัญญาณและระบบ",
+   "credit": "3(3-0-6)",
+   "name_en": "Signals and Systems",
+   "section": "core"
+  },
+  "03601331": {
+   "code": "03601331",
+   "name_th": "ปฏิบัติการอิเล็กทรอนิกส์",
+   "credit": "1(0-3-2)",
+   "name_en": "Electronics Laboratory",
+   "section": "core"
+  },
+  "03601332": {
+   "code": "03601332",
+   "name_th": "ไมโครโพรเซสเซอร์",
+   "credit": "3(3-0-6)",
+   "name_en": "Microprocessors",
+   "section": "core"
+  },
+  "03601353": {
+   "code": "03601353",
+   "name_th": "การออกแบบระบบไฟฟ้า",
+   "credit": "3(3-0-6)",
+   "name_en": "Electrical System Design",
+   "section": "core"
+  },
+  "03601361": {
+   "code": "03601361",
+   "name_th": "เครื่องมือวัดและการวัดทางไฟฟ้า",
+   "credit": "3(3-0-6)",
+   "name_en": "Electrical Instruments and Measurements",
+   "section": "core"
+  },
+  "03601362": {
+   "code": "03601362",
+   "name_th": "ระบบควบคุมเชิงเส้น",
+   "credit": "3(3-0-6)",
+   "name_en": "Linear Control Systems",
+   "section": "core"
+  },
+  "03601371": {
+   "code": "03601371",
+   "name_th": "การเตรียมความพร้อมก่อนฝึกงาน",
+   "credit": "1(0-3-2)",
+   "name_en": "Internship Preparation",
+   "section": "core"
+  },
+  "03601458": {
+   "code": "03601458",
+   "name_th": "การผลิต ส่ง และจำหน่ายกำลังไฟฟ้า",
+   "credit": "3(3-0-6)",
+   "name_en": "Electrical Power Generation, Transmission and Distribution",
+   "section": "core"
+  },
+  "03601459": {
+   "code": "03601459",
+   "name_th": "ความปลอดภัยทางวิศวกรรมไฟฟ้า",
+   "credit": "3(3-0-6)",
+   "name_en": "Safety in Electrical Engineering",
+   "section": "core"
+  },
+  "03601473": {
+   "code": "03601473",
+   "name_th": "อิเล็กทรอนิกส์กำลัง",
+   "credit": "3(3-0-6)",
+   "name_en": "Power Electronics",
+   "section": "core"
+  },
+  "03601477": {
+   "code": "03601477",
+   "name_th": "พลังงานหมุนเวียนและการกักเก็บพลังงาน",
+   "credit": "3(3-0-6)",
+   "name_en": "Renewable Energy and Energy Storage",
+   "section": "core"
+  },
+  "03601495": {
+   "code": "03601495",
+   "name_th": "โครงงานวิศวกรรมไฟฟ้าและอิเล็กทรอนิกส์ I",
+   "credit": "2(0-6-3)",
+   "name_en": "Electrical and Electronics Engineering Project I",
+   "section": "core"
+  },
+  "03601497": {
+   "code": "03601497",
+   "name_th": "สัมมนา",
+   "credit": "1",
+   "name_en": "Seminar",
+   "section": "core"
+  },
+  "03601499": {
+   "code": "03601499",
+   "name_th": "โครงงานวิศวกรรมไฟฟ้าและอิเล็กทรอนิกส์ II",
+   "credit": "2(0-6-3)",
+   "name_en": "Electrical and Electronics Engineering Project II",
+   "section": "core"
+  },
+  "03602301": {
+   "code": "03602301",
+   "name_th": "หลักพื้นฐานการจัดการผลิต",
+   "credit": "3(3-0-6)",
+   "name_en": "Basic Principles of Production Management",
+   "section": "core"
+  },
+  "03604223": {
+   "code": "03604223",
+   "name_th": "หลักพื้นฐานทางกลศาสตร์วิศวกรรม",
+   "credit": "3(3-0-6)",
+   "name_en": "Basic Principles of Engineering Mechanics",
+   "section": "core"
+  },
+  "03604281": {
+   "code": "03604281",
+   "name_th": "การฝึกงานโรงงาน",
+   "credit": "1(0-3-2)",
+   "name_en": "Workshop Practice",
+   "section": "core"
+  },
+  "03600490": {
+   "code": "03600490",
+   "name_th": "สหกิจศึกษา",
+   "credit": "6",
+   "name_en": "Co-operative Education",
+   "section": "elective"
+  },
+  "03601314": {
+   "code": "03601314",
+   "name_th": "การประมวลสัญญาณดิจิทัล",
+   "credit": "3(3-0-6)",
+   "name_en": "Digital Signal Processing",
+   "section": "elective"
+  },
+  "03601315": {
+   "code": "03601315",
+   "name_th": "ปฏิบัติการประมวลสัญญาณดิจิทัล",
+   "credit": "1(0-3-2)",
+   "name_en": "Digital Signal Processing Laboratory",
+   "section": "elective"
+  },
+  "03601321": {
+   "code": "03601321",
+   "name_th": "หลักการสื่อสาร",
+   "credit": "3(3-0-6)",
+   "name_en": "Principles of Communications",
+   "section": "elective"
+  },
+  "03601323": {
+   "code": "03601323",
+   "name_th": "ปฏิบัติการไฟฟ้าสื่อสาร",
+   "credit": "1(0-3-2)",
+   "name_en": "Communication Laboratory",
+   "section": "elective"
+  },
+  "03601333": {
+   "code": "03601333",
+   "name_th": "ปฏิบัติการไมโครโพรเซสเซอร์",
+   "credit": "1(0-3-2)",
+   "name_en": "Microprocessors Laboratory",
+   "section": "elective"
+  },
+  "03601334": {
+   "code": "03601334",
+   "name_th": "วงจรและระบบอิเล็กทรอนิกส์ II",
+   "credit": "3(3-0-6)",
+   "name_en": "Electronic Circuits and Systems II",
+   "section": "elective"
+  },
+  "03601335": {
+   "code": "03601335",
+   "name_th": "ปฏิบัติการอิเล็กทรอนิกส์ขั้นสูง",
+   "credit": "1(0-3-2)",
+   "name_en": "Advanced Electronics Laboratory",
+   "section": "elective"
+  },
+  "03601336": {
+   "code": "03601336",
+   "name_th": "การออกแบบและประยุกต์วงจรอิเล็กทรอนิกส์",
+   "credit": "3(3-0-6)",
+   "name_en": "Design and Application of Electronic Circuits",
+   "section": "elective"
+  },
+  "03601351": {
+   "code": "03601351",
+   "name_th": "การแปลงผันพลังงานเครื่องกลไฟฟ้า II",
+   "credit": "3(3-0-6)",
+   "name_en": "Electromechanical Energy Conversion II",
+   "section": "elective"
+  },
+  "03601352": {
+   "code": "03601352",
+   "name_th": "ปฏิบัติการการแปลงผันพลังงานเครื่องกลไฟฟ้า II",
+   "credit": "1(0-3-2)",
+   "name_en": "Electromechanical Energy Conversion Laboratory II",
+   "section": "elective"
+  },
+  "03601355": {
+   "code": "03601355",
+   "name_th": "วิศวกรรมไฟฟ้าแรงสูง",
+   "credit": "3(3-0-6)",
+   "name_en": "High-Voltage Engineering",
+   "section": "elective"
+  },
+  "03601356": {
+   "code": "03601356",
+   "name_th": "วิศวกรรมการส่องสว่าง",
+   "credit": "3(3-0-6)",
+   "name_en": "Illumination Engineering",
+   "section": "elective"
+  },
+  "03601357": {
+   "code": "03601357",
+   "name_th": "ระบบไฟฟ้ากำลัง",
+   "credit": "3(3-0-6)",
+   "name_en": "Electrical Power System",
+   "section": "elective"
+  },
+  "03601358": {
+   "code": "03601358",
+   "name_th": "ปฏิบัติการวิศวกรรมไฟฟ้าแรงสูง",
+   "credit": "1(0-3-2)",
+   "name_en": "High-Voltage Engineering Laboratory",
+   "section": "elective"
+  },
+  "03601363": {
+   "code": "03601363",
+   "name_th": "ปฏิบัติการการควบคุมและการวัด",
+   "credit": "1(0-3-2)",
+   "name_en": "Control and Measurement Laboratory",
+   "section": "elective"
+  },
+  "03601364": {
+   "code": "03601364",
+   "name_th": "ระบบอัตโนมัติทางอุตสาหกรรม",
+   "credit": "3(3-0-6)",
+   "name_en": "Industrial Automation Systems",
+   "section": "elective"
+  },
+  "03601365": {
+   "code": "03601365",
+   "name_th": "ปฏิบัติการระบบอัตโนมัติทางอุตสาหกรรม",
+   "credit": "1(0-3-2)",
+   "name_en": "Industrial Automation Systems Laboratory",
+   "section": "elective"
+  },
+  "03601382": {
+   "code": "03601382",
+   "name_th": "โปรแกรมประยุกต์สำหรับวิศวกรไฟฟ้า",
+   "credit": "3(3-0-6)",
+   "name_en": "Application Programs for Electrical Engineers",
+   "section": "elective"
+  },
+  "03601432": {
+   "code": "03601432",
+   "name_th": "การออกแบบประยุกต์วงจรรวมแอนะล็อก",
+   "credit": "3(3-0-6)",
+   "name_en": "Analog Integrated Circuit Application Designs",
+   "section": "elective"
+  },
+  "03601433": {
+   "code": "03601433",
+   "name_th": "อิเล็กทรอนิกส์อุตสาหกรรม",
+   "credit": "3(3-0-6)",
+   "name_en": "Industrial Electronics",
+   "section": "elective"
+  },
+  "03601434": {
+   "code": "03601434",
+   "name_th": "การพัฒนาระบบอิเล็กทรอนิกส์โดยใช้คอมพิวเตอร์ช่วย",
+   "credit": "3(3-0-6)",
+   "name_en": "Computer Aided Electronic System Development",
+   "section": "elective"
+  },
+  "03601451": {
+   "code": "03601451",
+   "name_th": "ความเชื่อถือได้เบื้องต้นของระบบกำลัง",
+   "credit": "3(3-0-6)",
+   "name_en": "Basic Power System Reliability",
+   "section": "elective"
+  },
+  "03601452": {
+   "code": "03601452",
+   "name_th": "โรงจักรไฟฟ้ากำลัง",
+   "credit": "3(3-0-6)",
+   "name_en": "Electric Power Plants",
+   "section": "elective"
+  },
+  "03601454": {
+   "code": "03601454",
+   "name_th": "ปฏิบัติการระบบไฟฟ้ากำลัง",
+   "credit": "1(0-3-2)",
+   "name_en": "Electrical Power Systems Laboratory",
+   "section": "elective"
+  },
+  "03601456": {
+   "code": "03601456",
+   "name_th": "การป้องกันระบบไฟฟ้ากำลัง",
+   "credit": "3(3-0-6)",
+   "name_en": "Power System Protection",
+   "section": "elective"
+  },
+  "03601457": {
+   "code": "03601457",
+   "name_th": "ระบบไฟฟ้าและระบบสัญญาณในอาคาร",
+   "credit": "3(3-0-6)",
+   "name_en": "Electrical Systems and Signal Systems in Building",
+   "section": "elective"
+  },
+  "03601461": {
+   "code": "03601461",
+   "name_th": "การควบคุมกระบวนการ",
+   "credit": "3(3-0-6)",
+   "name_en": "Process Control",
+   "section": "elective"
+  },
+  "03601462": {
+   "code": "03601462",
+   "name_th": "เซนเซอร์อุตสาหกรรม",
+   "credit": "3(3-0-6)",
+   "name_en": "Industrial Sensors",
+   "section": "elective"
+  },
+  "03601463": {
+   "code": "03601463",
+   "name_th": "การควบคุมเครื่องจักรกลและกระบวนการด้วยคอมพิวเตอร์",
+   "credit": "3(3-0-6)",
+   "name_en": "Computer Control of Machines and Processes",
+   "section": "elective"
+  },
+  "03601464": {
+   "code": "03601464",
+   "name_th": "เซนเซอร์และตัวแปลงสัญญาณ",
+   "credit": "3(3-0-6)",
+   "name_en": "Sensors and Transducers",
+   "section": "elective"
+  },
+  "03601465": {
+   "code": "03601465",
+   "name_th": "นวัตกรรมทางไฟฟ้าและอิเล็กทรอนิกส์",
+   "credit": "3(3-0-6)",
+   "name_en": "Electrical and Electronics Innovation",
+   "section": "elective"
+  },
+  "03601466": {
+   "code": "03601466",
+   "name_th": "ระบบหุ่นยนต์เบื้องต้น",
+   "credit": "3(3-0-6)",
+   "name_en": "Introduction to Robotic Systems",
+   "section": "elective"
+  },
+  "03601467": {
+   "code": "03601467",
+   "name_th": "ระบบอาณัติสัญญาณและควบคุมระบบราง",
+   "credit": "3(3-0-6)",
+   "name_en": "Railway Signaling and Control Systems",
+   "section": "elective"
+  },
+  "03601471": {
+   "code": "03601471",
+   "name_th": "การวิเคราะห์และประยุกต์เครื่องจักรไฟฟ้า",
+   "credit": "3(3-0-6)",
+   "name_en": "Analysis and Applications of Electrical Machines",
+   "section": "elective"
+  },
+  "03601472": {
+   "code": "03601472",
+   "name_th": "การขับเคลื่อนด้วยไฟฟ้า",
+   "credit": "3(3-0-6)",
+   "name_en": "Electric Drives",
+   "section": "elective"
+  },
+  "03601474": {
+   "code": "03601474",
+   "name_th": "ปฏิบัติการอิเล็กทรอนิกส์กำลัง",
+   "credit": "1(0-3-2)",
+   "name_en": "Power Electronics Laboratory",
+   "section": "elective"
+  },
+  "03601475": {
+   "code": "03601475",
+   "name_th": "อิเล็กทรอนิกส์กำลังสำหรับการอนุรักษ์พลังงาน",
+   "credit": "3(3-0-6)",
+   "name_en": "Power Electronics for Energy Conservation",
+   "section": "elective"
+  },
+  "03601476": {
+   "code": "03601476",
+   "name_th": "ระบบผลิตไฟฟ้าจำหน่าย",
+   "credit": "3(3-0-6)",
+   "name_en": "Distributed Generation Systems",
+   "section": "elective"
+  },
+  "03601478": {
+   "code": "03601478",
+   "name_th": "การอนุรักษ์และการจัดการพลังงาน",
+   "credit": "3(3-0-6)",
+   "name_en": "Energy Conservation and Management",
+   "section": "elective"
+  },
+  "03601479": {
+   "code": "03601479",
+   "name_th": "ระบบยานยนต์ไฟฟ้า",
+   "credit": "3(3-0-6)",
+   "name_en": "Electric Vehicles Systems",
+   "section": "elective"
+  },
+  "03601496": {
+   "code": "03601496",
+   "name_th": "เรื่องเฉพาะทางวิศวกรรมไฟฟ้าและอิเล็กทรอนิกส์",
+   "credit": "3(3-0-6)",
+   "name_en": "Selected Topics in Electrical and Electronics Engineering",
+   "section": "elective"
+  },
+  "03601498": {
+   "code": "03601498",
+   "name_th": "ปัญหาพิเศษ",
+   "credit": "1-3",
+   "name_en": "Special Problems",
+   "section": "elective"
+  }
+ },
+ "desc": {
+  "03601211": {
+   "code": "03601211",
+   "name_th": "การวิเคราะห์วงจรไฟฟ้า I",
+   "credit": "3(3-0-6)",
+   "name_en": "Electric Circuit Analysis I",
+   "prereq": null,
+   "desc_th": "นิยาม แนวคิดพื้นฐานและหน่วย องค์ประกอบวงจร การวิเคราะห์โนดและ เมช ทฤษฎีบทวงจร ค่าความต้านทานไฟฟ้า ค่าความเหนี่ยวนำไฟฟ้า และค่าความจุ ไฟฟ้า วงจรอันดับหนึ่งและสอง แผนภาพเฟสเซอร์ สัญญาณรูปไซน์ วงจร กำลังไฟฟ้ากระแสสลับ ระบบสามเฟส",
+   "desc_en": "Definitions. Basic concept and units. Circuit elements. Node and mesh analysis. Circuit theorems. Resistance, inductance and capacitance. First and second order circuits. Phasor diagram. Sinusoidal signal. Alternating current power circuits. Three-phase systems."
+  },
+  "03601212": {
+   "code": "03601212",
+   "name_th": "การวิเคราะห์วงจรไฟฟ้า II",
+   "credit": "3(3-0-6)",
+   "name_en": "Electric Circuit Analysis II",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601211",
+   "desc_th": "ความถี่เชิงซ้อนและการวิเคราะห์ในร ะนาบเอส ฟังก์ชันวงจรข่าย ผลตอบสนองเชิงความถี่ การแปลงลาปลาซและการประยุกต์ใช้ในการวิเคราะห์วงจร รีโซแนนซ์และการสเกลวงจร วงจรแบบมีการเชื่อมร่วม หม้อแปลง วงจรโครงข่าย แบบสองพอร์ท",
+   "desc_en": "Complex frequency and s-plane analysis. Network function. Frequency response. Laplace transformation and its application to circuit analysis. Resonance and scaling circuits. Coupled circuits. Transformer. Two-port networks."
+  },
+  "03601213": {
+   "code": "03601213",
+   "name_th": "ปฏิบัติการวงจรไฟฟ้า",
+   "credit": "1(0-3-2)",
+   "name_en": "Electric Circuit Laboratory",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601211",
+   "desc_th": "ปฏิบัติการเกี่ยวกับเรื่องที่เรียนในวิชาการวิเคราะห์วงจรไฟฟ้า I",
+   "desc_en": "(03601211) Laboratory experiments on topics covered in Electric Circuit Analysis I (03601211)."
+  },
+  "03601214": {
+   "code": "03601214",
+   "name_th": "คณิตศาสตร์วิศวกรรมไฟฟ้า",
+   "credit": "3(3-0-6)",
+   "name_en": "Electrical Engineering Mathematics",
+   "prereq": null,
+   "desc_th": "เมทริกซ์ ระบบสมการและการแปลงเชิงเส้น เวกเตอร์และสเปซ ผลเฉลย สมการเชิงเส้นโดยวิธีเมทริกซ์ การแปลงลาปลาซและการแปลงผกผัน ผลเฉลยที่เป็น อนุกรมกำลัง ระบบสมการเชิงอนุพันธ์เชิงเส้นและไม่เชิงเส้น สมการเชิงอนุพันธ์ สามัญ การประยุกต์สมการเชิงอนุพันธ์กับปัญหาทางวิศวกรรม การประยุกต์ปัญหา การหาค่าเหมาะที่สุดทางวิศวกรรมไฟฟ้า",
+   "desc_en": "Matrices. Systems of linear equations and linear transformation. Vector and space. Solution of linear equations by matrices. Laplace transforms and inverse transforms. Power series solutions. System of linear and nonlinear differential equations. Ordinary differential equations. Applications of differential equations for engineering problems. Applications of optimization problems in electrical engineering."
+  },
+  "03601215": {
+   "code": "03601215",
+   "name_th": "ความน่าจะเป็นประยุกต์สำหรับวิศวกรไฟฟ้า",
+   "credit": "3(3-0-6)",
+   "name_en": "Applied Probability for Electrical Engineers",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 01417168",
+   "desc_th": "ความน่าจะเป็นแบบร่วมและแบบมีเงื่อนไข ความเป็นอิสระทางสถิติ ตัว แปรสุ่มแบบไม่ต่อเนื่องและแบบต่อเนื่อง ฟังก์ชันการแจกแจงและความหนาแน่น การดำเนินการบนตัวแปรสุ่มตัวเดียวและหลายตัว การคาดหมาย โมเมนต์และ ฟังก์ชันลักษณะเฉพาะ กฎของตัวเลขขนาดใหญ่ ผลรวมของตัวแปรสุ่ม การคำนวณ ความเชื่อถือได้เบื้องต้น การทดสอบรูปแบบการกระจายของข้อมูล",
+   "desc_en": "Joint and conditional probability. Statistical independence. Discrete and continuous random variables. Distribution and density functions. Operations on one and multiple random variables. Expectation, moments and characteristic functions. Law of large numbers. Sum of random variables. Basic reliability calculations. Testing the fit of a distribution of data."
+  },
+  "03601221": {
+   "code": "03601221",
+   "name_th": "เทคโนโลยีการสื่อสารและโครงข่ายไฟฟ้าอัจฉริยะ",
+   "credit": "3(3-0-6)",
+   "name_en": "Communication Technology and Smart Grid",
+   "prereq": null,
+   "desc_th": "การสื่อสารข้อมูลและเทคโนโลยีเครือข่ายคอมพิวเตอร์เบื้องต้น เทคโนโลยี อินเทอร์เน็ต เทคโนโลยีโทรคมนาคม โครงข่ายโทรศัพท์ เทคโนโลยีบรอดแบนด์ ระบบการจำหน่ายไฟฟ้า อุปกรณ์อัตโนมัติสำหรับการจำหน่ายไฟฟ้า การบูรณาการ ด้านการบริโภคไฟฟ้า การวัดอัจฉริยะ การประยุกต์เทคโนโลยีการสื่อสารสำหรับ โครงข่ายไฟฟ้าอัจฉริยะ",
+   "desc_en": "Introduction to data communication and computer network technology. Internet technology. Telecommunicati on technology. Telephone network. Broadband technology. Distribution system. Distribution automation equipment. Demand-side integration. Smart metering. Communication technology applications for smart grid."
+  },
+  "03601231": {
+   "code": "03601231",
+   "name_th": "วงจรและระบบอิเล็กทรอนิกส์ I",
+   "credit": "3(3-0-6)",
+   "name_en": "Electronic Circuits and Systems I",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601211",
+   "desc_th": "อุปกรณ์สารกึ่งตัวนำ ลักษณะเฉพาะกระแส แรงดัน และความถี่ การ วิเคราะห์และออกแบบวงจรไดโอด การวิเคราะห์และออกแบบวงจรทรานซิสเตอร์บี เจที มอส ซีมอส และไบซีมอส ตัวขยายสัญญาณเชิงดำเนินการและประยุกต์ใช้งาน โมดูลแหล่งจ่ายไฟ",
+   "desc_en": "Semiconductor devices. Current -voltage and frequency characteristics. Analysis and design of diode circuits. Analysis and design of BJT, MOS, CMOS and BiCMOS transistor circuits. Operational amplifier and its applications. Power supply module."
+  },
+  "03601232": {
+   "code": "03601232",
+   "name_th": "การออกแบบวงจรดิจิทัลและตรรกะ",
+   "credit": "3(3-0-6)",
+   "name_en": "Digital Circuits and Logic Design",
+   "prereq": null,
+   "desc_th": "ระบบจำนวนและรหัส พีชคณิตแบบบูลิน หลักการการออกแบบวงจร ตรรกะเชิงจัดหมู่และวงจรตรรกะเชิงจัดหมู่สำเร็จรูป การออกแบบวงจรโดยใช้คาร์ โน หลักการการออกแบบวงจรตรรกะเป็นลำดับและวงจรตรรกะเป็นลำดับสำเร็จรูป การออกแบบวงจรตรรกะโดยใช้สเตตแมชชีน การออกแบบวงจรตรรกะเป็นลำดับ แบบประสานเวลาและไม่ประสานเวลา วงจรรวมดิจิทัลตระกูลต่างๆ อุปกรณ์ตรรกะ แบบโปรแกรมได้การต่อเชื่อมกับวงจรแอนะล็อก การแนะนำวิธีใช้โปรแกรม คอมพิวเตอร์เพื่อช่วยออกแบบวงจรดิจิทัล",
+   "desc_en": "Number systems and codes. Boolean algebra. Combinational logic design principles and practices. Logic design by using Karnaugh map. Sequential logic design principles and practices. Logic design by using state machine. Synchronous and asynchronous sequential logic design. Various families of digital integrated circuits. Programmable logic devices. Interfacing with analogue circuits. Introduction to computer aid design for digital logic design."
+  },
+  "03601241": {
+   "code": "03601241",
+   "name_th": "สนามแม่เหล็กไฟฟ้าและคลื่น",
+   "credit": "3(3-0-6)",
+   "name_en": "Electromagnetic Fields and Waves",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 01417168",
+   "desc_th": "การวิเคราะห์เวกเตอร์ สนามไฟฟ้าสถิต กฎของคูลอมบ์ ศักย์และพลังงาน ตัวนำและไดอิเล็กทริก ความจุ กระแสแบบพาและแบบนำ ผลเฉลยของสมการลา ปลาซและสมการปัวซง สนามแม่เหล็ก ความเหนี่ยวนำ กระแสกระจัด สนามแม่เหล็กไฟฟ้าที่แปรค่าตามเวลา สมการแมกซ์เวล และคลื่นระนาบ",
+   "desc_en": "Vector analysis. Electrostatic fields. Coulomb's law. Potential and energy. Conductors and dielectric. Capacitance. Convection and conduction currents. Solution of Laplace’s and Poisson’s equations. Magnetic fields. Inductance. Displacement current. Time -varying electromagnetic fields. Maxwell’s equations and plane wave."
+  },
+  "03601251": {
+   "code": "03601251",
+   "name_th": "การแปลงผันพลังงานเครื่องกลไฟฟ้า I",
+   "credit": "3(3-0-6)",
+   "name_en": "Electromechanical Energy Conversion I",
+   "prereq": null,
+   "desc_th": "แหล่งต้นทางพลังงาน วงจรแม่เหล็ก หลักแม่เหล็กไฟฟ้าและการแปลงผัน พลังงานกลไฟฟ้า พลังงานและพลังงานร่วม หลักเครื่องจักรชนิดหมุน เครื่องจักร กระแสตรง วิธีการเริ่มเดินมอเตอร์กระแสตรง วิธีการควบคุมความเร็วมอเตอร์ กระแสตรง ทฤษฎีและการวิเคราะห์หม้อแปลงเฟสเดี่ยวและสามเฟส",
+   "desc_en": "Energy sources. Magnetic circuits. Principles of electromagnetic and electromechanical energy conversion. Energy and co -energy. Principles of rotating machines. Direct current machines. Starting method of direct current motors. Methods of direct current motors speed control. Theory and analysis of single phase and three phase transformers."
+  },
+  "03601252": {
+   "code": "03601252",
+   "name_th": "ปฏิบัติการการแปลงผันพลังงานเครื่องกลไฟฟ้า I",
+   "credit": "1(0-3-2)",
+   "name_en": "Electromechanical Energy Conversion Laboratory I",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601251 หรือพร้อมกัน",
+   "desc_th": "ปฏิบัติการเกี่ยวกับเรื่องที่เรียนในวิชาการแปลงผันพลังงานเครื่องกลไฟฟ้า I",
+   "desc_en": "(03601251) Laboratory experiments on topics covered in Electromechanical Energy Conversion I (03601251)."
+  },
+  "03601271": {
+   "code": "03601271",
+   "name_th": "การปฏิบัติงานทางวิศวกรรมไฟฟ้า",
+   "credit": "1(0-3-2)",
+   "name_en": "Practice in Electrical Engineering",
+   "prereq": null,
+   "desc_th": "การติดตั้งไฟฟ้าภายในอาคาร การใช้เครื่องมือวัด การวัดความต้านทานดิน การควบคุมการเริ่มเดินมอเตอร์เบื้องต้น",
+   "desc_en": "Electrical installation in buildi ng. Instrumental utilization. Grounding resistance measurement. Introduction to motor starting control."
+  },
+  "03601311": {
+   "code": "03601311",
+   "name_th": "สัญญาณและระบบ",
+   "credit": "3(3-0-6)",
+   "name_en": "Signals and Systems",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601212 หรือพร้อมกัน",
+   "desc_th": "สัญญาณและระบบต่อเนื่องทางเวลาและไม่ต่อเนื่องทางเวลา ระบบเชิงเส้น และไม่แปรตามเวลา การวิเคราะห์สัญญาณโดยใช้การแปลงฟูเรียร์ การแปลงลา ปลาซและการแปลงซี การประยุกต์สัญญาณและระบบ เทคนิคทันสมัยในการ วิเคราะห์สัญญาณและระบบ",
+   "desc_en": "Continuous-time and discrete-time signal and systems. Linear time-invariant systems. Signal analysis using Fourier transform. Laplace transform and Z-transform. Applications of signal and systems. Modern techniques in signal and system analysis."
+  },
+  "03601314": {
+   "code": "03601314",
+   "name_th": "การประมวลสัญญาณดิจิทัล",
+   "credit": "3(3-0-6)",
+   "name_en": "Digital Signal Processing",
+   "prereq": null,
+   "desc_th": "สัญญาณเวลาไม่ต่อเนื่องและระบบ การแปลงฟูเรียร์และการแปลงฟูเรียร์ไม่ ต่อเนื่อง การแปลงซี การชักตัวอย่างสัญญาณเวลาต่อเนื่อง การวิเคราะห์การแปลง ของระบบไม่เปลี่ยนแปลงตามเวลาเชิงเส้น โครงสร้างของระบบเวลาไม่ต่อเนื่อง การ ประยุกต์การประมวลสัญญาณดิจิทัล",
+   "desc_en": "Discrete-time signals and systems. Fourier transform and discrete Fourier transform. Z transform. Sampling of continuous time signal. Transform analysis of linear time-invariant systems. Structures for discrete-time systems. Digital signal processing applications."
+  },
+  "03601315": {
+   "code": "03601315",
+   "name_th": "ปฏิบัติการประมวลสัญญาณดิจิทัล",
+   "credit": "1(0-3-2)",
+   "name_en": "Digital Signal Processing Laboratory",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601314 หรือพร้อมกัน",
+   "desc_th": "ปฏิบัติการเกี่ยวกับเรื่องที่เรียนในวิชาการประมวลสัญญาณดิจิทั ล",
+   "desc_en": "(03601314) Laboratory experiments on topics covered in Digital Signal Processing (03601314)."
+  },
+  "03601321": {
+   "code": "03601321",
+   "name_th": "หลักการสื่อสาร",
+   "credit": "3(3-0-6)",
+   "name_en": "Principles of Communications",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601311",
+   "desc_th": "บทนำสู่สัญญาณและระบบ สเปคตรัมของสัญญาณและการประยุกต์ของ อนุกรมและการแปลงฟูเรียร์ การกล้ำสัญญาณเอเอ็ม ดีเอสบี เอสเอสบี เอฟเอ็ม เอ็น บีเอฟเอ็ม พีเอ็ม สัญญาณรบกวนในการสื่อสารแอนะล็อก การกล้ำสัญญาณ เบสแบนด์ไบนารี ทฤษฎีการสุ่มสัญญาณของไนควิสต์ การกล้ำสัญญาณแอนะล็อก พัลส์ การกล้ำสัญญาณรหัสพัลส์ การกล้ำสัญญาณเดลต้า การมัลติเพล็ก การ มัลติเพล็กแบบแบ่งเวลา บทนำสู่สายส่ง การแพร่กระจายคลื่นวิทยุ ส่วนประกอบ ไมโครเวฟและการสื่อสารดาวเทียม และการสื่อสารทางแสง",
+   "desc_en": "Introduction to signal and systems. Spectrum of signal and applications of Fourier series and transform. Analog modulation. DSB. SSB. FM. NBFM. PM. Noise in analog communication. Binary baseband modulation. Nyquist’s sampling theory and quantization. Pulse analog modulation. Pulse code modulation. Delta modulation. Multiplexing. Time-division multiplexing. Introduction to transmission lines. Radio wave propagation. Microwave components and satellite communications and optical communication."
+  },
+  "03601323": {
+   "code": "03601323",
+   "name_th": "ปฏิบัติการไฟฟ้าสื่อสาร",
+   "credit": "1(0-3-2)",
+   "name_en": "Communication Laboratory",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601321 หรือพร้อมกัน",
+   "desc_th": "ปฏิบัติการเกี่ยวกับเรื่องที่เรียนในวิชาหลักการสื่อสาร (03601321)",
+   "desc_en": "Laboratory experiments on topics covered in Principles of Communications (03601321)."
+  },
+  "03601331": {
+   "code": "03601331",
+   "name_th": "ปฏิบัติการอิเล็กทรอนิกส์",
+   "credit": "1(0-3-2)",
+   "name_en": "Electronics Laboratory",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601231",
+   "desc_th": "ปฏิบัติการเกี่ยวกับเรื่องที่เรียนในวิชาวงจรและระบบอิเล็กทรอนิกส์ I",
+   "desc_en": "(03601231) Laboratory experiments on topics covered in Electronic Circuits and Systems I (03601231)."
+  },
+  "03601332": {
+   "code": "03601332",
+   "name_th": "ไมโครโพรเซสเซอร์",
+   "credit": "3(3-0-6)",
+   "name_en": "Microprocessors",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601232",
+   "desc_th": "แนะนำไมโครโพรเซสเซอร์ โครงสร้างของไมโครโพรเซสเซอร์ การเขียน โปรแกรมแอสเซมบลี้ เทคนิคการเชื่อมต่อ หน่วยความจำ การเชื่อมต่อรับเข้าและ ส่งออก การประยุกต์ใช้ไมโครโพรเซสเซอร์ในระบบการวัด การประยุกต์ใช้ไมโคร โพรเซสเซอร์ในระบบอัตโนมัติ",
+   "desc_en": "Introduction to microprocessors. Structure of microprocessors. Assembly programming. Interface techniques. Memories. Input-output interfaces. Applications of microprocessors in instrumentation systems. Applications of microprocessors in automation systems."
+  },
+  "03601333": {
+   "code": "03601333",
+   "name_th": "ปฏิบัติการไมโครโพรเซสเซอร์",
+   "credit": "1(0-3-2)",
+   "name_en": "Microprocessors Laboratory",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601332 หรือพร้อมกัน",
+   "desc_th": "ปฏิบัติการสำหรับวิชาไมโครโพรเซสเซอร์",
+   "desc_en": "Laboratory for microprocessors."
+  },
+  "03601334": {
+   "code": "03601334",
+   "name_th": "วงจรและระบบอิเล็กทรอนิกส์ II",
+   "credit": "3(3-0-6)",
+   "name_en": "Electronic Circuits and Systems II",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601231",
+   "desc_th": "วงจรขยายหลายขั้นของทรานซิสเตอร์ การตอบสนองต่อความถี่ของ วงจรขยายบีเจทีและเจเฟท ผลมิลเลอร์ ผลเชิงความถี่หลายขั้น วงจรสะท้อนกระแส และวงจรกำเนิดกระแส วงจรขยายผลต่างแบบไบเฟท ไบมอสและไบซีมอส การ ประยุกต์ออปแอมป์ขั้นสูง วงจรกรองออปแอมป์แบบแอ็กทิฟ ออฟเซตและความถี่ ของออปแอมป์ การวิเคราะห์ระบบป้อนกลับทางลบ วงจรออสซิลเลเตอร์แบบปรับ ค่าได้ วงจรขยายกำลังรูปแบบต่างๆ วงจรรวมเชิงเส้นและดิจิทัล",
+   "desc_en": "Transistor multistage amplifiers. Frequency response of BJT and JFET amplifier circuits. Miller effect. Multistage frequency effect. Current mirror and current source circuits. BiFET, BiMOS and BiCMOS differential amplifiers. Advanced op-amp applications. Op-amp active filters. Op-amp offset and frequency. Negative feedback system analysis. Tuned-oscillator circuits. Different class of power amplifiers. Linear and digital integrated circuits."
+  },
+  "03601335": {
+   "code": "03601335",
+   "name_th": "ปฏิบัติการอิเล็กทรอนิกส์ขั้นสูง",
+   "credit": "1(0-3-2)",
+   "name_en": "Advanced Electronics Laboratory",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601331",
+   "desc_th": "วงจรขยาย วงจรแปลงกระแสเป็นแรงดัน วงจรแปลงแรงดันเป็นกระแส วงจรปรับตำแหน่งศูนย์และความชัน วงจรกรองความถี่ การวัดผลตอบสนองต่อ ความถี่ การวัดความผิดเพี้ยน การวัดโครงข่ายสองทาง",
+   "desc_en": "Amplifier circuits. Current to voltage converter circuit. Voltage to current converter circuit. Zero and span circuit. Filter circuits. Measurement of frequency response. Measurement of harmonic distortion. Measurement of two port network."
+  },
+  "03601336": {
+   "code": "03601336",
+   "name_th": "การออกแบบและประยุกต์วงจรอิเล็กทรอนิกส์",
+   "credit": "3(3-0-6)",
+   "name_en": "Design and Application of Electronic Circuits",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601231",
+   "desc_th": "การออกแบบวงจรเรียงกระแสหนึ่งเฟสและหลายเฟส วงจรรักษาระดับ แรงดันคงค่าแบบเชิงเส้นและแบบสวิตช์ วงจรขยายแรงดันและกำลัง การขับ มอสเฟทกำลังและไอจีบีที การออกแบบวงจรผกผัน การลดการสูญเสียในวงจร อิเล็กทรอนิกส์ การออกแบบวงจรอิเล็กทรอนิกส์โดยโปรแกรมคอมพิวเตอร์ การ ออกแบบแผ่นพีซีบี การประยุกต์วงจรอิเล็กทรอนิกส์",
+   "desc_en": "Rectifier design for single phase and multiphase. Linear and switching voltage regulators. Voltage and power amplifiers. Driving power MOSFET and IGBT. Inverter design. Loss reduction in electronic circuit. Electronic circuit design by computer program. PCB design. Electronic circuit applications."
+  },
+  "03601351": {
+   "code": "03601351",
+   "name_th": "การแปลงผันพลังงานเครื่องกลไฟฟ้า II",
+   "credit": "3(3-0-6)",
+   "name_en": "Electromechanical Energy Conversion II",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601251",
+   "desc_th": "หม้อแปลงในระบบสามเฟส โครงสร้างเครื่องจักรกลไฟฟ้ากระแสสลับ เครื่องจักรกลซิงโครนัส เครื่องจักรกลเหนี่ยวนำเฟสเดี่ยวและสามเฟส การป้องกัน เครื่องจักรกลไฟฟ้า",
+   "desc_en": "Transformers in three phase systems. AC electrical machine structure. Synchronous machines. Single phase and three phase induction machines. Protection of electrical machines."
+  },
+  "03601352": {
+   "code": "03601352",
+   "name_th": "ปฏิบัติการการแปลงผันพลังงานเครื่องกลไฟฟ้า II",
+   "credit": "1(0-3-2)",
+   "name_en": "Electromechanical Energy Conversion Laboratory II",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601351",
+   "desc_th": "ปฏิบัติการเกี่ยวกับเรื่องที่เรียนในวิชาการแปลงผันพลังงานเครื่องกลไฟฟ้า II (03601351) และเรื่องอื่นๆ ที่เกี่ยวข้อง",
+   "desc_en": "Laboratory experiments on topics covered in Electromechanical Energy Conversion II (03601351) and others related topics."
+  },
+  "03601353": {
+   "code": "03601353",
+   "name_th": "การออกแบบระบบไฟฟ้า",
+   "credit": "3(3-0-6)",
+   "name_en": "Electrical System Design",
+   "prereq": null,
+   "desc_th": "แนวคิดและข้อพึงปฏิบัติสำหรับการออกแบบพื้นฐาน มาตรฐาน แบบ แผนการจ่ายกำลังไฟฟ้า สายและเคเบิลไฟฟ้า รางเดินสาย อุปกรณ์และเครื่องไฟฟ้า การคำนวณโหลด การปรับปรุงตัวประกอบกำลังและการออกแบบคลังเก็บประจุ การออกแบบระบบแสงสว่างและเครื่องใช้ การออกแบบวงจรมอเตอร์ การกำหนด รายการโหลด สายป้อน และสายประธาน ระบบกำลังไฟฟ้าฉุกเฉิน การคำนวณ กระแสลัดวงจร ระบบต่อลงดินสำหรับการติดตั้งไฟฟ้า ความปลอดภัยในการ ออกแบบ",
+   "desc_en": "Concept and code of practice for basic design. Standards. Power distribution schemes. Electrical wires and cables. Raceways. Electrical equipment and apparatus. Load calculation. Power factor improvement and capacitor bank circuit design. Lighting and appliances circuit design. Motor circuit design. Load, feeder and main schedule. Emergency power systems. Short circuit current calculation. Grounding systems for electrical installation. Design safety."
+  },
+  "03601355": {
+   "code": "03601355",
+   "name_th": "วิศวกรรมไฟฟ้าแรงสูง",
+   "credit": "3(3-0-6)",
+   "name_en": "High-Voltage Engineering",
+   "prereq": null,
+   "desc_th": "การใช้ประโยชน์ไฟฟ้าแรงสูงและแรงดันเกินในระบบไฟฟ้ากำลัง การกำเนิด ไฟฟ้าแรงสูงเพื่อการทดสอบ เทคนิคการวัดไฟฟ้าแรงสูง ความเครียดสนามไฟฟ้า และเทคนิคการฉนวน การเบรกดาวน์ในไดอิเล็กทริกที่เป็นก๊าซ ของเหลว และ ของแข็ง เทคนิคการทดสอบไฟฟ้าแรงสูง ฟ้าผ่าและการป้องกัน การประสาน สัมพันธ์ฉนวน",
+   "desc_en": "Uses of high voltage and overvoltage in power systems. Generation of high voltage for testing. High voltage measurement techniques. Electric field stress and insulation techniques. Breakdown of gas, liquid and solid dielectric. High v oltage testing techniques. Lightning and protection. Insulation coordination."
+  },
+  "03601356": {
+   "code": "03601356",
+   "name_th": "วิศวกรรมการส่องสว่าง",
+   "credit": "3(3-0-6)",
+   "name_en": "Illumination Engineering",
+   "prereq": null,
+   "desc_th": "แหล่งกำเนิดแสง แสงและสี ดวงโคม การส่องสว่างมูลฐาน หลักการคำนวณ ในการส่องสว่าง เทคนิคการให้แสงสว่างภายในอาคาร และภายนอกอาคาร ประสิทธิภาพพลังงานของการส่องสว่าง ผลของมลภาวะทางแสง",
+   "desc_en": "Light sources. Light and color. Luminaries. Basic illumination. Principle of lighting calculation. Interior and exterior lighting techniques. Energy efficiency of lighting. Effects of light pollution."
+  },
+  "03601357": {
+   "code": "03601357",
+   "name_th": "ระบบไฟฟ้ากำลัง",
+   "credit": "3(3-0-6)",
+   "name_en": "Electrical Power System",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601214",
+   "desc_th": "หลักการของระบบการผลิต ระบบส่งจ่าย และระบบจำหน่าย ลักษณะและ แบบจำลองของเครื่องกำเนิดไฟฟ้า หม้อแปลงกำลัง และสายส่ง ความสัมพันธ์ของ แรงดันไฟฟ้าและกระแสไฟฟ้าในระบบส่งจ่ายและระบบจำหน่าย วงจรกำลังไฟฟ้า กระแสสลับ ระบบต่อหน่วย พื้นฐานการไหลของโหลด พื้นฐานการคำนวณค่า ความผิดพร่อง พื้นฐานการวิเคราะห์การลัดวงจรแบบสมมาตรและไม่สมมาตร เสถียรภาพแบบชั่วครู่ การดำเนินงานระบบอย่างประหยัด",
+   "desc_en": "Principles of generation, transmission and distribution system. Characteristics and models of generator, power transformer and transmission line. Voltage and current relationship in transmission and distribution systems. Alternating current power circuit. Per unit system. Basic of load flow. Basic of fault calculation. Basic of symmetrical and unsymmetrical short circuit analysis. Transient stability. Economical system operation."
+  },
+  "03601358": {
+   "code": "03601358",
+   "name_th": "ปฏิบัติการวิศวกรรมไฟฟ้าแรงสูง",
+   "credit": "1(0-3-2)",
+   "name_en": "High-Voltage Engineering Laboratory",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601355",
+   "desc_th": "ปฏิบัติการเกี่ยวกับเรื่องที่เรียนในวิชาวิศวกรรมไฟฟ้าแรงสูง",
+   "desc_en": "Laboratory experiments on topics covered in High -Voltage Engineering."
+  },
+  "03601361": {
+   "code": "03601361",
+   "name_th": "เครื่องมือวัดและการวัดทางไฟฟ้า",
+   "credit": "3(3-0-6)",
+   "name_en": "Electrical Instruments and Measurements",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601231",
+   "desc_th": "หน่วยและมาตรฐานของการวัดทางไฟฟ้า ประเภทและคุณลักษณะเฉพาะ ของเครื่องมือวัด การวิเคราะห์การวัด การวัดกระแสไฟฟ้าและแรงดันไฟฟ้า กระแสตรงและกระแสสลับโดยใช้เครื่องมือวัดอนาล็อกและดิจิตอล การวัด กำลังไฟฟ้า เพาเวอร์แฟคเตอร์และพลังงานไฟฟ้า การวัดค่าความต้านทาน ความ เหนี่ยวนำและความจุไฟฟ้า การวัดความถี่และช่วงเวลา สัญญาณรบกวน ทรานส์ดิวเซอร์ การสอบเทียบ",
+   "desc_en": "Units and standard of electrical measurement. Instrument classification and characteristics. Measurement analysis. Measurement of DC and AC current and voltage using analog and digital instruments. Power, power factor and energy measurement. Measurement of resistance, inductance and capacitance. Frequency and period/time interval measurement. Noise. Transducers. Calibration."
+  },
+  "03601362": {
+   "code": "03601362",
+   "name_th": "ระบบควบคุมเชิงเส้น",
+   "credit": "3(3-0-6)",
+   "name_en": "Linear Control Systems",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601212",
+   "desc_th": "แบบจำลองทางคณิตศาสตร์ของระบบ ฟังก์ชันถ่ายโอน แบบจำลองของ ระบบในโดเมนเวลาและโดเมนความถี่ แบบจำลองพลวัตและการตอบสนองพลวัต ของระบบ ระบบอันดับที่หนึ่งและสอง การควบคุมแบบวงเปิดและวงปิด การ ควบคุมแบบปัอนกลับและความไว รูปแบบการควบคุมแบบป้อนกลับ แนวความคิด และเงื่อนไขของเสถียรภาพของระบบ วิธีของการทดสอบเสถียรภาพ",
+   "desc_en": "Mathematical models of systems. Transfer function. System models on time domain and frequency domain. Dynamic models and dynamic responses of systems. First and second order systems. Open- loop and closed-loop control. Feedback control and sensitivity. Types of feedback control. Concepts and conditions of system stability. Methods of stability test."
+  },
+  "03601363": {
+   "code": "03601363",
+   "name_th": "ปฏิบัติการการควบคุมและการวัด",
+   "credit": "1(0-3-2)",
+   "name_en": "Control and Measurement Laboratory",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601361 และ 03601362 หรือพร้อมกัน",
+   "desc_th": "ปฏิบัติการเกี่ยวกับเรื่องที่เรียนในวิชาเครื่องมือวัดและการวัดทางไฟฟ้า และระบบควบคุมเชิงเส้น",
+   "desc_en": "Laboratory experiments on topics covered in Electrical Instruments and Measurements and Linear Control Systems."
+  },
+  "03601364": {
+   "code": "03601364",
+   "name_th": "ระบบอัตโนมัติทางอุตสาหกรรม",
+   "credit": "3(3-0-6)",
+   "name_en": "Industrial Automation Systems",
+   "prereq": null,
+   "desc_th": "แนะนำการควบคุมทางอุตสาหกรรม สภาวะสัญญาณแอนะล็อก สภาวะ สัญญาณดิจิทัล ตัวรับรู้ ตัวแปรสัญญาณ ตัวควบคุมแอนะล็อก ตัวควบคุมดิจิทัล การควบคุมลำดับ ตัวควบคุมตรรกะโปรแกรมได้ (พีแอลซี) การเขียนโปรแกรมพี แอลซี การเชื่อมต่อพีแอลซี การเชื่อมต่อระหว่างมนุษย์และเครื่องจักร การ ประยุกต์ใช้พีแอลซีในระบบอัตโนมัติ",
+   "desc_en": "Introduction to industrial control. Analog signal conditioning. Digital signal conditioning. Sensors and transducers. Analog controllers. Digital controllers. Sequence control. Programmable logic controllers (PLC). PLC programming. PLC interfaces. Human-machine interface. PLC applications in automation systems."
+  },
+  "03601365": {
+   "code": "03601365",
+   "name_th": "ปฏิบัติการระบบอัตโนมัติทางอุตสาหกรรม",
+   "credit": "1(0-3-2)",
+   "name_en": "Industrial Automation Systems Laboratory",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601364 หรือพร้อมกัน",
+   "desc_th": "ปฏิบัติการเกี่ยวกับเรื่องที่เรียนในวิชาระบบอัตโนมัติทางอุตสาหกรรม",
+   "desc_en": "(03601364) Laboratory experiments on topics covered in Industrial Automation Systems (03601364)."
+  },
+  "03601371": {
+   "code": "03601371",
+   "name_th": "การเตรียมความพร้อมก่อนฝึกงาน",
+   "credit": "1(0-3-2)",
+   "name_en": "Internship Preparation",
+   "prereq": null,
+   "desc_th": "การใช้ซอฟต์แวร์คอมพิวเตอร์ การนำเสนอและรายงาน การใช้งาน ซอฟต์แวร์สำเร็จรูปทางวิศวกรรมไฟฟ้า การใช้งานเครื่องมือวัด การพัฒน าด้าน บุคลิกภาพ ความปลอดภัย จรรยาบรรณวิศวกร",
+   "desc_en": "Computer software utilization. Presentation and report. Electrical engineering software utilization. Instrument utilization. Personality development. Safety. Ethics of engineer."
+  },
+  "03601382": {
+   "code": "03601382",
+   "name_th": "โปรแกรมประยุกต์สำหรับวิศวกรไฟฟ้า",
+   "credit": "3(3-0-6)",
+   "name_en": "Application Programs for Electrical Engineers",
+   "prereq": null,
+   "desc_th": "หลักการออกแบบและจำลองระบบไฟฟ้า โปรแกรมประยุกต์สำหรับการ สร้างแผนผังไฟฟ้า การวิเคราะห์และการวางแผนระบบกำลัง การวิเคราะห์และสร้าง แบบจำลองของระบบควบคุม การออกแบบและการจำลองระบบอิเล็กทรอนิกส์ กำลังและการขับเคลื่อนมอเตอร์ โครงงานการประยุกต์โปรแกรมคอมพิวเตอร์ทาง วิศวกรรมไฟฟ้า",
+   "desc_en": "Electrical system design and simulation principles. Application programs for creating electrical schematic, power system analysis and planning, control system analysis and modelling, design and simulation of power electronics system and motor drive. Electrical engineering application program project."
+  },
+  "03601432": {
+   "code": "03601432",
+   "name_th": "การออกแบบประยุกต์วงจรรวมแอนะล็อก",
+   "credit": "3(3-0-6)",
+   "name_en": "Analog Integrated Circuit Application Designs",
+   "prereq": null,
+   "desc_th": "หลักมูลวงจรรวมแอนะล็อก การวิเคราะห์ป้อนกลับทางลบและอัตราขยาย วงวน การออกแบบวงจรประยุกต์ ตัวเปลี่ยนแรงดันเป็นกระแสและกระแสเป็น แรงดัน วงจรขยายกระแส วงจรขยายผลต่าง วงจรขยายของวิชาการเครื่องมือ การ ให้กำลังวงจรรวม การป้อนกลับด้วยกระแส วงจรขยายแบบต่อเรียง วงจรขยาย แรงดันต่ำ ชนิดและการประยุกต์วงจรกรองแอ็กทิฟ ตัวควบคุมการสลับ วงจร แรงดันอ้างอิง ตัวเปลี่ยนสัญญาณแอนะล็อกเป็นดิจิทัลและดิจิทัลเป็นแอนะล็อก วงจรขยายแบบไม่เชิงเส้น วงจรเฟสล็อกลูป",
+   "desc_en": "Analog integrated circuit fundamentals. Negative feedback and loop gain analysis. Design of application circuits; voltage to current and current to voltage converters. Current amplifiers. Differential amplifiers. Instrumentation amplifiers. Integrated circuit powering. Current-feedback. Cascade amplifiers. Low-voltage amplifiers. Type and application of active filters. Switching regulators. Voltage reference circuits. Analog to digital and digital to analog converters. Nonlinear amplifiers. Phase-locked loop circuit."
+  },
+  "03601433": {
+   "code": "03601433",
+   "name_th": "อิเล็กทรอนิกส์อุตสาหกรรม",
+   "credit": "3(3-0-6)",
+   "name_en": "Industrial Electronics",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601231 หรือพร้อมกัน",
+   "desc_th": "วงจรอิเล็กทรอนิกส์สำหรับการผลิตแบบอัตโนมัติ อุปกรณ์สารกึ่งตัวนำ กำลัง อุปกรณ์ด้านเข้าและส่งออกสำหรับการควบคุมทางอุตสาหกรรม หลักการ พื้นฐานของวงจรอิเล็กทรอนิกส์กำลัง วงจรเรียงกระแสแบบควบคุมได้ วงจรแปลง ผันกำลังไฟฟ้า รีเลย์ชนิดโซลิดสเตต หุ่นยนต์อุตสาหกรรมและการสื่อสารระหว่าง เครื่องจักรกลอัจฉริยะ",
+   "desc_en": "Electronic circuits for automatic manufacturing. Power semiconductor devices. Input and output devices for industrial control. Basic principles of power electronic circuits. Controlled rectifiers. Converter circuit. Solid-state relay. Industrial robots and data communication between intelligent machines."
+  },
+  "03601434": {
+   "code": "03601434",
+   "name_th": "การพัฒนาระบบอิเล็กทรอนิกส์โดยใช้คอมพิวเตอร์ช่วย",
+   "credit": "3(3-0-6)",
+   "name_en": "Computer Aided Electronic System Development",
+   "prereq": null,
+   "desc_th": "กระบวนการออกแบบเชิงวิศวกรรม การพัฒนาระบบอิเล็กทรอนิกส์ การ พัฒนาโดยใช้คอมพิวเตอร์ช่วยและวงจรชีวิตของระบบอิเล็กทรอนิกส์ เทคโนโลยี แผ่นวงจรพิมพ์ การยึดพื้นผิวและการสร้างต้นแบบรวดเร็ว การทำเอกสารเชิง เทคนิค ซอฟต์แวร์ที่เกี่ยวข้องกับการออกแบบระบบอิเล็กทรอนิกส์ การจัดการ แผนผัง คลังและส่วนประกอบ การตรวจสอบกฎทางไฟฟ้าและรายการการเชื่อมต่อ การวิเคราะห์และการจำลองการทำงานวงจร การออกแบบระดับแผ่น ข้อแนะนำ การออกแบบระบบที่มีความต้องการพิเศษ",
+   "desc_en": "Engineering design process. Electronic system development. Computer aided development and life cycle of electronic system. Printed circuit board, surface -mount and rapid prototyping technologies. Technical documentation. Electronic system design related software. Schematic, library and component management. Electrical rule check and netlist. Circuit analysis and simulation. Board level design. Design recommendations for systems with special requirements."
+  },
+  "03601451": {
+   "code": "03601451",
+   "name_th": "ความเชื่อถือได้เบื้องต้นของระบบกำลัง",
+   "credit": "3(3-0-6)",
+   "name_en": "Basic Power System Reliability",
+   "prereq": null,
+   "desc_th": "นิยามและแนวคิดของความเชื่อถือได้ การประยุกต์ใช้งานการแจกแจงแบบ ทวินาม การสร้างแบบจำลองโครงข่ายและการประเมินผลของระบบอย่างง่ายและ ซับซ้อน การประเมินผลความเชื่อถือได้ของระบบโดยใช้การแจกแจง โซ่มาร์คอฟ แบบไม่ต่อเนื่อง กระบวนการมาร์คอฟแบบต่อเนื่อง เทคนิคความถี่และช่วงเวลา ดรรชนีการขัดข้องโดยการจำลองแบบมอนติคาโล",
+   "desc_en": "Reliability definitions and concepts. Application of the binomial distribution. Network modeling and evaluation of simple and complex system. System reliability evaluation using probability distributions. Discrete Markov chains. Continuous Markov processes. Frequency and duration techniques. Monte Carlo simulation interruption indices."
+  },
+  "03601452": {
+   "code": "03601452",
+   "name_th": "โรงจักรไฟฟ้ากำลัง",
+   "credit": "3(3-0-6)",
+   "name_en": "Electric Power Plants",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601251",
+   "desc_th": "เส้นโค้งโหลด โรงจักรไฟฟ้าดีเซล โรงจักรไฟฟ้าพลังไอน้ำ โรงจักรไฟฟ้า กังหันแก๊ส โรงจักรไฟฟ้าพลังงานความร้อนร่วม โรงจักรไฟฟ้าพลังน้ำ โรงจักรพลัง นิวเคลียร์ แหล่งกำเนิดพลังงานทดแทน ประเภทของสถานีไฟฟ้าย่อย อุปกรณ์สถานี ไฟฟ้าย่อย การวางผังสถานีไฟฟ้าย่อย การป้องกันฟ้าผ่า การต่อลงดิน เศรษฐศาสตร์ ทางด้านระบบไฟฟ้ากำลัง",
+   "desc_en": "Load curve. Diesel power plant. Steam power plant. Gas turbine power plant. Combined cycle power plant. Hydro power plant. Nuclear power plant. Renewable energy sources. Type of substation. Substation equipment. Substation layout. Lightning protection. Grounding systems. Economic operation in power system."
+  },
+  "03601454": {
+   "code": "03601454",
+   "name_th": "ปฏิบัติการระบบไฟฟ้ากำลัง",
+   "credit": "1(0-3-2)",
+   "name_en": "Electrical Power System Laboratory",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601357",
+   "desc_th": "ปฏิบัติการเกี่ยวกับเรื่องที่เรียนในวิชาระบบไฟฟ้ากำลัง",
+   "desc_en": "Laboratory experiments on topics covered in Electrical Power System."
+  },
+  "03601456": {
+   "code": "03601456",
+   "name_th": "การป้องกันระบบไฟฟ้ากำลัง",
+   "credit": "3(3-0-6)",
+   "name_en": "Power System Protection",
+   "prereq": "วิชาที่ต้องเรียนมาก่อนหรือพร้อมกัน: 03601357",
+   "desc_th": "พื้นฐานของการป้องกันในทางปฏิบัติ หม้อแปลงเครื่องมือวัดและตัวแปลง สัญญาณ อุปกรณ์ป้องกันและระบบป้องกัน การป้องกันกระแสเกินและการบกพร่อง ลงดิน การป้องกันแบบผลต่าง การป้องกันสายส่งโดยใช้รีเลย์แบบวัดระยะทางและ รีเลย์แบบนำร่อง การป้องกันหม้อแปลง การป้องกันเครื่องกำเนิดไฟฟ้า การป้องกัน มอเตอร์ การป้องกันในเขตของบัส อุปกรณ์ป้องกันแบบดิจิตอลเบื้องต้น",
+   "desc_en": "Basic of practical protection. Instrument transformer and transducers. Protection devices and protection systems. Overcurrent and earth fault protection. Differential protection. Transmission line protection by distance relaying and pilot relaying. Transformer protection. Generator protection. Motor protection. Bus zone protection. Introduction to digital protection devices."
+  },
+  "03601457": {
+   "code": "03601457",
+   "name_th": "ระบบไฟฟ้าและระบบสัญญาณในอาคาร",
+   "credit": "3(3-0-6)",
+   "name_en": "Electrical Systems and Signal Systems in Building",
+   "prereq": null,
+   "desc_th": "ระบบแจ้งเหตุเพลิงไหม้ ระบบโทรศัพท์ ระบบเสียง ระบบเอ็มเอทีวี ระบบ ป้องกันฟ้าผ่า เครื่องกำเนิดไฟฟ้าสำรอง ระบบอื่นๆ สำหรับอาคารสมัยใหม่",
+   "desc_en": "Fire alarm systems. Telephone systems. Sound systems. MATV systems. Lightning protection systems. Standby generators. Other systems for modern buildings."
+  },
+  "03601458": {
+   "code": "03601458",
+   "name_th": "การผลิต ส่ง และจำหน่ายกำลังไฟฟ้า",
+   "credit": "3(3-0-6)",
+   "name_en": "Electrical Power Generation, Transmission and Distribution",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601251",
+   "desc_th": "โครงสร้างระบบไฟฟ้ากำลัง แหล่งกำเนิดพลังงานไฟฟ้า โรงจักรกำลังไฟฟ้า แบบใช้พลังงานสิ้นเปลืองและพลังงานทดแทน ลักษณะเฉพาะโหลด ลักษณะเฉพาะ เครื่องกำเนิดไฟฟ้าและแบบจำลอง ลักษณะเฉพาะหม้อแปลงไฟฟ้ากำลังและ แบบจำลอง ลักษณะเฉพาะสายส่งไฟฟ้าและแบบจำลอง ระบบจำหน่ายกำลังไฟฟ้า อุปกรณ์ของระบบไฟฟ้ากำลัง การจำลองระบบไฟฟ้ากำลังเบื้องต้น",
+   "desc_en": "Power system structure. Sources of electric energy. Conventional and renewable energy power plants. Load characteristics. Generator characteristics and models. Power transformer characteristics and models. Transmission line parameters and models. Electrical power distribution systems. Power system equipment. Introduction to power system simulation."
+  },
+  "03601459": {
+   "code": "03601459",
+   "name_th": "ความปลอดภัยทางวิศวกรรมไฟฟ้า",
+   "credit": "3(3-0-6)",
+   "name_en": "Safety in Electrical Engineering",
+   "prereq": null,
+   "desc_th": "อันตรายจากไฟฟ้าและมาตรการเพื่อความปลอดภัย สาเหตุของการเกิด อุบัติเหตุและการบาดเจ็บจากไฟฟ้า ไฟฟ้าดูด แรงดันช่วงก้าว และแรงดันสัมผัส ไฟฟ้าสถิต การเกิดประกายไฟจากการอาร์คและการป้องกัน การแยกโดดทางไฟฟ้า การต่อลงดิน การต่อถึงกันและชิลด์ทางไฟฟ้า การทดสอบความปลอดภัยทางไฟฟ้า อุปกรณ์ป้องกันวงจรไฟฟ้า แนวปฏิบัติเพื่อความปลอดภัยในระบบไฟฟ้าแรงดันต่ำ และระบบไฟฟ้าแรงดันสูง ความปลอดภัยทางไฟฟ้าในสถานที่ทำงาน",
+   "desc_en": "Electrical hazards and safety measure. Cause of electrical accidents and injuries. Electric shock. Step and touch potent ials. Electrostatic discharge. Electrical arc flash and protection. Electrical isolation. Practical grounding. Bonding and shielding. Electrical safety testing. Circuit protection devices. Electrical safety guidance for low- voltage and high-voltage systems. Electrical safety in the workplaces."
+  },
+  "03601461": {
+   "code": "03601461",
+   "name_th": "การควบคุมกระบวนการ",
+   "credit": "3(3-0-6)",
+   "name_en": "Process Control",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601361 และ 03601362",
+   "desc_th": "องค์ประกอบของระบบควบคุมกระบวนการ ระบบควบคุมกระบวนการ แบบไม่ต่อเนื่องและแบบต่อเนื่อง ระบบควบคุมแบบพีไอดี การควบคุม แบบ ป้อนกลับ การควบคุมแบบป้อนตรง การควบคุมแบบปรับตัว การควบคุมแบบ คาดการณ์ ตัวอย่างกระบวนการควบคุมในอุตสาหกรรม",
+   "desc_en": "Elements in process control system. Discrete and continuous process control system. PID control system. Feedback control. Feedforward control. Adaptive control and predictive control. Examples of industrial process control."
+  },
+  "03601462": {
+   "code": "03601462",
+   "name_th": "เซนเซอร์อุตสาหกรรม",
+   "credit": "3(3-0-6)",
+   "name_en": "Industrial Sensors",
+   "prereq": "วิชาที่ต้องเรียนมาก่อนหรือพร้อมกัน: 03601231",
+   "desc_th": "หลักการและการประยุกต์ใช้เซนเซอร์อุตสาหกรรม ประกอบด้วยสวิตช์ลิมิต เซนเซอร์แสง เซนเซอร์ชนิดพร็อกซิมิตี้ เซนเซอร์ชนิดอัลตร้าโซนิก เซนเซอร์อุณหภูมิ เซนเซอร์ความดัน เซนเซอร์การไหล เซนเซอร์น้ำหนัก เซนเซอร์การขจัดและการ เข้ารหัส พื้นฐานและการประยุกต์ใช้อุปกรณ์ควบคุมอุตสาหกรรม ประกอบด้วย รีเลย์ ไทมเมอร์ ตัวนับ ตัวควบคุมตรรกะโปรแกรมได้ (พีแอลซี) และคอนโทรลเลอร์",
+   "desc_en": "Principles and applications of industrial sensors including limit switches, photomsensors, proximity sensors, ultrasonic sensors, temperature sensors, pressure sensors, flow sensors, weight sensors, displacement sensors and encoders. Principles and applications of industrial control devices including relays, timers, counters, programmable logic controllers (PLC) and other controllers."
+  },
+  "03601463": {
+   "code": "03601463",
+   "name_th": "การควบคุมเครื่องจักรกลและกระบวนการด้วยคอมพิวเตอร์",
+   "credit": "3(3-0-6)",
+   "name_en": "Computer Control of Machines and Processes",
+   "prereq": null,
+   "desc_th": "การควบคุมด้วยคอมพิวเตอร์ องค์ประกอบของการจำลองแบบไม่ต่อเนื่อง การออกแบบตัวควบคุมแบบไม่ต่อเนื่อง การเชื่อมต่อกับคอมพิวเตอร์ เซนเซอร์ การ สร้างชุดคำสั่งสำหรับควบคุมเครื่องจักรกลและกระบวนการ การควบคุมแบบเชิง อันดับโดยใช้พีแอลซี การจำลองกระบวนการ",
+   "desc_en": "Computer control. Elements of discrete modeling. Design of a discrete controller. Computer interfacing. Sensors. Command generation in machine and process control. Sequential control using PLC. Process modeling."
+  },
+  "03601464": {
+   "code": "03601464",
+   "name_th": "เซนเซอร์และตัวแปลงสัญญาณ",
+   "credit": "3(3-0-6)",
+   "name_en": "Sensors and Transducers",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601231",
+   "desc_th": "อุปกรณ์การวัดและควบคุมเบื้องต้น ตัวแปลงสัญญาณแอนะล็อกและ ดิจิตอล เทคนิคการวัดความดัน ตัวส่งสัญญาณความดันต่าง การวัดอัตราการไหล ของของเหลวด้วยมิเตอร์ปฐมภูมิ มิเตอร์ทุติยภูมิและวิธีพิเศษ การวัดอุณหภูมิด้วยวิธี ไม่ใช้ไฟฟ้า วิธีใช้ไฟฟ้าและวิธีฉายรังสี ชนิดการวัดระดับของเหลว การวัดระดับ ของเหลวทางตรง และการวัดระดับของเหลวทางอ้อมด้วยวิธีความดันไฮโดรสแตติก วิธีทางไฟฟ้าและวิธีพิเศษ การควบคุมแบบดั้งเดิม",
+   "desc_en": "Introduction to measurement and control devices. Analog and digital transducers. Pressure measurement techniques. Differential pressure transmitter. Fluid flow measurement using primary meters, secondary meters and special methods. Measurement of temperature using non-electric methods, electric methods and radiation methods. Types of liquid level measurement using direct liquid level measurement and indirect liquid level measurement using hydrostatic pressure methods, electrical methods and special methods. Conventional controller."
+  },
+  "03601465": {
+   "code": "03601465",
+   "name_th": "นวัตกรรมทางไฟฟ้าและอิเล็กทรอนิกส์",
+   "credit": "3(3-0-6)",
+   "name_en": "Electrical and Electronics Innovation",
+   "prereq": null,
+   "desc_th": "แนวคิดนวัตกรรม การเปลี่ยนแปลงของนวัตกรรมเทคโนโลยี ผลกระทบ อุตสาหกรรมของนวัตกรรมเทคโนโลยี ผลกระทบในการแข่งขันของตลาดและการ เปลี่ยนแปลงเทคโนโลยี การเปลี่ยนแปลงของตลาดด้านแนวคิด การออกแบบห่วงโซ่ แห่งคุณค่า นวัตกรรมทางไฟฟ้าและอิเล็กทรอนิกส์ แนวคิดด้านความคิดสร้างสรรค์ นวัตกรรมและการสร้างสรรค์ และการสร้าง สิทธิบัตรนวัตกรรม โครงงานขนาดเล็ก ในการสร้างนวัตกรรมทางไฟฟ้าและอิเล็กทรอนิกส์",
+   "desc_en": "Innovative concepts. Dynamics of technological innovation. Industrial implications of technological innovation. Competitive implications of market and technology dynamics. Dynamics of the market for ideas. Designing the value chain. Electrical and electronics Innovation; idea of creativity, innovation and inventiveness and construction. Innovation patent. Mini project in electrical and electronics innovation."
+  },
+  "03601466": {
+   "code": "03601466",
+   "name_th": "ระบบหุ่นยนต์เบื้องต้น",
+   "credit": "3(3-0-6)",
+   "name_en": "Introduction to Robotic Systems",
+   "prereq": null,
+   "desc_th": "ภาพรวมของกลไกหุ่นยนต์ พลศาสตร์ และการควบคุมที่ชาญฉลาด การ ออกแบบกลไกสำหรับการจัดการและหุ่นยนต์เคลื่อนที่ การออกแบบการควบคุม ตัวกระตุ้นและเซนเซอร์ องค์ประกอบการควบคุม เครือข่ายไร้สาย การสร้าง แบบจำลองงาน การเชื่อมต่อระหว่างมนุษย์และเครื่องจักร การควบคุมตามเวลาจริง ซอฟต์แวร์ฝังตัว การออกแบบและการสร้างระบบหุ่นยนต์",
+   "desc_en": "Overview of robot mechanisms, dynamics and intelligent controls. Mechanism design for manipulators and mobile robots. Control design. Actuators and sensors. Control components. Wireless network. Task modeling. Human-machine interface. Real-time control. Embedded software. Design and construction of robotic systems."
+  },
+  "03601467": {
+   "code": "03601467",
+   "name_th": "ระบบอาณัติสัญญาณและควบคุมระบบราง",
+   "credit": "3(3-0-6)",
+   "name_en": "Railway Signaling and Control Systems",
+   "prereq": null,
+   "desc_th": "ประวัติความเป็นมาของระบบราง การทำงานของระบบราง ระบบอาณัติ สัญญาณ การประมาณระยะห่างระหว่างขบวนรถไฟและเวลาเดินรถ ระบบป้องกัน ของระบบราง ระบบตรวจจับตำแหน่งรถไฟ มาตรฐานและข้อกำหนดสำหรับระบบ อาณัติสัญญาณ การสับราง ประแจกล ไฟสัญญาณ ระบบบังคับสัมพันธ์ ระบบ อาณัติสัญญาณสำหรับรถไฟในเขตเมือง ระบบอาณัติสัญญาณสำหรับรถไฟทางไกล",
+   "desc_en": "History of railway system. Railway systems operation. Railway signaling system. Distance between trains and runtime estimations. Railway protection systems. Train position detection system. Standards and requirements for railway signaling systems. Turnout. Crossovers. Scissor. Interlock system. Railway signaling system for metro train. Railway signaling systems for long-distance train."
+  },
+  "03601471": {
+   "code": "03601471",
+   "name_th": "การวิเคราะห์และประยุกต์เครื่องจักรไฟฟ้า",
+   "credit": "3(3-0-6)",
+   "name_en": "Analysis and Applications of Electrical Machines",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601251",
+   "desc_th": "การสร้างแบบจำลองและวิเคราะห์เครื่องจักรไฟฟ้า การวิเคราะห์พลวัตของ เครื่องจักรกลชนิดเหนี่ยวนำ การประยุกต์มอเตอร์ในภาคอุตสาหกรรมและภาค ขนส่ง ระบบขับเคลื่อนในยานยนต์ไฟฟ้าและระบบราง การควบคุมมอเตอร์โดยใช้ อุปกรณ์โซลิดสเตต",
+   "desc_en": "Electrical machine modelling and analysis. Dynamic analysis of induction machines. Motor applications in industry and transportation. Traction drives in electric vehicles and railway systems. Motor control using solid state devices."
+  },
+  "03601472": {
+   "code": "03601472",
+   "name_th": "การขับเคลื่อนด้วยไฟฟ้า",
+   "credit": "3(3-0-6)",
+   "name_en": "Electric Drives",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601251",
+   "desc_th": "องค์ประกอบของการขับเคลื่อนด้วยไฟฟ้า คุณลักษณะของโหลด บริเวณ การทำงานสำหรับการขับเคลื่อน วิธีการเบรกมอเตอร์ การส่งกำลังและขนาด คุณลักษณะแรงบิด-ความเร็วของมอเตอร์ไฟฟ้า ชนิดของคอนโทรลเลอร์ การ ขับเคลื่อนมอเตอร์ไฟฟ้ากระแสตรง การขับเคลื่อนมอเตอร์ไฟฟ้ากระแสสลับ ระบบ การขับเคลื่อนมอเตอร์เซอร์โว การประยุกต์การขับเคลื่อนด้วยไฟฟ้าในทาง อุตสาหกรรม",
+   "desc_en": "Electric drive components. Load characteristics. Operating region of drives. Braking methods of motors. Power transmission and sizing. Torque-speed characteristics of electric motors. Types of controllers. Direct current (DC) motor drives. Alternating current (AC) motor drives. Servo drives systems. Applications of drives in industrial automations."
+  },
+  "03601473": {
+   "code": "03601473",
+   "name_th": "อิเล็กทรอนิกส์กำลัง",
+   "credit": "3(3-0-6)",
+   "name_en": "Power Electronics",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601231",
+   "desc_th": "คุณลักษณะของอุปกรณ์อิเล็กทรอนิกส์กำลัง ไดโอดกำลัง ไทริสเตอร์ ไบโพลาร์กำลัง มอสเฟต ไอจีบีที คุณลักษณะของสารแม่เหล็ก แกนหม้อแปลงกำลัง แกนเฟอไรต์ แกนผงเหล็กอัด เครื่องแปลงผันกำลังไฟฟ้า เครื่องแปลงผันกำลังไฟฟ้า กระแสสลับเป็นกระแสตรง เครื่องแปลงผันกำลังไฟฟ้ากระแสตรงเป็นกระแสตรง เครื่องแปลงผันกำลังไฟฟ้ากระแสสลับเป็นกระแสสลับ เครื่องแปลงผันกำลังไฟฟ้า กระแสตรงเป็นกระแสสลับ",
+   "desc_en": "Characteristics of power electronics devices. Power diode. Thyristors. Power bipolar. MOSFET. IGBT. Characteristics of magnetic material. Power transformer core. Ferrite core. Iron powder core. Converters. Alternating current (AC) to direct current (DC) converter. DC to DC converter. AC to AC converter. DC to AC converter."
+  },
+  "03601474": {
+   "code": "03601474",
+   "name_th": "ปฏิบัติการอิเล็กทรอนิกส์กำลัง",
+   "credit": "1(0-3-2)",
+   "name_en": "Power Electronics Laboratory",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601473",
+   "desc_th": "ปฏิบัติการเกี่ยวกับเรื่องที่เรียนในวิชาอิเล็กทรอนิกส์กำลัง (03601473)",
+   "desc_en": "Laboratory experiments on topics covered in Power Electronics (03601473)."
+  },
+  "03601475": {
+   "code": "03601475",
+   "name_th": "อิเล็กทรอนิกส์กำลังสำหรับการอนุรักษ์พลังงาน",
+   "credit": "3(3-0-6)",
+   "name_en": "Power Electronics for Energy Conservation",
+   "prereq": null,
+   "desc_th": "กฎหมายการอนุรักษ์พลังงาน การปรับปรุงแฟกเตอร์กำลัง การปรับโหลด ได้ดุล แผงสวิตซ์หลัก อุปกรณ์สับเปลี่ยน การประยุกต์หม้อแปลงเพื่อประหยัด พลังงาน หลอดประหยัดไฟฟ้าและการใช้แสงโดยรอบ บัลลาสต์อิเล็กทรอนิกส์ หม้อ แปลงอิเล็กทรอนิกส์ วงจรอินเวอร์เตอร์และการประยุกต์ มอเตอร์ประสิทธิภาพสูง ระบบพลังงานเซลล์แสงอาทิตย์ กรณีศึกษา",
+   "desc_en": "Energy conservation law. Power factor improvement. Balanced load adjustment. Main distribution board. Transfer switches. Applications of transformer for energy conservation. Energy saver lamp and ambient l ight utilization. Electronic ballasts. Electronic transformers. Inverter circuits and application. High efficient motors. Solar cell power systems. Case studies."
+  },
+  "03601476": {
+   "code": "03601476",
+   "name_th": "ระบบผลิตไฟฟ้าจำหน่าย",
+   "credit": "3(3-0-6)",
+   "name_en": "Distributed Generation Systems",
+   "prereq": null,
+   "desc_th": "พื้นฐานระบบผลิตไฟฟ้าจำหน่าย เทคโนโลยีของเครื่องกำเนิดไฟฟ้า จำหน่าย การเชื่อมต่อกริด สภาวะแยกตัวอิสระ ข้อกำหนดของเครื่องกำเนิดไฟฟ้า จำหน่าย การควบคุมเครื่องกำเนิดไฟฟ้าจำหน่ายแบบอินเวอร์เตอร์ ผลกระทบของ การติดตั้งเครื่องกำเนิดไฟฟ้าจำหน่าย คุณภาพกำลังไฟฟ้า การป้องกันของระบบ ผลิตไฟฟ้าจำหน่าย โครงข่ายไฟฟ้าอัจฉริยะ แง่มุมทางด้านเศรษฐศาสตร์ การจำลอง ระบบผลิตไฟฟ้าจำหน่าย",
+   "desc_en": "Basic of distributed generation systems. Technologies of distributed generation. Grid interconnection. Islanding. Grid code of distributed generation. Inverter-base distribution generation control. Impacts of distributed generation installations. Power quality. Protection of distribution generation systems. Smart grid. Economic aspects. Distributed generation system simulation."
+  },
+  "03601477": {
+   "code": "03601477",
+   "name_th": "พลังงานหมุนเวียนและการกักเก็บพลังงาน",
+   "credit": "3(3-0-6)",
+   "name_en": "Renewable Energy and Energy Storage",
+   "prereq": null,
+   "desc_th": "ระบบพลังงานและแหล่งกำเนิดพลังงานหมุนเวียนเบื้องต้น ศักยภาพของ แหล่งกำเนิดพลังงานหมุนเวียนในประเทศไทย ความแตกต่างของเทคโนโลยี พลังงานดั้งเดิมและพลังงานหมุนเวียน เทคโนโลยีพลังงานหมุนเวียน พลังงาน แสงอาทิตย์ พลังงานลม พลังงานชีวมวล พลังงานก๊าซชีวภาพ และพลังงานขยะมูล ฝอยชุมชน เทคโนโลยีการกักเก็บพลังงานและการประยุกต์ ระบบพลังงานหมุนเวียน แบบอิสระ ระบบพลังงานหมุนเวียนแบบเชื่อมต่อกับระบบจำหน่ายไฟฟ้า กฎหมาย ระเบียบข้อบังคับและนโยบายของพลังงานหมุนเวียนและการกักเก็บพลังงานใน แง่มุมทางด้านเศรษฐศาสตร์",
+   "desc_en": "Introduction to energy systems and renewable energy resources. Potential of renewable resources in Thailand. Difference of conventional and renewable energy technologies. Renewable energy technologies; solar, wind, biomass, biogas and municipal solid waste. Energy storage technologies and applications. Stand-alone renewable energy system. Grid-connected renewable energy system. Laws, regulations and policies of renewable energy and energy storage in economics aspects."
+  },
+  "03601478": {
+   "code": "03601478",
+   "name_th": "การอนุรักษ์และการจัดการพลังงาน",
+   "credit": "3(3-0-6)",
+   "name_en": "Energy Conservation and Management",
+   "prereq": null,
+   "desc_th": "การอนุรักษ์และการจัดการพลังงานเบื้องต้น กฎหมายและระเบียบ ข้อบังคับของการอนุรักษ์พลังงาน การตรวจวิเคราะห์พลังงาน พื้นฐานของ ประสิทธิภาพพลังงาน หลักการของประสิทธิภาพพลังงานในอาคารและโรงงาน อุตสาหกรรม การบริหารจัดการโหลด การบริหารจัดการและวิเคราะห์พลังงานใน อาคารและโรงงานอุตสาหกรรม เทคนิคในการใช้พลังงานอย่างมีประสิทธิภาพใน ระบบแสงสว่าง ระบบความร้อน ระบายอากาศ และเครื่องปรับอากาศ มอเตอร์ อุตสาหกรรม การผลิตไฟฟ้าด้วยความร้อนร่วม มาตรการการอนุรักษ์พลังงานและ การวิเคราะห์เชิงเศรษฐศาสตร์",
+   "desc_en": "Introduction to energy conservation and management. Laws and regulations of energy conservation. Energy audit. Basic of energy efficiency. Principle of energy efficiency in building and industry. Load management. Energy management and analysis in building and industry. Techniques to use energy efficiently in lighting systems, heating systems, ventilating and air-conditioning systems. Industrial motors. Co-generation. Energy conservation measures and economic analysis."
+  },
+  "03601479": {
+   "code": "03601479",
+   "name_th": "ระบบยานยนต์ไฟฟ้า",
+   "credit": "3(3-0-6)",
+   "name_en": "Electric Vehicle Systems",
+   "prereq": null,
+   "desc_th": "การใช้ไฟฟ้าในการขนส่ง ระบบขับเคลื่อนของยานยนต์ไฟฟ้าและยานยนต์ ไฟฟ้าแบบไฮบริด ยานยนต์ไฟฟ้า ยานยนต์ไฟฟ้าแบบไฮบริด ยานยนต์ไฟฟ้าแบบ ปลั๊ก-อินไฮบริด มอเตอร์สำหรับยานยนต์ไฟฟ้า มอเตอร์กระแสตรง มอเตอร์ ซิงโครนัสชนิดแม่เหล็กถาวร มอเตอร์เหนี่ยวนำ มอเตอร์ชนิดรีลักแตนซ์ แบตเตอรี่ และระบบการเก็บพลังงาน คอนเวอร์เตอร์ อินเวอร์เตอร์และการขับเคลื่อนมอเตอร์ เครื่องประจุแบตเตอรี่ยานยนต์ไฟฟ้า",
+   "desc_en": "Transportation electrification. Electric and hybrid electric vehicle drivetrain systems. Electric vehicles, hybrid electric vehicles, plug-in hybrid vehicles. Motors for electric vehicles, DC motor, permanent-magnet synchronous motor, induction motor, switched reluctance motor, battery and energy storage systems. Converters, inverters and motor drives. Electric vehicle battery chargers."
+  },
+  "03601495": {
+   "code": "03601495",
+   "name_th": "โครงงานวิศวกรรมไฟฟ้าและอิเล็กทรอนิกส์ I",
+   "credit": "2(0-6-3)",
+   "name_en": "Electrical and Electronics Engineering Project I",
+   "prereq": null,
+   "desc_th": "โครงงานวิจัยและพัฒนาทางวิศวกรรมไฟฟ้าและอิเล็กทรอนิกส์",
+   "desc_en": "Research and development project in electrical and electronics engineering."
+  },
+  "03601496": {
+   "code": "03601496",
+   "name_th": "เรื่องเฉพาะทางวิศวกรรมไฟฟ้าและอิเล็กทรอนิกส์",
+   "credit": "3(3-0-6)",
+   "name_en": "Selected Topics in Electrical and Electronics Engineering",
+   "prereq": null,
+   "desc_th": "ศึกษาหัวข้อที่น่าสนใจในสาขาวิศวกรรมไฟฟ้าและอิเล็กทรอนิกส์",
+   "desc_en": "Study in selected topics in electrical and electronics engineering."
+  },
+  "03601497": {
+   "code": "03601497",
+   "name_th": "สัมมนา",
+   "credit": "1",
+   "name_en": "Seminar",
+   "prereq": null,
+   "desc_th": "การนำเสนอและอภิปรายหัวข้อที่น่าสนใจทางวิศวกรรมไฟฟ้าและ อิเล็กทรอนิกส์ในระดับปริญญาตรี",
+   "desc_en": "Presentation and discussion on current interesting topics in electrical and electronics engineering at the bachelor’s degree level."
+  },
+  "03601498": {
+   "code": "03601498",
+   "name_th": "ปัญหาพิเศษ",
+   "credit": "1-3",
+   "name_en": "Special Problems",
+   "prereq": null,
+   "desc_th": "การศึกษาค้นคว้าทางวิศวกรรมไฟฟ้าและอิเล็กทรอนิกส์ระดับปริญญาตรี และเรียบเรียงเขียนเป็นรายงาน",
+   "desc_en": "Study and research in electrical and electronics engineering at the bachelor’s degree level and complied into a written reports."
+  },
+  "03601499": {
+   "code": "03601499",
+   "name_th": "โครงงานวิศวกรรมไฟฟ้าและอิเล็กทรอนิกส์ II",
+   "credit": "2(0-6-3)",
+   "name_en": "Electrical and Electronics Engineering Project II",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601495",
+   "desc_th": "ทำโครงงานวิจัยและพัฒนาทางวิศวกรรมไฟฟ้าและอิเล็กทรอนิกส์ต่อเนื่อง จากวิชาโครงงานวิศวกรรมไฟฟ้า I",
+   "desc_en": "Continuing the same research and development project in electrical and electronics engineering as in electrical engineering project I."
+  },
+  "03601101": {
+   "code": "03601101",
+   "name_th": "วิศวกรรมอิเล็กทรอนิกส์อุตสาหกรรมเบื้องต้น",
+   "credit": "3(3-0-6)",
+   "name_en": "Introduction to Industrial Electronics Engineering",
+   "prereq": null,
+   "desc_th": "ระบบเลขฐานและรหัส ลอจิกเกตพื้นฐานและการออกแบบวงจรลอจิก หลักการแปลงสัญญาณแอนะลอกและดิจิทัล อุปกรณ์สารกึ่งตัวนำ การควบคุมทาง อุตสาหกรรม อุปกรณ์รับเข้าและส่งออกสำหรับการควบคุมทางอุตสาหกรรม พื้นฐานอิเล็กทรอนิกส์กำลังและเครื่องแปลงผันกำลัง การขับเคลื่อนมอเตอร์ไฟฟ้า กระแสตรงและมอเตอร์ไฟฟ้ากระแสสลับ ตัวควบคุมตรรกะโปรแกรมได้ (พีแอลซี) และการเชื่อมต่อ การประยุกต์พีแอลซีในระบบอัตโนมัติเบื้องต้น",
+   "desc_en": "Base number systems and codes. Basic logic gate and logic circuit design. Analog and digital conversion principles. Semiconductor devices. Industrial control. Input and output devices for industrial control. Power electronics basics and converters. Driving direct current motor and alternating current motor. Programmable logic controller (PLC) and interfaces. Basic applications of PLC in automation systems."
+  },
+  "03601102": {
+   "code": "03601102",
+   "name_th": "วิศวกรรมไฟฟ้าอุตสาหกรรมเบื้องต้น",
+   "credit": "3(3-0-6)",
+   "name_en": "Introduction to Industrial Electrical Engineering",
+   "prereq": null,
+   "desc_th": "การวิเคราะห์วงจรไฟฟ้ากระแสตรงและกระแสสลับ ระบบไฟฟ้าสามเฟส อุปกรณ์ไฟฟ้าและอิเล็กทรอนิกส์พื้นฐาน เครื่องจักรกลไฟฟ้าเบื้องต้น เครื่องมือวัด ทางไฟฟ้า พื้นฐานการติดตั้งระบบไฟฟ้าในอาคารและโรงงาน ความปลอดภัยในงาน วิศวกรรมไฟฟ้า",
+   "desc_en": "Direct current and alternating current circuit analysis. Three phase systems. Basic electrical and electronic equipment. Basic electrical machine. Electrical measuring instruments. Basic electrical system installation in buildings and factories. Safety in electrical engineering."
+  },
+  "03601201": {
+   "code": "03601201",
+   "name_th": "วิศวกรรมไฟฟ้าเบื้องต้น",
+   "credit": "3(3-0-6)",
+   "name_en": "Introduction to Electrical Engineering",
+   "prereq": null,
+   "desc_th": "การวิเคราะห์วงจรกระแสตรงและกระแสสลับ เครื่องกำเนิดไฟฟ้าและการ ใช้งาน มอเตอร์และการใช้งาน หม้อแปลง ระบบไฟสามเฟส ระบบส่งกำลัง เครื่องมือทางไฟฟ้า",
+   "desc_en": "Direct current and alternating current circuit analysis. Generators and their uses. Motors and their uses. Transformers. Three- phase systems. Power transmission system. Electrical instruments."
+  },
+  "03601202": {
+   "code": "03601202",
+   "name_th": "ปฏิบัติการวิศวกรรมไฟฟ้า",
+   "credit": "1(0-3-2)",
+   "name_en": "Electrical Engineering Laboratory",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601201",
+   "desc_th": "ปฏิบัติการเกี่ยวกับเรื่องที่เรียนในวิชาวิศวกรรมไฟฟ้าเบื้องต้น",
+   "desc_en": "Laboratory experiments on topics covered in Introduction to Electrical Engineering."
+  },
+  "03601203": {
+   "code": "03601203",
+   "name_th": "อิเล็กทรอนิกส์สำหรับวิศวกรคอมพิวเตอร์",
+   "credit": "3(3-0-6)",
+   "name_en": "Electronics for Computer Engineers",
+   "prereq": null,
+   "desc_th": "สารกึ่งตัวนำและอุปกรณ์อิเล็กทรอนิกส์ วงจรเรียงกระแส การแปลง กระแสไฟฟ้าสลับและการแปลงไฟฟ้ากระแสตรง ทรานซิสเตอร์แบบมอส ทรานซิสเตอร์แบบสองขั้ว วงจรรวมแบบทีทีแอล วงจรขยาย วงจรขยายกำลัง วงจร พัลส์ แลตช์ ฟลิบฟลอบ ตัวขยายดำเนินการ อุปกรณ์และวงจรอิเล็กทรอนิกส์กำลัง การออกแบบพีซีบีด้วยโปรแกรมคอมพิวเตอร์",
+   "desc_en": "Semiconductor and electronic devices. Rectifier circuit. Alternating current and direct current conversions. MOS transistors. Bipolar transistors. TTL integrated circuits. Amplifiers. Power amplifier circuits. Pulse circuits. Latches. Flip flops. Operational amplifiers. Power electronic devices and circuits. PCB design with computer programs."
+  },
+  "03601204": {
+   "code": "03601204",
+   "name_th": "การวิเคราะห์วงจรไฟฟ้าสำหรับวิศวกรคอมพิวเตอร์",
+   "credit": "3(3-0-6)",
+   "name_en": "Electric Circuit Analysis for Computer Engineers",
+   "prereq": null,
+   "desc_th": "หน่วยของปริมาณพื้นฐานทางไฟฟ้า กฎของโอห์ม กฎของเคอร์ชอฟ การ วิเคราะห์โนดและเมซ ทฤษฎีบทวงจรไฟฟ้าของเทวินินและนอร์ตัน อุปกรณ์สะสม พลังงาน พื้นฐานการวิเคราะห์วงจรกระแสตรงและกระแสสลับ แรงดัน กระแส และ กำลังไฟฟ้า หม้อแปลงไฟฟ้า พื้นฐานเครื่องมือวัดทางไฟฟ้า การประยุกต์ใน วงจรไฟฟ้า",
+   "desc_en": "Units of electrical quantity. Ohm’s law. Kirchhoff’s laws. Node and mesh analysis. Thevenin’s and Norton’s theorems. Energy storage elements. Basic direct and alternating current circuit analysis. Voltage, current and power. Transformers. Basic electrical measurement instruments. Applications in electrical circuit."
+  },
+  "03601205": {
+   "code": "03601205",
+   "name_th": "ปฏิบัติการวงจรไฟฟ้าสำหรับวิศวกรคอมพิวเตอร์",
+   "credit": "1(0-3-2)",
+   "name_en": "Electric Circuit Laboratory for Computer Engineers",
+   "prereq": "วิชาที่ต้องเรียนมาก่อนหรือพร้อมกัน: 03601204",
+   "desc_th": "ปฏิบัติการเกี่ยวกับเรื่องที่เรียนในวิชาการวิเคราะห์วงจรไฟฟ้าสำหรับ วิศวกรคอมพิวเตอร์ (03601204)",
+   "desc_en": "Laboratory experiments on topics covered in Electric Circuit Analysis for Computer Engineers (03601204)"
+  },
+  "03601206": {
+   "code": "03601206",
+   "name_th": "ปฏิบัติการวิศวกรรมอิเล็กทรอนิกส์อุตสาหกรรมเบื้องต้น",
+   "credit": "1(0-3-2)",
+   "name_en": "Introduction to Industrial Electronics Engineering Laboratory",
+   "prereq": "วิชาที่ต้องเรียนมาก่อนหรือพร้อมกัน: 03601101",
+   "desc_th": "ปฏิบัติการเกี่ยวกับเรื่องที่เรียนในวิชาวิศวกรรมอิเล็กทรอนิกส์อุตสาหกรรม เบื้องต้น",
+   "desc_en": "Laboratory experiments on topics covered in Introduction to Industrial Electronics Engineering."
+  },
+  "03601207": {
+   "code": "03601207",
+   "name_th": "ปฏิบัติการวิศวกรรมไฟฟ้าอุตสาหกรรมเบื้องต้น",
+   "credit": "1(0-3-2)",
+   "name_en": "Introduction to Industrial Electrical Engineering Laboratory",
+   "prereq": "วิชาที่ต้องเรียนมาก่อนหรือพร้อมกัน: 03601102",
+   "desc_th": "ปฏิบัติการเกี่ยวกับเรื่องที่เรียนในวิชาวิศวกรรมไฟฟ้าอุตสาหกรรมเบื้องต้น",
+   "desc_en": "Laboratory experiments on topics covered in Introduction to Industrial Electrical Engineering."
+  },
+  "03601208": {
+   "code": "03601208",
+   "name_th": "ระบบอัตโนมัติในการผลิต",
+   "credit": "3(3-0-6)",
+   "name_en": "Automation System in Manufacturing",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601101",
+   "desc_th": "องค์ประกอบพื้นฐานสำหรับระบบอัตโนมัติในกระบวนการผลิต ตัวควบคุม อุตสาหกรรม การกำหนดสภาวะสัญญาณแอนะล็อกและดิจิทัล การควบคุม กระบวนการและการเคลื่อนที่ ตัวรับรู้และตัวกระตุ้นอุตสาหกรรม การควบคุมลำดับ และตัวควบคุมตรรกะโปรแกรมได้ การเชื่อมต่อพีแอลซี การเขียนโปรแกรมพีแอลซี การเชื่อมต่อระหว่างมนุษย์และเครื่องจักร ภาพรวมของหุ่นยนต์อุตสาหกรรม การ เขียนโปรแกรมหุ่นยนต์และซอฟต์แวร์จำลองสถานการณ์ ฮาร์ดแวร์การเขียน โปรแกรมหุ่นยนต์",
+   "desc_en": "Fundamental elements for automation in manufacturing process. Industrial controllers. Analog and digital signal conditioning. Process and motion control. Industrial sensors and actuators. Sequential control and programmable logic controllers. PLC interfaces. PLC programming. Human-machine Interface. Overview of industrial robots. Robot programming and simulation software. Robot programming hardware."
+  },
+  "03601303": {
+   "code": "03601303",
+   "name_th": "ปฏิบัติการอิเล็กทรอนิกส์สำหรับวิศวกรคอมพิวเตอร์",
+   "credit": "1(0-3-2)",
+   "name_en": "Electronics Laboratory for Computer Engineers",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601203",
+   "desc_th": "ปฏิบัติการเกี่ยวกับเรื่องที่เรียนในวิชาอิเล็กทรอนิกส์สำหรับวิศวกร คอมพิวเตอร์ (03601203)",
+   "desc_en": "Laboratory experiments on topics covered in Electronics for Computer Engineers (03601203)."
+  },
+  "03601304": {
+   "code": "03601304",
+   "name_th": "ปฏิบัติการระบบอัตโนมัติในการผลิต",
+   "credit": "1(0-3-2)",
+   "name_en": "Automation System in Manufacturing Laboratory",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 03601208",
+   "desc_th": "ปฏิบัติการเกี่ยวกับเรื่องที่เรียนในวิชาระบบอัตโนมัติในการผลิต",
+   "desc_en": "Laboratory experiments on topics covered in Automation System in Manufacturing."
+  },
+  "01403114": {
+   "code": "01403114",
+   "name_th": "ปฏิบัติการหลักมูลเคมีทั่วไป",
+   "credit": "1(0-3-2)",
+   "name_en": "Laboratory in Fundamentals of General Chemistry",
+   "prereq": null,
+   "desc_th": "ปฏิบัติการสำหรับวิชาหลักมูลเคมีทั่วไป",
+   "desc_en": "Laboratory in Fundamentals of General Chemistry."
+  },
+  "01403117": {
+   "code": "01403117",
+   "name_th": "หลักมูลเคมีทั่วไป",
+   "credit": "3(3-0-6)",
+   "name_en": "Fundamentals of General Chemistry",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 01403114",
+   "desc_th": "โครงสร้างอะตอมตารางพีริออดิกและสมบัติตามตารางพีริออดิกพันธะเคมี ปริมาณสัมพันธ์แก๊ส ของเหลวของแข็งสารละลายจลนพลศาสตร์เคมีสมดุลเคมีกรด และเบสสมดุลของไอออนธาตุเรพรีเซนเททีฟโลหะอโลหะและกึ่งโลหะโลหะแทรนซิ ชัน",
+   "desc_en": "Atomic structure, periodic table and periodic properties, chemical bonds, stoichiometry, gases, liquids, solids, solutions, chemical kinetics, chemical equilibria, acids and bases, ionic equilibria, representative elements, metals, nonmetals and metalloids, transition metals."
+  },
+  "01417167": {
+   "code": "01417167",
+   "name_th": "คณิตศาสตร์วิศวกรรม I",
+   "credit": "3(3-0-6)",
+   "name_en": "Engineering Mathematics I",
+   "prereq": null,
+   "desc_th": "ลิมิตและความต่อเนื่องของฟังก์ชันอนุพันธ์และการประยุกต์ค่าเชิงอนุพันธ์ ปริพันธ์และการประยุกต์ระบบพิกัดเชิงขั้วปริพันธ์ไม่ตรงแบบลาดับและอนุกรมการ อุปนัยเชิงคณิตศาสตร์",
+   "desc_en": "Limits and continuity of functions, derivatives and applications, differentials, integration and applications, polar coordinates, improper integrals, sequences and series, mathematical induction."
+  },
+  "01417168": {
+   "code": "01417168",
+   "name_th": "คณิตศาสตร์วิศวกรรม II",
+   "credit": "3(3-0-6)",
+   "name_en": "Engineering Mathematics II",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 01417167",
+   "desc_th": "เวกเตอร์และเรขาคณิตวิเคราะห์ทรงตันแคลคูลัสของฟังก์ชันหลายตัวแปร แคลคูลัสของฟังก์ชันฟังก์ชันค่าเวกเตอร์",
+   "desc_en": "Vector and solid analytic geometry, calculus of multivariables functions, calculus of vector – valued functions."
+  },
+  "01420111": {
+   "code": "01420111",
+   "name_th": "ฟิสิกส์ทั่วไป I",
+   "credit": "3(3-0-6)",
+   "name_en": "General Physics I",
+   "prereq": null,
+   "desc_th": "กลศาสตร์การเคลื่อนที่แบบฮาร์มอนิกคลื่นกลศาสตร์ของไหลอุณหพล ศาสตร์",
+   "desc_en": "Mechanics, harmonic motion, waves, fluid mechanics, thermodynamics."
+  },
+  "01420113": {
+   "code": "01420113",
+   "name_th": "ปฏิบัติการฟิสิกส์ I",
+   "credit": "1(0-3-2)",
+   "name_en": "Laboratory in Physics I",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 01420111 หรือพร้อมกันหรือ 01420117 หรือพร้อมกัน",
+   "desc_th": "ปฏิบัติการสำหรับวิชาฟิสิกส์ทั่วไป I หรือฟิสิกส์พื้นฐาน I",
+   "desc_en": "Laboratory for General Physics I or Basic Physics I."
+  },
+  "03600490": {
+   "code": "03600490",
+   "name_th": "สหกิจศึกษา",
+   "credit": "6",
+   "name_en": "Co-operative Education",
+   "prereq": null,
+   "desc_th": "การปฏิบัติงานในลักษณะพนักงานชั่วคราวตามโครงงานที่ได้รับมอบหมาย ตลอดจนการจัดทำรายงานและการนำเสนอ",
+   "desc_en": "On the job training as a temporary employee according to the assigned project including report and presentation."
+  },
+  "03602211": {
+   "code": "03602211",
+   "name_th": "วัสดุศาสตร์สำหรับวิศวกร",
+   "credit": "3(3-0-6)",
+   "name_en": "Materials Science for Engineers",
+   "prereq": null,
+   "desc_th": "ความสัมพันธ์ระหว่างโครงสร้างสมบัติกระบวนการผลิตและการใช้งานของ วัสดุวิศวกรรมโลหะพอลิเมอร์เซรามิกวัสดุเชิงประกอบ แผนภูมิสมดุลของเฟสและ การตีความสมบัติทางกลและการเสื่อมสภาพของวัสดุและวัสดุใหม่สำหรับประยุกต์ ทางวิศวกรรม",
+   "desc_en": "Relationship between structures, properties, production processes and applications of engineering materials, metals, polymers, ceramics, composites. Phase equilibrium diagrams and their interpretation. Mechanical properties and material degradation. New materials for engineering application."
+  },
+  "03602301": {
+   "code": "03602301",
+   "name_th": "หลักพื้นฐานการจัดการผลิต",
+   "credit": "3(3-0-6)",
+   "name_en": "Basic Principles of Production Management",
+   "prereq": null,
+   "desc_th": "ความหมายและความสำคัญของการจัดการการผลิต หลักการจัดองค์กรเพื่อ การผลิต การวัดและการกำหนดอัตราผลผลิต หลักพื้นฐานการกำหนดมาตรฐานการ ผลิต การควบคุมต้นทุนการผลิตเบื้องต้น การกำหนดแผนเชิงอุตสาหกรรมเบื้องต้น หลักพื้นฐานการควบคุมการผลิตและการปฏิบัติการ การจัดการผลิตที่สอดคล้องกับ อุปสงค์และอุปทาน",
+   "desc_en": "Definition and importance of production mana gement. Principles of organization for production. Measurement and determination of yield rate. Basic principles of determination of production standards. Introduction to production cost controlling. Preliminary determination of industrial plan. Basic prin ciples of production-and-operation controlling. Production man agement corresponding to demand and supply."
+  },
+  "03603101": {
+   "code": "03603101",
+   "name_th": "การโปรแกรมคอมพิวเตอร์เบื้องต้น",
+   "credit": "3(2-3-6)",
+   "name_en": "Introduction to Computer Programming",
+   "prereq": null,
+   "desc_th": "แนวคิดทางคอมพิวเตอร์ ส่วนประกอบคอมพิวเตอร์ การปฏิสัมพันธ์ทาง ฮาร์ดแวร์และซอร์ฟแวร์ แนวคิดทางอีดีพี การออกแบบโปรแกรมและระเบียบ วิธีการพัฒนา การโปรแกรมภาษาระดับสูง",
+   "desc_en": "Computer concepts, Computer component, Hardware and software interaction, EPD concepts, Program design and development methodology, High-level language programming."
+  },
+  "03604111": {
+   "code": "03604111",
+   "name_th": "การเขียนแบบทางวิศวกรรม",
+   "credit": "3(2-3-6)",
+   "name_en": "Engineering Drawing",
+   "prereq": null,
+   "desc_th": "การเขียนตัวอักษรและตัวเลขภาพฉายออร์โธกราฟฟิกการเขียนภาพออร์โธ กราฟฟิกและการเขียนภาพสามมิติ การให้ขนาดและความคาดเคลื่อน ภาพตัด มุมมองช่วยและแผ่นคลี่การเขียนภาพร่าง การเขียนแบบรายละเอียดและการ ประกอบ การเขียนแบบโดยใช้คอมพิวเตอร์ช่วยขั้นต้น",
+   "desc_en": "Lettering. Orthographic projection. Orthographic drawing and pictorial drawing. Dimensioning and tolerancing. Sections. Auxiliary views and development. Freehand sketches. Detail and assembly drawing. Basic computer-aided drawing."
+  },
+  "03604223": {
+   "code": "03604223",
+   "name_th": "หลักพื้นฐานทางกลศาสตร์วิศวกรรม",
+   "credit": "3(3-0-6)",
+   "name_en": "Basic Principles of Engineering Mechanics",
+   "prereq": "วิชาที่ต้องเรียนมาก่อน: 01417167",
+   "desc_th": "ระบบแรงและแรงลัพธ์สมดุลความเสียดทานแห้งการประยุกต์สมการสมดุล กับโครงสร้างและเครื่องจักรกล สถิตยศาสตร์ของไหลจลนศาสตร์และ จลนพลศาสตร์ของอนุภาคและวัตถุแข็งเกร็ง กฎการเคลื่อนที่ของนิวตัน หลักของ งานและพลังงาน อิมพัลส์และโมเมนตัม",
+   "desc_en": "Force systems and resultant. Equilibrium. Dry friction. Application of equilibrium equations to structures and machines. Fluid statics. Kinematics and kinetics of particles and rigid bodies. Newton's laws of motion. Principles of work and energy. Impulse and momentum."
+  },
+  "03604281": {
+   "code": "03604281",
+   "name_th": "การฝึกงานโรงงาน",
+   "credit": "1(0-3-2)",
+   "name_en": "Workshop Practice",
+   "prereq": null,
+   "desc_th": "การฝึกงานเกี่ยวกับการวัดขนาดชิ้นงาน งานเชื่อมก๊าซและไฟฟ้า งานโลหะ แผ่น งานกลึง ความปลอดภัยในโรงงาน",
+   "desc_en": "Practice in work-piece measuring. Gas and arc welding. Metal sheet works. Lathe works. Safety in workshop."
+  }
+ },
+ "plan_regular": {
+  "1-1": {
+   "items": [
+    {
+     "code": "01417167",
+     "name": "คณิตศาสตร์วิศวกรรม I",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "01420111",
+     "name": "ฟิสิกส์ทั่วไป I",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "01420113",
+     "name": "ปฏิบัติการฟิสิกส์ I",
+     "credit": "1(0-3-2)"
+    },
+    {
+     "code": "01999111",
+     "name": "ศาสตร์แห่งแผ่นดิน",
+     "credit": "2(2-0-4)"
+    },
+    {
+     "code": "03604111",
+     "name": "การเขียนแบบวิศวกรรม",
+     "credit": "3(2-3-6)"
+    },
+    {
+     "code": "01355xxx",
+     "name": "ภาษาอังกฤษ",
+     "credit": "3(--)"
+    },
+    {
+     "code": null,
+     "name": "วิชาสารสนเทศ/คอมพิวเตอร์",
+     "credit": "1(--)"
+    },
+    {
+     "code": null,
+     "name": "วิชาศึกษาทั่วไป กลุ่มสาระศาสตร์แห่งผู้ประกอบการ",
+     "credit": "3(--)"
+    }
+   ],
+   "total": 19
+  },
+  "1-2": {
+   "items": [
+    {
+     "code": "01403114",
+     "name": "ปฏิบัติการหลักมูลเคมีทั่วไป",
+     "credit": "1(0-3-2)"
+    },
+    {
+     "code": "01403117",
+     "name": "หลักมูลเคมีทั่วไป",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "01417168",
+     "name": "คณิตศาสตร์วิศวกรรม II",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03603101",
+     "name": "การโปรแกรมคอมพิวเตอร์เบื้องต้น",
+     "credit": "3(2-3-6)"
+    },
+    {
+     "code": "01175xxx",
+     "name": "กิจกรรมพลศึกษา",
+     "credit": "1(0-2-1)"
+    },
+    {
+     "code": null,
+     "name": "วิชาภาษาไทย",
+     "credit": "3(--)"
+    },
+    {
+     "code": null,
+     "name": "วิชาศึกษาทั่วไป กลุ่มสาระอยู่ดีมีสุข",
+     "credit": "2(--)"
+    },
+    {
+     "code": null,
+     "name": "วิชาศึกษาทั่วไป กลุ่มสาระพลเมืองไทยและพลเมืองโลก",
+     "credit": "3(--)"
+    }
+   ],
+   "total": 19
+  },
+  "2-1": {
+   "items": [
+    {
+     "code": "03601211",
+     "name": "การวิเคราะห์วงจรไฟฟ้า I",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601214",
+     "name": "คณิตศาสตร์วิศวกรรมไฟฟ้า",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601215",
+     "name": "ความน่าจะเป็นประยุกต์สำหรับวิศวกรไฟฟ้า",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601221",
+     "name": "เทคโนโลยีการสื่อสารและโครงข่ายไฟฟ้าอัจฉริยะ",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601271",
+     "name": "การปฏิบัติงานทางวิศวกรรมไฟฟ้า",
+     "credit": "1(0-3-2)"
+    },
+    {
+     "code": "03604281",
+     "name": "การฝึกงานโรงงาน",
+     "credit": "1(0-3-2)"
+    },
+    {
+     "code": "01355xxx",
+     "name": "ภาษาอังกฤษ",
+     "credit": "3(--)"
+    },
+    {
+     "code": null,
+     "name": "วิชาศึกษาทั่วไป กลุ่มสาระสุนทรียศาสตร์",
+     "credit": "3(--)"
+    }
+   ],
+   "total": 20
+  },
+  "2-2": {
+   "items": [
+    {
+     "code": "03601212",
+     "name": "การวิเคราะห์วงจรไฟฟ้า II",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601213",
+     "name": "ปฏิบัติการวงจรไฟฟ้า",
+     "credit": "1(0-3-2)"
+    },
+    {
+     "code": "03601231",
+     "name": "วงจรและระบบอิเล็กทรอนิกส์ I",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601232",
+     "name": "การออกแบบวงจรดิจิทัลและตรรกะ",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601241",
+     "name": "สนามแม่เหล็กไฟฟ้าและคลื่น",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601251",
+     "name": "การแปลงผันพลังงานเครื่องกลไฟฟ้า I",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03602211",
+     "name": "วัสดุศาสตร์สำหรับวิศวกร",
+     "credit": "3(3-0-6)"
+    }
+   ],
+   "total": 19
+  },
+  "3-1": {
+   "items": [
+    {
+     "code": "03601252",
+     "name": "ปฏิบัติการการแปลงผันพลังงานเครื่องกลไฟฟ้า I",
+     "credit": "1(0-3-2)"
+    },
+    {
+     "code": "03601311",
+     "name": "สัญญาณและระบบ",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601331",
+     "name": "ปฏิบัติการอิเล็กทรอนิกส์",
+     "credit": "1(0-3-2)"
+    },
+    {
+     "code": "03601332",
+     "name": "ไมโครโพรเซสเซอร์",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601361",
+     "name": "เครื่องมือวัดและการวัดทางไฟฟ้า",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601362",
+     "name": "ระบบควบคุมเชิงเส้น",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "01355xxx",
+     "name": "ภาษาอังกฤษ",
+     "credit": "3(--)"
+    },
+    {
+     "code": null,
+     "name": "วิชาศึกษาทั่วไป กลุ่มสาระศาสตร์แห่งผู้ประกอบการ",
+     "credit": "3(--)"
+    }
+   ],
+   "total": 20
+  },
+  "3-2": {
+   "items": [
+    {
+     "code": "03601353",
+     "name": "การออกแบบระบบไฟฟ้า",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601371",
+     "name": "การเตรียมความพร้อมก่อนฝึกงาน",
+     "credit": "1(0-3-2)"
+    },
+    {
+     "code": "03601458",
+     "name": "การผลิต ส่ง และจำหน่ายกำลังไฟฟ้า",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601473",
+     "name": "อิเล็กทรอนิกส์กำลัง",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601477",
+     "name": "พลังงานหมุนเวียนและการกักเก็บพลังงาน",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601495",
+     "name": "โครงงานวิศวกรรมไฟฟ้าและอิเล็กทรอนิกส์ I",
+     "credit": "2(0-6-3)"
+    },
+    {
+     "code": "03604223",
+     "name": "หลักพื้นฐานทางกลศาสตร์วิศวกรรม",
+     "credit": "3(3-0-6)"
+    }
+   ],
+   "total": 18
+  },
+  "4-1": {
+   "items": [
+    {
+     "code": "03601459",
+     "name": "ความปลอดภัยทางวิศวกรรมไฟฟ้า",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601497",
+     "name": "สัมมนา",
+     "credit": "1"
+    },
+    {
+     "code": "03601499",
+     "name": "โครงงานวิศวกรรมไฟฟ้าและอิเล็กทรอนิกส์ II",
+     "credit": "2(0-6-3)"
+    },
+    {
+     "code": "03602301",
+     "name": "หลักพื้นฐานการจัดการผลิต",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": null,
+     "name": "วิชาเฉพาะเลือก",
+     "credit": "7(--)"
+    },
+    {
+     "code": null,
+     "name": "วิชาเลือกเสรี",
+     "credit": "3(--)"
+    }
+   ],
+   "total": 19
+  },
+  "4-2": {
+   "items": [
+    {
+     "code": null,
+     "name": "วิชาเฉพาะเลือก",
+     "credit": "7(--)"
+    },
+    {
+     "code": null,
+     "name": "วิชาเลือกเสรี",
+     "credit": "3(--)"
+    }
+   ],
+   "total": 10
+  }
+ },
+ "plan_coop": {
+  "1-1": {
+   "items": [
+    {
+     "code": "01417167",
+     "name": "คณิตศาสตร์วิศวกรรม I",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "01420111",
+     "name": "ฟิสิกส์ทั่วไป I",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "01420113",
+     "name": "ปฏิบัติการฟิสิกส์ I",
+     "credit": "1(0-3-2)"
+    },
+    {
+     "code": "01999111",
+     "name": "ศาสตร์แห่งแผ่นดิน",
+     "credit": "2(2-0-4)"
+    },
+    {
+     "code": "03604111",
+     "name": "การเขียนแบบวิศวกรรม",
+     "credit": "3(2-3-6)"
+    },
+    {
+     "code": "01355xxx",
+     "name": "ภาษาอังกฤษ",
+     "credit": "3(--)"
+    },
+    {
+     "code": null,
+     "name": "วิชาสารสนเทศ/คอมพิวเตอร์",
+     "credit": "1(--)"
+    },
+    {
+     "code": null,
+     "name": "วิชาศึกษาทั่วไป กลุ่มสาระศาสตร์แห่งผู้ประกอบการ",
+     "credit": "3(--)"
+    }
+   ],
+   "total": 19
+  },
+  "1-2": {
+   "items": [
+    {
+     "code": "01403114",
+     "name": "ปฏิบัติการหลักมูลเคมีทั่วไป",
+     "credit": "1(0-3-2)"
+    },
+    {
+     "code": "01403117",
+     "name": "หลักมูลเคมีทั่วไป",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "01417168",
+     "name": "คณิตศาสตร์วิศวกรรม II",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03603101",
+     "name": "การโปรแกรมคอมพิวเตอร์เบื้องต้น",
+     "credit": "3(2-3-6)"
+    },
+    {
+     "code": "01175xxx",
+     "name": "กิจกรรมพลศึกษา",
+     "credit": "1(0-2-1)"
+    },
+    {
+     "code": null,
+     "name": "วิชาภาษาไทย",
+     "credit": "3(--)"
+    },
+    {
+     "code": null,
+     "name": "วิชาศึกษาทั่วไป กลุ่มสาระอยู่ดีมีสุข",
+     "credit": "2(--)"
+    },
+    {
+     "code": null,
+     "name": "วิชาศึกษาทั่วไป กลุ่มสาระพลเมืองไทยและพลเมืองโลก",
+     "credit": "3(--)"
+    }
+   ],
+   "total": 19
+  },
+  "2-1": {
+   "items": [
+    {
+     "code": "03601211",
+     "name": "การวิเคราะห์วงจรไฟฟ้า I",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601214",
+     "name": "คณิตศาสตร์วิศวกรรมไฟฟ้า",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601215",
+     "name": "ความน่าจะเป็นประยุกต์สำหรับวิศวกรไฟฟ้า",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601221",
+     "name": "เทคโนโลยีการสื่อสารและโครงข่ายไฟฟ้าอัจฉริยะ",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601271",
+     "name": "การปฏิบัติงานทางวิศวกรรมไฟฟ้า",
+     "credit": "1(0-3-2)"
+    },
+    {
+     "code": "03604281",
+     "name": "การฝึกงานโรงงาน",
+     "credit": "1(0-3-2)"
+    },
+    {
+     "code": "01355xxx",
+     "name": "ภาษาอังกฤษ",
+     "credit": "3(--)"
+    },
+    {
+     "code": null,
+     "name": "วิชาศึกษาทั่วไป กลุ่มสาระสุนทรียศาสตร์",
+     "credit": "3(--)"
+    }
+   ],
+   "total": 20
+  },
+  "2-2": {
+   "items": [
+    {
+     "code": "03601212",
+     "name": "การวิเคราะห์วงจรไฟฟ้า II",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601213",
+     "name": "ปฏิบัติการวงจรไฟฟ้า",
+     "credit": "1(0-3-2)"
+    },
+    {
+     "code": "03601231",
+     "name": "วงจรและระบบอิเล็กทรอนิกส์ I",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601232",
+     "name": "การออกแบบวงจรดิจิทัลและตรรกะ",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601241",
+     "name": "สนามแม่เหล็กไฟฟ้าและคลื่น",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601251",
+     "name": "การแปลงผันพลังงานเครื่องกลไฟฟ้า I",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03602211",
+     "name": "วัสดุศาสตร์สำหรับวิศวกร",
+     "credit": "3(3-0-6)"
+    }
+   ],
+   "total": 19
+  },
+  "3-1": {
+   "items": [
+    {
+     "code": "03601252",
+     "name": "ปฏิบัติการการแปลงผันพลังงานเครื่องกลไฟฟ้า I",
+     "credit": "1(0-3-2)"
+    },
+    {
+     "code": "03601311",
+     "name": "สัญญาณและระบบ",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601331",
+     "name": "ปฏิบัติการอิเล็กทรอนิกส์",
+     "credit": "1(0-3-2)"
+    },
+    {
+     "code": "03601332",
+     "name": "ไมโครโพรเซสเซอร์",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601361",
+     "name": "เครื่องมือวัดและการวัดทางไฟฟ้า",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601362",
+     "name": "ระบบควบคุมเชิงเส้น",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "01355xxx",
+     "name": "ภาษาอังกฤษ",
+     "credit": "3(--)"
+    },
+    {
+     "code": null,
+     "name": "วิชาศึกษาทั่วไป กลุ่มสาระศาสตร์แห่งผู้ประกอบการ",
+     "credit": "3(--)"
+    }
+   ],
+   "total": 20
+  },
+  "3-2": {
+   "items": [
+    {
+     "code": "03601353",
+     "name": "การออกแบบระบบไฟฟ้า",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601371",
+     "name": "การเตรียมความพร้อมก่อนฝึกงาน",
+     "credit": "1(0-3-2)"
+    },
+    {
+     "code": "03601458",
+     "name": "การผลิต ส่ง และจำหน่ายกำลังไฟฟ้า",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601473",
+     "name": "อิเล็กทรอนิกส์กำลัง",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601477",
+     "name": "พลังงานหมุนเวียนและการกักเก็บพลังงาน",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601495",
+     "name": "โครงงานวิศวกรรมไฟฟ้าและอิเล็กทรอนิกส์ I",
+     "credit": "2(0-6-3)"
+    },
+    {
+     "code": "03604223",
+     "name": "หลักพื้นฐานทางกลศาสตร์วิศวกรรม",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": null,
+     "name": "วิชาเฉพาะเลือก",
+     "credit": "4(--)"
+    }
+   ],
+   "total": 22
+  },
+  "4-1": {
+   "items": [
+    {
+     "code": "03601459",
+     "name": "ความปลอดภัยทางวิศวกรรมไฟฟ้า",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": "03601497",
+     "name": "สัมมนา",
+     "credit": "1"
+    },
+    {
+     "code": "03601499",
+     "name": "โครงงานวิศวกรรมไฟฟ้าและอิเล็กทรอนิกส์ II",
+     "credit": "2(0-6-3)"
+    },
+    {
+     "code": "03602301",
+     "name": "หลักพื้นฐานการจัดการผลิต",
+     "credit": "3(3-0-6)"
+    },
+    {
+     "code": null,
+     "name": "วิชาเฉพาะเลือก",
+     "credit": "4(--)"
+    },
+    {
+     "code": null,
+     "name": "วิชาเลือกเสรี",
+     "credit": "6(--)"
+    }
+   ],
+   "total": 19
+  },
+  "4-2": {
+   "items": [
+    {
+     "code": "03600490",
+     "name": "สหกิจศึกษา",
+     "credit": "6"
+    }
+   ],
+   "total": 6
+  }
+ }
+}

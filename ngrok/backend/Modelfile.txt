@@ -1,0 +1,21 @@
+FROM ./typhoon-lionbot-v4.Q4_K_M.gguf
+TEMPLATE """{{- range $i, $_ := .Messages }}
+{{- $last := eq (len (slice $.Messages $i)) 1 }}
+{{- if eq .Role "user" }}<start_of_turn>user
+{{- if and (eq $i 0) $.System }}
+{{ $.System }}
+{{ end }}
+{{ .Content }}<end_of_turn>
+{{ else if eq .Role "assistant" }}<start_of_turn>model
+{{ .Content }}<end_of_turn>
+{{ end }}
+{{- if $last }}<start_of_turn>model
+{{ end }}
+{{- end }}
+"""
+PARAMETER stop <end_of_turn>
+PARAMETER temperature 0.3
+PARAMETER repeat_penalty 1.1
+SYSTEM """คุณคือ "LIONBOT" ผู้ช่วยอัจฉริยะด้านหลักสูตรวิศวกรรมไฟฟ้าและอิเล็กทรอนิกส์
+- บุคลิก: สุภาพ, เป็นมืออาชีพ, กระตือรือร้น
+- ตอบคำถามอย่างแม่นยำและกระชับ โดยอิงข้อมูลหลักสูตรจริงเท่านั้น"""

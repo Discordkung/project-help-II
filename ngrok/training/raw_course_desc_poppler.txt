@@ -1,0 +1,1641 @@
+คำอธิบายรายวิชา
+รายวิชาที่เป็นร ั วิชาของ ลัก ูตร
+03601211
+
+การ ิเคราะ ์ งจรไฟฟ้า I
+3(3-0-6)
+(Electric Circuit Analysis I)
+นิยาม แน คิดพื้นฐานและ น่ ย องค์ประกอบ งจร การ ิเคราะ ์โนดและ
+เมช ทฤ ฎีบท งจร ค่าค ามต้านทานไฟฟ้า ค่าค ามเ นี่ย นำไฟฟ้า และค่าค ามจุ
+ไฟฟ้ า งจรอั น ดั บ นึ่ ง และ อง แผนภาพเฟ เซอร์ ั ญ ญาณรู ป ไซน์ งจร
+กำลังไฟฟ้ากระแ ลับ ระบบ ามเฟ
+Definitions. Basic concept and units. Circuit elements. Node
+and mesh analysis. Circuit theorems. Resistance, inductance and
+capacitance. First and second order circuits. Phasor diagram. Sinusoidal
+signal. Alternating current power circuits. Three-phase systems.
+
+03601212
+
+การ ิเคราะ ์ งจรไฟฟ้า II
+(Electric Circuit Analysis II)
+
+3(3-0-6)
+
+ิชาที่ต้องเรียนมาก่อน: 03601211
+ค ามถี่ เ ชิ ง ซ้ อ นและการ ิ เ คราะ ์ ใ นระนาบเอ ฟั ง ก์ ชั น งจรข่ า ย
+ผลตอบ นองเชิงค ามถี่ การแปลงลาปลาซและการประยุกต์ใช้ในการ ิเคราะ ์ งจร
+รีโซแนนซ์และการ เกล งจร งจรแบบมีการเชื่อมร่ ม ม้อแปลง งจรโครงข่าย
+แบบ องพอร์ท
+Complex frequency and s-plane analysis. Network function.
+Frequency response. Laplace transformation and its application to
+circuit analysis. Resonance and scaling circuits. Coupled circuits.
+Transformer. Two-port networks.
+03601213
+
+ปฏิบัติการ งจรไฟฟ้า
+1(0-3-2)
+(Electric Circuit Laboratory)
+ิชาที่ต้องเรียนมาก่อน: 03601211
+ปฏิ บั ติ ก ารเกี่ ย กั บ เรื่ อ งที่ เ รี ย นใน ิ ช าการ ิ เ คราะ ์ งจรไฟฟ้ า I
+(03601211)
+Laboratory experiments on topics covered in Electric Circuit
+Analysis I (03601211).
+18
+
+03601214
+
+คณิต า ตร์ ิ กรรมไฟฟ้า
+3(3-0-6)
+(Electrical Engineering Mathematics)
+เมทริกซ์ ระบบ มการและการแปลงเชิงเ ้น เ กเตอร์และ เปซ ผลเฉลย
+มการเชิงเ ้นโดย ิธีเมทริกซ์ การแปลงลาปลาซและการแปลงผกผัน ผลเฉลยที่เป็น
+อนุ กรมกำลัง ระบบ มการเชิงอนุพันธ์เชิงเ ้นและไม่เชิงเ ้ น มการเชิงอนุพันธ์
+ามัญ การประยุกต์ มการเชิงอนุพันธ์กับปัญ าทาง ิ กรรม การประยุ กต์ปัญ า
+การ าค่าเ มาะที่ ุดทาง ิ กรรมไฟฟ้า
+Matrices. Systems of linear equations and linear
+transformation. Vector and space. Solution of linear equations by
+matrices. Laplace transforms and inverse transforms. Power series
+solutions. System of linear and nonlinear differential equations.
+Ordinary differential equations. Applications of differential equations
+for engineering problems. Applications of optimization problems in
+electrical engineering.
+
+03601215
+
+ค ามน่าจะเป็นประยุกต์ ำ รับ ิ กรไฟฟ้า
+
+3(3-0-6)
+
+03601215
+
+ค ามน่าจะเป็นประยุกต์ ำ รับ ิ กรไฟฟ้า
+3(3-0-6)
+(Applied Probability for Electrical Engineers)
+ิชาที่ต้องเรียนมาก่อน: 01417168
+ค ามน่าจะเป็นแบบร่ มและแบบมีเงื่อนไข ค ามเป็นอิ ระทาง ถิติ ตั
+แปร ุ่มแบบไม่ต่อเนื่องและแบบต่อเนื่อง ฟังก์ชันการแจกแจงและค าม นาแน่น
+การดำเนิ น การบนตั แปร ุ่ มตั เดี ย และ ลายตั การคาด มาย โมเมนต์และ
+ฟังก์ชันลัก ณะเฉพาะ กฎของตั เลขขนาดใ ญ่ ผลร มของตั แปร ุ่ม การคำน ณ
+ค ามเชื่อถือได้เบื้องต้น การทด อบรูปแบบการกระจายของข้อมูล
+Joint and conditional probability. Statistical independence.
+Discrete and continuous random variables. Distribution and density
+functions. Operations on one and multiple random variables.
+Expectation, moments and characteristic functions. Law of large
+numbers. Sum of random variables. Basic reliability calculations.
+Testing the fit of a distribution of data.
+
+19
+
+03601221
+
+เทคโนโลยีการ ื่อ ารและโครงข่ายไฟฟ้าอัจฉริยะ
+3(3-0-6)
+(Communication Technology and Smart Grid)
+การ ื่อ ารข้อมูลและเทคโนโลยีเครือข่ายคอมพิ เตอร์เบื้องต้น เทคโนโลยี
+อินเทอร์เน็ต เทคโนโลยีโทรคมนาคม โครงข่ายโทร ัพท์ เทคโนโลยีบรอดแบนด์
+ระบบการจำ น่ายไฟฟ้า อุปกรณ์อัตโนมัติ ำ รับการจำ น่ายไฟฟ้า การบูรณาการ
+ด้านการบริโภคไฟฟ้า การ ัดอัจฉริยะ การประยุกต์เทคโนโลยีการ ื่อ าร ำ รับ
+โครงข่ายไฟฟ้าอัจฉริยะ
+Introduction to data communication and computer network
+technology. Internet technology. Telecommunication technology.
+Telephone network. Broadband technology. Distribution system.
+Distribution automation equipment. Demand-side integration. Smart
+metering. Communication technology applications for smart grid.
+
+03601231
+
+งจรและระบบอิเล็กทรอนิก ์ I
+3(3-0-6)
+(Electronic Circuits and Systems I)
+ิชาที่ต้องเรียนมาก่อน: 03601211
+อุ ป กรณ์ ารกึ่ งตั นำ ลั ก ณะเฉพาะกระแ แรงดั น และค ามถี่ การ
+
+ิเคราะ ์และออกแบบ งจรไดโอด การ ิเคราะ ์และออกแบบ งจรทรานซิ เตอร์บี
+เจที มอ ซีมอ และไบซีมอ ตั ขยาย ัญญาณเชิงดำเนินการและประยุกต์ใช้งาน
+โมดูลแ ล่งจ่ายไฟ
+Semiconductor devices. Current-voltage and frequency
+characteristics. Analysis and design of diode circuits. Analysis and
+design of BJT, MOS, CMOS and BiCMOS transistor circuits. Operational
+amplifier and its applications. Power supply module.
+03601232
+
+การออกแบบ งจรดิจิทัลและตรรกะ
+3(3-0-6)
+(Digital Circuits and Logic Design)
+ระบบจำน นและร ั พี ช คณิ ต แบบบู ลิ น ลั ก การการออกแบบ งจร
+ตรรกะเชิงจัด มู่และ งจรตรรกะเชิงจัด มู่ ำเร็จรูป การออกแบบ งจรโดยใช้คาร์
+โน ลักการการออกแบบ งจรตรรกะเป็นลำดับและ งจรตรรกะเป็นลำดับ ำเร็จรูป
+การออกแบบ งจรตรรกะโดยใช้ เตตแมชชีน การออกแบบ งจรตรรกะเป็นลำดับ
+แบบประ านเ ลาและไม่ประ านเ ลา งจรร มดิจิทัลตระกูลต่างๆ อุปกรณ์ตรรกะ
+
+20
+
+แบบโปรแกรมได้ ก ารต่ อ เชื่ อ มกั บ งจรแอนะล็ อ ก การแนะนำ ิ ธี ใช้ โ ปรแกรม
+คอมพิ เตอร์เพื่อช่ ยออกแบบ งจรดิจิทัล
+Number systems and codes. Boolean algebra. Combinational logic
+design principles and practices. Logic design by using Karnaugh map.
+Sequential logic design principles and practices. Logic design by using
+state machine. Synchronous and asynchronous sequential logic design.
+Various families of digital integrated circuits. Programmable logic
+devices. Interfacing with analogue circuits. Introduction to computer
+aid design for digital logic design.
+03601241
+
+นามแม่เ ล็กไฟฟ้าและคลื่น
+3(3-0-6)
+(Electromagnetic Fields and Waves)
+ิชาที่ต้องเรียนมาก่อน: 01417168
+การ ิเคราะ ์เ กเตอร์ นามไฟฟ้า ถิต กฎของคูลอมบ์ ักย์และพลังงาน
+ตั นำและไดอิเล็กทริก ค ามจุ กระแ แบบพาและแบบนำ ผลเฉลยของ มการลา
+ปลาซและ มการปั ซง นามแม่ เ ล็ ก ค ามเ นี่ ย นำ กระแ กระจั ด
+นามแม่เ ล็กไฟฟ้าที่แปรค่าตามเ ลา มการแมกซ์เ ล และคลื่นระนาบ
+Vector analysis. Electrostatic fields. Coulomb's law. Potential
+
+Vector analysis. Electrostatic fields. Coulomb's law. Potential
+and energy. Conductors and dielectric. Capacitance. Convection and
+conduction currents. Solution of Laplace’s and Poisson’s equations.
+Magnetic fields. Inductance. Displacement current. Time-varying
+electromagnetic fields. Maxwell’s equations and plane wave.
+03601251
+
+การแปลงผันพลังงานเครื่องกลไฟฟ้า I
+3(3-0-6)
+(Electromechanical Energy Conversion I)
+แ ล่งต้นทางพลังงาน งจรแม่เ ล็ก ลักแม่เ ล็กไฟฟ้าและการแปลงผัน
+พลังงานกลไฟฟ้า พลังงานและพลังงานร่ ม ลักเครื่องจักรชนิด มุน เครื่องจักร
+กระแ ตรง ิธีการเริ่ม เดิ นมอเตอร์กระแ ตรง ิธีการค บคุมค ามเร็ มอเตอร์
+กระแ ตรง ทฤ ฎีและการ ิเคราะ ์ ม้อแปลงเฟ เดี่ย และ ามเฟ
+Energy sources. Magnetic circuits. Principles of electromagnetic
+and electromechanical energy conversion. Energy and co-energy.
+Principles of rotating machines. Direct current machines. Starting
+method of direct current motors. Methods of direct current motors
+21
+
+speed control. Theory and analysis of single phase and three phase
+transformers.
+03601252
+
+ปฏิบัติการการแปลงผันพลังงานเครื่องกลไฟฟ้า I
+1(0-3-2)
+(Electromechanical Energy Conversion Laboratory I)
+ิชาที่ต้องเรียนมาก่อน: 03601251 รือพร้อมกัน
+ปฏิบัติการเกี่ย กับเรื่องที่เรียนใน ิชาการแปลงผันพลังงานเครื่องกลไฟฟ้า I
+(03601251)
+Laboratory experiments on topics covered in
+Electromechanical Energy Conversion I (03601251).
+
+03601271
+
+การปฏิบัติงานทาง ิ กรรมไฟฟ้า
+1(0-3-2)
+(Practice in Electrical Engineering)
+การติดตั้งไฟฟ้าภายในอาคาร การใช้เครื่องมือ ัด การ ัดค ามต้านทานดิน
+การค บคุมการเริ่มเดินมอเตอร์เบื้องต้น
+Electrical installation in building. Instrumental utilization.
+Grounding resistance measurement. Introduction to motor starting
+control.
+
+control.
+03601311
+
+ัญญาณและระบบ
+3(3-0-6)
+(Signals and Systems)
+ิชาที่ต้องเรียนมาก่อน: 03601212 รือพร้อมกัน
+ัญญาณและระบบต่อเนื่องทางเ ลาและไม่ต่อเนื่องทางเ ลา ระบบเชิงเ ้น
+และไม่แปรตามเ ลา การ ิเคราะ ์ ัญญาณโดยใช้การแปลงฟูเรียร์ การแปลงลา
+ปลาซและการแปลงซี การประยุ ก ต์ ั ญ ญาณและระบบ เทคนิ ค ทั น มั ยในการ
+ิเคราะ ์ ัญญาณและระบบ
+Continuous-time and discrete-time signal and systems. Linear
+time-invariant systems. Signal analysis using Fourier transform. Laplace
+transform and Z-transform. Applications of signal and systems. Modern
+techniques in signal and system analysis.
+
+22
+
+03601314
+
+การประม ล ัญญาณดิจิทัล
+
+3(3-0-6)
+
+(Digital Signal Processing)
+ัญญาณเ ลาไม่ต่อเนื่องและระบบ การแปลงฟูเรียร์และการแปลงฟูเรียร์ไม่
+ต่อเนื่อง การแปลงซี การชักตั อย่าง ัญญาณเ ลาต่อเนื่อง การ ิเคราะ ์การแปลง
+ของระบบไม่เปลี่ยนแปลงตามเ ลาเชิงเ ้น โครง ร้างของระบบเ ลาไม่ต่อเนื่อง การ
+ประยุกต์การประม ล ัญญาณดิจิทัล
+Discrete-time signals and systems. Fourier transform and
+discrete Fourier transform. Z transform. Sampling of continuous time
+signal. Transform analysis of linear time-invariant systems. Structures
+for discrete-time systems. Digital signal processing applications.
+03601315
+
+ปฏิบัติการประม ล ัญญาณดิจิทัล
+1(0-3-2)
+(Digital Signal Processing Laboratory)
+ิชาที่ต้องเรียนมาก่อน: 03601314 รือพร้อมกัน
+ปฏิ บั ติ ก ารเกี่ ย กั บ เรื่ อ งที่ เ รี ย นใน ิ ช าการประม ล ั ญ ญาณดิ จิ ทั ล
+(03601314)
+Laboratory experiments on topics covered in Digital Signal
+Processing (03601314).
+
+03601321
+
+Processing (03601314).
+ลักการ ื่อ าร
+3(3-0-6)
+(Principles of Communications)
+ิชาที่ต้องเรียนมาก่อน: 03601311
+บทนำ ู่ ัญญาณและระบบ เปคตรัมของ ัญญาณและการประยุกต์ของ
+อนุกรมและการแปลงฟูเรียร์ การกล้ำ ัญญาณเอเอ็ม ดีเอ บี เอ เอ บี เอฟเอ็ม เอ็น
+บี เอฟเอ็ ม พี เอ็ ม ั ญ ญาณรบก นในการ ื่ อ ารแอนะล็ อ ก การกล้ ำ ั ญ ญาณ
+เบ แบนด์ไบนารี ทฤ ฎีการ ุ่ม ัญญาณของไนค ิ ต์ การกล้ำ ัญญาณแอนะล็อก
+พั ล ์ การกล้ ำ ั ญ ญาณร ั พั ล ์ การกล้ ำ ั ญ ญาณเดลต้ า การมั ล ติ เพล็ ก การ
+มัลติเพล็กแบบแบ่งเ ลา บทนำ ู่ าย ่ง การแพร่กระจายคลื่น ิทยุ ่ นประกอบ
+ไมโครเ ฟและการ ื่อ ารดา เทียม และการ ื่อ ารทางแ ง
+Introduction to signal and systems. Spectrum of signal and
+applications of Fourier series and transform. Analog modulation. DSB.
+SSB. FM. NBFM. PM. Noise in analog communication. Binary baseband
+modulation. Nyquist’s sampling theory and quantization. Pulse analog
+23
+
+modulation. Pulse code modulation. Delta modulation. Multiplexing.
+Time-division multiplexing. Introduction to transmission lines. Radio
+wave propagation. Microwave components and satellite
+communications and optical communication.
+03601323
+
+ปฏิบัติการไฟฟ้า ื่อ าร
+1(0-3-2)
+(Communication Laboratory)
+ิชาที่ต้องเรียนมาก่อน: 03601321 รือพร้อมกัน
+ปฏิบัติการเกี่ย กับเรื่องที่เรียนใน ิชา ลักการ ื่อ าร (03601321)
+Laboratory experiments on topics covered in Principles of
+Communications (03601321).
+
+03601331
+
+ปฏิบัติการอิเล็กทรอนิก ์
+1(0-3-2)
+(Electronics Laboratory)
+ิชาที่ต้องเรียนมาก่อน: 03601231
+ปฏิ บั ติ ก ารเกี่ ย กั บ เรื่ อ งที่ เรี ย นใน ิช า งจรและระบบอิ เล็ ก ทรอนิ ก ์ I
+(03601231)
+Laboratory experiments on topics covered in Electronic Circuits
+and Systems I (03601231).
+
+and Systems I (03601231).
+03601332
+
+ไมโครโพรเซ เซอร์
+3(3-0-6)
+(Microprocessors)
+ิชาที่ต้องเรียนมาก่อน: 03601232
+แนะนำไมโครโพรเซ เซอร์ โครง ร้างของไมโครโพรเซ เซอร์ การเขียน
+โปรแกรมแอ เซมบลี้ เทคนิคการเชื่อมต่อ น่ ยค ามจำ การเชื่อมต่อรับเข้าและ
+่งออก การประยุกต์ใช้ไมโครโพรเซ เซอร์ในระบบการ ัด การประยุกต์ใช้ไมโคร
+โพรเซ เซอร์ในระบบอัตโนมัติ
+Introduction to microprocessors. Structure of microprocessors.
+Assembly programming. Interface techniques. Memories. Input-output
+interfaces. Applications of microprocessors in instrumentation systems.
+Applications of microprocessors in automation systems.
+
+24
+
+03601333
+
+ปฏิบัติการไมโครโพรเซ เซอร์
+(Microprocessors Laboratory)
+ิชาที่ต้องเรียนมาก่อน: 03601332 รือพร้อมกัน
+ปฏิบัติการ ำ รับ ิชาไมโครโพรเซ เซอร์
+Laboratory for microprocessors.
+
+1(0-3-2)
+
+03601334
+
+งจรและระบบอิเล็กทรอนิก ์ II
+3(3-0-6)
+(Electronic Circuits and Systems II)
+ิชาที่ต้องเรียนมาก่อน: 03601231
+งจรขยาย ลายขั้ น ของทรานซิ เตอร์ การตอบ นองต่ อ ค ามถี่ ข อง
+งจรขยายบีเจทีและเจเฟท ผลมิลเลอร์ ผลเชิงค ามถี่ ลายขั้น งจร ะท้อนกระแ
+และ งจรกำเนิดกระแ งจรขยายผลต่างแบบไบเฟท ไบมอ และไบซีมอ การ
+ประยุกต์ออปแอมป์ขั้น ูง งจรกรองออปแอมป์แบบแอ็กทิฟ ออฟเซตและค ามถี่
+ของออปแอมป์ การ ิเคราะ ์ระบบป้อนกลับทางลบ งจรออ ซิลเลเตอร์แบบปรับ
+ค่าได้ งจรขยายกำลังรูปแบบต่างๆ งจรร มเชิงเ ้นและดิจิทัล
+Transistor multistage amplifiers. Frequency response of BJT
+and JFET amplifier circuits. Miller effect. Multistage frequency effect.
+Current mirror and current source circuits. BiFET, BiMOS and BiCMOS
+differential amplifiers. Advanced op-amp applications. Op-amp active
+
+filters. Op-amp offset and frequency. Negative feedback system
+analysis. Tuned-oscillator circuits. Different class of power amplifiers.
+Linear and digital integrated circuits.
+03601335
+
+ปฏิบัติการอิเล็กทรอนิก ์ขั้น ูง
+1(0-3-2)
+(Advanced Electronics Laboratory)
+ิชาที่ต้องเรียนมาก่อน: 03601331
+งจรขยาย งจรแปลงกระแ เป็นแรงดัน งจรแปลงแรงดันเป็นกระแ
+งจรปรับตำแ น่ง ูนย์และค ามชัน งจรกรองค ามถี่ การ ัดผลตอบ นองต่อ
+ค ามถี่ การ ัดค ามผิดเพี้ยน การ ัดโครงข่าย องทาง
+Amplifier circuits. Current to voltage converter circuit. Voltage
+to current converter circuit. Zero and span circuit. Filter circuits.
+Measurement of frequency response. Measurement of harmonic
+distortion. Measurement of two port network.
+25
+
+03601336
+
+การออกแบบและประยุกต์ งจรอิเล็กทรอนิก ์
+
+3(3-0-6)
+
+(Design and Application of Electronic Circuits)
+ิชาที่ต้องเรียนมาก่อน: 03601231
+การออกแบบ งจรเรียงกระแ นึ่งเฟ และ ลายเฟ
+
+งจรรัก าระดับ
+
+แรงดั น คงค่ า แบบเชิ งเ ้ น และแบบ ิ ต ช์ งจรขยายแรงดั น และกำลั ง การขั บ
+มอ เฟทกำลั งและไอจีบีที การออกแบบ งจรผกผั น การลดการ ู ญ เ ี ยใน งจร
+อิเล็ กทรอนิ ก ์ การออกแบบ งจรอิเล็กทรอนิก ์โดยโปรแกรมคอมพิ เตอร์ การ
+ออกแบบแผ่นพีซีบี การประยุกต์ งจรอิเล็กทรอนิก ์
+Rectifier design for single phase and multiphase. Linear and
+switching voltage regulators. Voltage and power amplifiers. Driving
+power MOSFET and IGBT. Inverter design. Loss reduction in electronic
+circuit. Electronic circuit design by computer program. PCB design.
+Electronic circuit applications.
+03601351
+
+การแปลงผันพลังงานเครื่องกลไฟฟ้า II
+(Electromechanical Energy Conversion II)
+
+3(3-0-6)
+
+ิชาที่ต้องเรียนมาก่อน: 03601251
+ม้ อแปลงในระบบ ามเฟ โครง ร้างเครื่อ งจั ก รกลไฟฟ้ ากระแ ลั บ
+เครื่องจักรกลซิงโครนั เครื่องจักรกลเ นี่ย นำเฟ เดี่ย และ ามเฟ การป้องกัน
+เครื่องจักรกลไฟฟ้า
+Transformers in three phase systems. AC electrical machine
+structure. Synchronous machines. Single phase and three phase
+induction machines. Protection of electrical machines.
+03601352
+
+ปฏิบัติการการแปลงผันพลังงานเครื่องกลไฟฟ้า II
+(Electromechanical Energy Conversion Laboratory II)
+ิชาที่ต้องเรียนมาก่อน: 03601351
+
+26
+
+1(0-3-2)
+
+ปฏิบัติการเกี่ย กับเรื่องที่เรียนใน ิชาการแปลงผันพลังงานเครื่องกลไฟฟ้า
+II (03601351) และเรื่องอื่นๆ ที่เกี่ย ข้อง
+Laboratory
+
+experiments
+
+on
+
+topics
+
+covered
+
+in
+
+Electromechanical Energy Conversion II (03601351) and others related
+topics.
+03601353
+
+การออกแบบระบบไฟฟ้า
+
+3(3-0-6)
+
+(Electrical System Design)
+แน คิ ด และข้ อ พึ งปฏิ บั ติ ำ รับ การออกแบบพื้ น ฐาน มาตรฐาน แบบ
+แผนการจ่ายกำลังไฟฟ้า ายและเคเบิลไฟฟ้า รางเดิน าย อุปกรณ์และเครื่องไฟฟ้า
+การคำน ณโ ลด การปรับปรุงตั ประกอบกำลังและการออกแบบคลังเก็บประจุ
+การออกแบบระบบแ ง ่างและเครื่องใช้ การออกแบบ งจรมอเตอร์ การกำ นด
+รายการโ ลด ายป้อน และ ายประธาน ระบบกำลั งไฟฟ้าฉุกเฉิน การคำน ณ
+กระแ ลั ด งจร ระบบต่ อ ลงดิ น ำ รับ การติ ด ตั้ ง ไฟฟ้ า ค ามปลอดภั ย ในการ
+ออกแบบ
+Concept and code of practice for basic design. Standards.
+Power distribution schemes. Electrical wires and cables. Raceways.
+
+Electrical equipment and apparatus. Load calculation. Power factor
+improvement and capacitor bank circuit design. Lighting and
+appliances circuit design. Motor circuit design. Load, feeder and main
+schedule. Emergency power systems. Short circuit current calculation.
+Grounding systems for electrical installation. Design safety.
+03601355
+
+ิ กรรมไฟฟ้าแรง ูง
+
+3(3-0-6)
+
+(High-Voltage Engineering)
+การใช้ประโยชน์ไฟฟ้าแรง ูงและแรงดันเกินในระบบไฟฟ้ากำลัง การกำเนิด
+ไฟฟ้าแรง ูงเพื่อการทด อบ เทคนิคการ ัดไฟฟ้าแรง ูง ค ามเครียด นามไฟฟ้า
+และเทคนิ ค การฉน น การเบรกดา น์ ในไดอิ เล็ ก ทริกที่ เป็ น ก๊าซ ของเ ล และ
+
+27
+
+ของแข็ ง เทคนิ ค การทด อบไฟฟ้ า แรง ู ง ฟ้ าผ่ าและการป้ อ งกั น การประ าน
+ัมพันธ์ฉน น
+Uses of high voltage and overvoltage in power systems.
+Generation of high voltage for testing. High voltage measurement
+techniques. Electric field stress and insulation techniques. Breakdown
+of gas, liquid and solid dielectric. High voltage testing techniques.
+Lightning and protection. Insulation coordination.
+03601356
+
+ิ กรรมการ ่อง ่าง
+
+3(3-0-6)
+
+(Illumination Engineering)
+แ ล่งกำเนิดแ ง แ งและ ี ด งโคม การ ่อง ่างมูลฐาน ลักการคำน ณ
+ในการ ่ อ ง ่ า ง เทคนิ ค การใ ้ แ ง ่ า งภายในอาคารและภายนอกอาคาร
+ประ ิทธิภาพพลังงานของการ ่อง ่าง ผลของมลภา ะทางแ ง
+Light sources. Light and color. Luminaries. Basic illumination.
+Principle of lighting calculation. Interior and exterior lighting
+techniques. Energy efficiency of lighting. Effects of light pollution.
+03601357
+
+ระบบไฟฟ้ากำลัง
+
+3(3-0-6)
+
+03601357
+
+ระบบไฟฟ้ากำลัง
+
+3(3-0-6)
+
+(Electrical Power System)
+ิชาที่ต้องเรียนมาก่อน: 03601214
+ลักการของระบบการผลิต ระบบ ่งจ่าย และระบบจำ น่าย ลัก ณะและ
+แบบจำลองของเครื่องกำเนิดไฟฟ้า ม้อแปลงกำลัง และ าย ่ง ค าม ัมพันธ์ของ
+แรงดันไฟฟ้าและกระแ ไฟฟ้าในระบบ ่งจ่ายและระบบจำ น่าย งจรกำลังไฟฟ้า
+กระแ ลั บ ระบบต่ อ น่ ย พื้ น ฐานการไ ลของโ ลด พื้ น ฐานการคำน ณค่ า
+ค ามผิ ด พร่ อ ง พื้ น ฐานการ ิเคราะ ์ ก ารลั ด งจรแบบ มมาตรและไม่ มมาตร
+เ ถียรภาพแบบชั่ ครู่ การดำเนินงานระบบอย่างประ ยัด
+Principles of generation, transmission and distribution system.
+Characteristics and models of generator, power transformer and
+transmission line. Voltage and current relationship in transmission and
+28
+
+distribution systems. Alternating current power circuit. Per unit system.
+Basic of load flow. Basic of fault calculation. Basic of symmetrical and
+unsymmetrical short circuit analysis. Transient stability. Economical
+system operation.
+03601358
+
+ปฏิบัติการ ิ กรรมไฟฟ้าแรง ูง
+
+1(0-3-2)
+
+(High-Voltage Engineering Laboratory)
+ิชาที่ต้องเรียนมาก่อน: 03601355
+ปฏิบัติการเกี่ย กับเรื่องที่เรียนใน ิชา ิ กรรมไฟฟ้าแรง ูง
+Laboratory experiments on topics covered in High-Voltage
+Engineering.
+03601361
+
+เครื่องมือ ัดและการ ัดทางไฟฟ้า
+
+3(3-0-6)
+
+(Electrical Instruments and Measurements)
+ิชาที่ต้องเรียนมาก่อน: 03601231
+น่ ยและมาตรฐานของการ ัดทางไฟฟ้า ประเภทและคุณลัก ณะเฉพาะ
+ของเครื่ อ งมื อ ั ด การ ิ เคราะ ์ ก าร ั ด การ ั ด กระแ ไฟฟ้ า และแรงดั น ไฟฟ้ า
+กระแ ตรงและกระแ ลั บ โดยใช้ เครื่ อ งมื อ ั ด อนาล็ อ กและดิ จิ ต อล การ ั ด
+
+กระแ ตรงและกระแ ลั บ โดยใช้ เครื่ อ งมื อ ั ด อนาล็ อ กและดิ จิ ต อล การ ั ด
+กำลังไฟฟ้า เพาเ อร์แฟคเตอร์และพลังงานไฟฟ้า การ ัดค่าค ามต้านทาน ค าม
+เ นี่ ย นำและค ามจุ ไ ฟฟ้ า การ ั ด ค ามถี่ แ ละช่ งเ ลา ั ญ ญาณรบก น
+ทราน ์ดิ เซอร์ การ อบเทียบ
+Units and standard of electrical measurement. Instrument
+classification and characteristics. Measurement analysis. Measurement
+of DC and AC current and voltage using analog and digital instruments.
+Power, power factor and energy measurement. Measurement of
+resistance, inductance and capacitance. Frequency and period/time
+interval measurement. Noise. Transducers. Calibration.
+
+29
+
+03601362
+
+ระบบค บคุมเชิงเ ้น
+
+3(3-0-6)
+
+(Linear Control Systems)
+ิชาที่ต้องเรียนมาก่อน: 03601212
+แบบจำลองทางคณิต า ตร์ของระบบ ฟังก์ชันถ่ายโอน แบบจำลองของ
+ระบบในโดเมนเ ลาและโดเมนค ามถี่ แบบจำลองพล ัตและการตอบ นองพล ัต
+ของระบบ ระบบอั น ดั บ ที่ นึ่ งและ อง การค บคุ ม แบบ งเปิ ด และ งปิ ด การ
+ค บคุมแบบปัอนกลับและค ามไ รูปแบบการค บคุมแบบป้อนกลับ แน ค ามคิด
+และเงื่อนไขของเ ถียรภาพของระบบ ิธีของการทด อบเ ถียรภาพ
+Mathematical models of systems. Transfer function. System
+models on time domain and frequency domain. Dynamic models and
+dynamic responses of systems. First and second order systems. Openloop and closed-loop control. Feedback control and sensitivity. Types
+of feedback control. Concepts and conditions of system stability.
+Methods of stability test.
+03601363
+
+ปฏิบัติการการค บคุมและการ ัด
+
+1(0-3-2)
+
+(Control and Measurement Laboratory)
+ิชาที่ต้องเรียนมาก่อน: 03601361 และ 03601362 รือพร้อมกัน
+
+ปฏิบั ติการเกี่ย กับเรื่องที่เรียนใน ิช าเครื่องมือ ัดและการ ัดทางไฟฟ้ า
+และระบบค บคุมเชิงเ ้น
+Laboratory experiments on topics covered in Electrical
+Instruments and Measurements and Linear Control Systems.
+03601364
+
+ระบบอัตโนมัติทางอุต า กรรม
+
+3(3-0-6)
+
+(Industrial Automation Systems)
+แนะนำการค บคุมทางอุต า กรรม ภา ะ ัญญาณแอนะล็อก ภา ะ
+ัญญาณดิจิทัล ตั รับรู้ ตั แปร ัญญาณ ตั ค บคุมแอนะล็อก ตั ค บคุมดิจิทัล
+การค บคุมลำดับ ตั ค บคุมตรรกะโปรแกรมได้ (พีแอลซี) การเขียนโปรแกรมพี
+
+30
+
+แอลซี การเชื่ อ มต่ อ พี แ อลซี การเชื่ อ มต่ อ ระ ่ า งมนุ ย์ แ ละเครื่ อ งจั ก ร การ
+
+แอลซี การเชื่ อ มต่ อ พี แ อลซี การเชื่ อ มต่ อ ระ ่ า งมนุ ย์ แ ละเครื่ อ งจั ก ร การ
+ประยุกต์ใช้พีแอลซีในระบบอัตโนมัติ
+Introduction to industrial control. Analog signal conditioning.
+Digital signal conditioning. Sensors and transducers. Analog controllers.
+Digital controllers. Sequence control. Programmable logic controllers
+(PLC). PLC programming. PLC interfaces. Human-machine interface.
+PLC applications in automation systems.
+03601365
+
+ปฏิบัติการระบบอัตโนมัติทางอุต า กรรม
+
+1(0-3-2)
+
+(Industrial Automation Systems Laboratory)
+ิชาที่ต้องเรียนมาก่อน: 03601364 รือพร้อมกัน
+ปฏิ บั ติ ก ารเกี่ ย กั บ เรื่อ งที่ เรีย นใน ิ ช าระบบอัต โนมั ติ ท างอุ ต า กรรม
+(03601364)
+Laboratory experiments on topics covered in Industrial
+Automation Systems (03601364).
+03601371
+
+การเตรียมค ามพร้อมก่อนฝึกงาน
+
+1(0-3-2)
+
+(Internship Preparation)
+การใช้ ซ อฟต์ แ ร์ ค อมพิ เตอร์ การนำเ นอและรายงาน การใช้ ง าน
+ซอฟต์แ ร์ ำเร็จรูปทาง ิ กรรมไฟฟ้ า การใช้งานเครื่องมือ ัด การพั ฒ นาด้าน
+
+ซอฟต์แ ร์ ำเร็จรูปทาง ิ กรรมไฟฟ้ า การใช้งานเครื่องมือ ัด การพั ฒ นาด้าน
+บุคลิกภาพ ค ามปลอดภัย จรรยาบรรณ ิ กร
+Computer software utilization. Presentation and report.
+Electrical engineering software utilization. Instrument utilization.
+Personality development. Safety. Ethics of engineer.
+03601382
+
+โปรแกรมประยุกต์ ำ รับ ิ กรไฟฟ้า
+
+3(3-0-6)
+
+(Application Programs for Electrical Engineers)
+ลักการออกแบบและจำลองระบบไฟฟ้า โปรแกรมประยุกต์ ำ รับการ
+ร้างแผนผังไฟฟ้า การ ิเคราะ ์และการ างแผนระบบกำลัง การ ิเคราะ ์และ ร้าง
+แบบจำลองของระบบค บคุม การออกแบบและการจำลองระบบอิเล็กทรอนิก ์
+31
+
+กำลังและการขับเคลื่อนมอเตอร์ โครงงานการประยุกต์โปรแกรมคอมพิ เตอร์ทาง
+
+กำลังและการขับเคลื่อนมอเตอร์ โครงงานการประยุกต์โปรแกรมคอมพิ เตอร์ทาง
+ิ กรรมไฟฟ้า
+Electrical system design and simulation principles. Application
+programs for creating electrical schematic, power system analysis and
+planning, control system analysis and modelling, design and
+simulation of power electronics system and motor drive. Electrical
+engineering application program project.
+03601432
+
+การออกแบบประยุกต์ งจรร มแอนะล็อก
+
+3(3-0-6)
+
+(Analog Integrated Circuit Application Designs)
+ลักมูล งจรร มแอนะล็อก การ ิเคราะ ์ป้อนกลับทางลบและอัตราขยาย
+ง น การออกแบบ งจรประยุกต์ ตั เปลี่ ยนแรงดันเป็น กระแ และกระแ เป็ น
+แรงดัน งจรขยายกระแ งจรขยายผลต่าง งจรขยายของ ิชาการเครื่องมือ การ
+ใ ้กำลัง งจรร ม การป้อนกลั บด้ ยกระแ
+
+งจรขยายแบบต่อเรีย ง งจรขยาย
+
+แรงดั น ต่ ำ ชนิ ด และการประยุ ก ต์ งจรกรองแอ็ก ทิ ฟ ตั ค บคุ ม การ ลั บ งจร
+แรงดัน อ้างอิง ตั เปลี่ยน ัญ ญาณแอนะล็ อกเป็นดิจิทัลและดิจิทัลเป็นแอนะล็อก
+งจรขยายแบบไม่เชิงเ ้น งจรเฟ ล็อกลูป
+Analog integrated circuit fundamentals. Negative feedback and
+loop gain analysis. Design of application circuits; voltage to current
+and current to voltage converters. Current amplifiers. Differential
+
+and current to voltage converters. Current amplifiers. Differential
+amplifiers. Instrumentation amplifiers. Integrated circuit powering.
+Current-feedback. Cascade amplifiers. Low-voltage amplifiers. Type
+and application of active filters. Switching regulators. Voltage reference
+circuits. Analog to digital and digital to analog converters. Nonlinear
+amplifiers. Phase-locked loop circuit.
+
+32
+
+03601433
+
+อิเล็กทรอนิก ์อุต า กรรม
+
+3(3-0-6)
+
+(Industrial Electronics)
+ิชาที่ต้องเรียนมาก่อน: 03601231 รือพร้อมกัน
+งจรอิเล็ กทรอนิ ก ์ ำ รับการผลิตแบบอัตโนมัติ อุปกรณ์ ารกึ่งตั นำ
+กำลั ง อุป กรณ์ ด้านเข้าและ ่งออก ำ รับการค บคุมทางอุต า กรรม ลักการ
+พื้นฐานของ งจรอิเล็กทรอนิก ์กำลัง งจรเรียงกระแ แบบค บคุมได้ งจรแปลง
+ผันกำลังไฟฟ้า รีเลย์ชนิดโซลิด เตต ุ่นยนต์อุต า กรรมและการ ื่อ ารระ ่าง
+เครื่องจักรกลอัจฉริยะ
+Electronic circuits for automatic manufacturing. Power
+semiconductor devices. Input and output devices for industrial
+control. Basic principles of power electronic circuits. Controlled
+rectifiers. Converter circuit. Solid-state relay. Industrial robots and data
+communication between intelligent machines.
+03601434
+
+การพัฒนาระบบอิเล็กทรอนิก ์โดยใช้คอมพิ เตอร์ช่ ย
+
+3(3-0-6)
+
+(Computer Aided Electronic System Development)
+กระบ นการออกแบบเชิง ิ กรรม การพัฒนาระบบอิเล็กทรอนิก ์ การ
+พัฒ นาโดยใช้คอมพิ เตอร์ช่ ยและ งจรชี ิตของระบบอิเล็กทรอนิก ์ เทคโนโลยี
+แผ่ น งจรพิ ม พ์ การยึ ด พื้ น ผิ และการ ร้า งต้ น แบบร ดเร็ การทำเอก ารเชิ ง
+
+เทคนิ ค ซอฟต์แ ร์ที่ เกี่ย ข้องกับ การออกแบบระบบอิเล็ กทรอนิ ก ์ การจัดการ
+แผนผัง คลังและ ่ นประกอบ การตร จ อบกฎทางไฟฟ้าและรายการการเชื่อมต่อ
+การ ิเคราะ ์และการจำลองการทำงาน งจร การออกแบบระดับแผ่น ข้อแนะนำ
+การออกแบบระบบที่มีค ามต้องการพิเ
+Engineering design process. Electronic system development.
+Computer aided development and life cycle of electronic system.
+Printed circuit board, surface-mount and rapid prototyping
+technologies. Technical documentation. Electronic system design
+related software. Schematic, library and component management.
+Electrical rule check and netlist. Circuit analysis and simulation. Board
+33
+
+level design. Design recommendations for systems with special
+requirements.
+
+requirements.
+03601451
+
+ค ามเชื่อถือได้เบื้องต้นของระบบกำลัง
+
+3(3-0-6)
+
+(Basic Power System Reliability)
+นิยามและแน คิดของค ามเชื่อถือได้ การประยุกต์ใช้งานการแจกแจงแบบ
+ท ินาม การ ร้างแบบจำลองโครงข่ายและการประเมินผลของระบบอย่างง่ายและ
+ซับซ้อน การประเมินผลค ามเชื่อถือได้ของระบบโดยใช้ การแจกแจง โซ่มาร์คอฟ
+แบบไม่ต่อเนื่อง กระบ นการมาร์คอฟแบบต่อเนื่อง เทคนิคค ามถี่และช่ งเ ลา
+ดรรชนีการขัดข้องโดยการจำลองแบบมอนติคาโล
+Reliability definitions and concepts. Application of the binomial
+distribution. Network modeling and evaluation of simple and complex
+system. System reliability evaluation using probability distributions.
+Discrete Markov chains. Continuous Markov processes. Frequency and
+duration techniques. Monte Carlo simulation interruption indices.
+03601452
+
+โรงจักรไฟฟ้ากำลัง
+
+3(3-0-6)
+
+(Electric Power Plants)
+ิชาที่ต้องเรียนมาก่อน: 03601251
+เ ้ น โค้งโ ลด โรงจักรไฟฟ้าดีเซล โรงจักรไฟฟ้าพลั งไอน้ำ โรงจักรไฟฟ้ า
+
+เ ้ น โค้งโ ลด โรงจักรไฟฟ้าดีเซล โรงจักรไฟฟ้าพลั งไอน้ำ โรงจักรไฟฟ้ า
+กัง ันแก๊ โรงจักรไฟฟ้าพลังงานค ามร้อนร่ ม โรงจักรไฟฟ้าพลังน้ำ โรงจักรพลัง
+นิ เคลียร์ แ ล่งกำเนิดพลังงานทดแทน ประเภทของ ถานีไฟฟ้าย่อย อุปกรณ์ ถานี
+ไฟฟ้าย่อย การ างผัง ถานีไฟฟ้าย่อย การป้องกันฟ้าผ่า การต่อลงดิน เ ร ฐ า ตร์
+ทางด้านระบบไฟฟ้ากำลัง
+Load curve. Diesel power plant. Steam power plant. Gas
+turbine power plant. Combined cycle power plant. Hydro power
+plant. Nuclear power plant. Renewable energy sources. Type of
+substation. Substation equipment. Substation layout. Lightning
+protection. Grounding systems. Economic operation in power system.
+34
+
+03601454
+
+ปฏิบัติการระบบไฟฟ้ากำลัง
+(Electrical Power System Laboratory)
+
+1(0-3-2)
+
+(Electrical Power System Laboratory)
+ิชาที่ต้องเรียนมาก่อน: 03601357
+ปฏิบัติการเกี่ย กับเรื่องที่เรียนใน ิชาระบบไฟฟ้ากำลัง
+Laboratory experiments on topics covered in Electrical Power
+System.
+03601456
+
+การป้องกันระบบไฟฟ้ากำลัง
+
+3(3-0-6)
+
+(Power System Protection)
+ิชาที่ต้องเรียนมาก่อน รือพร้อมกัน: 03601357
+พื้นฐานของการป้องกันในทางปฏิบัติ ม้อแปลงเครื่องมือ ัดและตั แปลง
+ัญญาณ อุปกรณ์ป้องกันและระบบป้องกัน การป้องกันกระแ เกินและการบกพร่อง
+ลงดิน การป้องกันแบบผลต่าง การป้องกัน าย ่งโดยใช้รีเลย์แบบ ัดระยะทางและ
+รีเลย์แบบนำร่อง การป้องกัน ม้อแปลง การป้องกัน เครื่องกำเนิดไฟฟ้า การป้องกัน
+มอเตอร์ การป้องกันในเขตของบั อุปกรณ์ป้องกันแบบดิจิตอลเบื้องต้น
+Basic of practical protection. Instrument transformer and
+transducers. Protection devices and protection systems. Overcurrent
+and earth fault protection. Differential protection. Transmission line
+protection by distance relaying and pilot relaying. Transformer
+protection. Generator protection. Motor protection. Bus zone
+protection. Introduction to digital protection devices.
+
+protection. Introduction to digital protection devices.
+03601457
+
+ระบบไฟฟ้าและระบบ ัญญาณในอาคาร
+
+3(3-0-6)
+
+(Electrical Systems and Signal Systems in Building)
+ระบบแจ้งเ ตุเพลิงไ ม้ ระบบโทร ัพท์ ระบบเ ียง ระบบเอ็มเอที ี ระบบ
+ป้องกันฟ้าผ่า เครื่องกำเนิดไฟฟ้า ำรอง ระบบอื่นๆ ำ รับอาคาร มัยใ ม่
+Fire alarm systems. Telephone systems. Sound systems. MATV
+systems. Lightning protection systems. Standby generators. Other
+systems for modern buildings.
+
+35
+
+03601458
+
+การผลิต ่ง และจำ น่ายกำลังไฟฟ้า
+
+3(3-0-6)
+
+(Electrical Power Generation, Transmission and Distribution)
+
+ิชาที่ต้องเรียนมาก่อน: 03601251
+โครง ร้างระบบไฟฟ้ากำลัง แ ล่งกำเนิดพลังงานไฟฟ้า โรงจักรกำลังไฟฟ้า
+แบบใช้พลังงาน ิ้นเปลืองและพลังงานทดแทน ลัก ณะเฉพาะโ ลด ลัก ณะเฉพาะ
+เครื่ อ งกำเนิ ด ไฟฟ้ าและแบบจำลอง ลั ก ณะเฉพาะ ม้ อ แปลงไฟฟ้ ากำลั งและ
+แบบจำลอง ลัก ณะเฉพาะ าย ่งไฟฟ้าและแบบจำลอง ระบบจำ น่ายกำลังไฟฟ้ า
+อุปกรณ์ของระบบไฟฟ้ากำลัง การจำลองระบบไฟฟ้ากำลังเบื้องต้น
+Power system structure. Sources of electric energy.
+Conventional and renewable energy power plants. Load
+characteristics. Generator characteristics and models. Power
+transformer characteristics and models. Transmission line parameters
+and models. Electrical power distribution systems. Power system
+equipment. Introduction to power system simulation.
+03601459
+
+ค ามปลอดภัยทาง ิ กรรมไฟฟ้า
+
+3(3-0-6)
+
+(Safety in Electrical Engineering)
+อันตรายจากไฟฟ้าและมาตรการเพื่อค ามปลอดภัย าเ ตุของการเกิด
+อุบั ติเ ตุและการบาดเจ็บจากไฟฟ้า ไฟฟ้าดูด แรงดันช่ งก้า และแรงดัน ั มผั
+ไฟฟ้า ถิต การเกิดประกายไฟจากการอาร์คและการป้องกัน การแยกโดดทางไฟฟ้า
+
+การต่อลงดิน การต่อถึงกันและชิลด์ทางไฟฟ้า การทด อบค ามปลอดภั ยทางไฟฟ้า
+อุปกรณ์ป้องกัน งจรไฟฟ้า แน ปฏิบัติเพื่อค ามปลอดภัยในระบบไฟฟ้าแรงดันต่ำ
+และระบบไฟฟ้าแรงดัน ูง ค ามปลอดภัยทางไฟฟ้าใน ถานที่ทำงาน
+Electrical hazards and safety measure. Cause of electrical
+accidents and injuries. Electric shock. Step and touch potentials.
+Electrostatic discharge. Electrical arc flash and protection. Electrical
+isolation. Practical grounding. Bonding and shielding. Electrical safety
+testing. Circuit protection devices. Electrical safety guidance for lowvoltage and high-voltage systems. Electrical safety in the workplaces.
+36
+
+03601461
+
+การค บคุมกระบ นการ
+(Process Control)
+ิชาที่ต้องเรียนมาก่อน: 03601361 และ 03601362
+
+3(3-0-6)
+
+ิชาที่ต้องเรียนมาก่อน: 03601361 และ 03601362
+องค์ป ระกอบของระบบค บคุมกระบ นการ ระบบค บคุมกระบ นการ
+แบบไม่ ต่ อ เนื่ อ งและแบบต่ อ เนื่ อ ง ระบบค บคุ ม แบบพี ไอดี การค บคุ ม แบบ
+ป้ อ นกลั บ การค บคุม แบบป้ อ นตรง การค บคุ ม แบบปรับ ตั การค บคุ มแบบ
+คาดการณ์ ตั อย่างกระบ นการค บคุมในอุต า กรรม
+Elements in process control system. Discrete and continuous
+process control system. PID control system. Feedback control.
+Feedforward control. Adaptive control and predictive control.
+Examples of industrial process control.
+
+03601462
+
+เซนเซอร์อุต า กรรม
+
+3(3-0-6)
+
+(Industrial Sensors)
+ิชาที่ต้องเรียนมาก่อน รือพร้อมกัน: 03601231
+ลักการและการประยุกต์ใช้เซนเซอร์อุต า กรรม ประกอบด้ ย ิตช์ลิมิต
+เซนเซอร์แ ง เซนเซอร์ชนิดพร็อกซิมิตี้ เซนเซอร์ชนิดอัลตร้าโซนิก เซนเซอร์อุณ ภูมิ
+เซนเซอร์ค ามดัน เซนเซอร์การไ ล เซนเซอร์น้ำ นัก เซนเซอร์การขจัดและการ
+เข้าร ั พื้น ฐานและการประยุกต์ใช้อุปกรณ์ค บคุ มอุต า กรรม ประกอบด้ ย
+
+รีเลย์ ไทมเมอร์ ตั นับ ตั ค บคุมตรรกะโปรแกรมได้ (พีแอลซี) และคอนโทรลเลอร์
+Principles and applications of industrial sensors including limit
+switches, photomsensors, proximity sensors, ultrasonic sensors,
+temperature sensors, pressure sensors, flow sensors, weight sensors,
+displacement sensors and encoders. Principles and applications of
+industrial control devices including relays, timers, counters,
+programmable logic controllers (PLC) and other controllers.
+
+37
+
+03601463
+
+การค บคุมเครื่องจักรกลและกระบ นการด้ ยคอมพิ เตอร์ 3(3-0-6)
+(Computer Control of Machines and Processes)
+การค บคุมด้ ยคอมพิ เตอร์ องค์ประกอบของการจำลองแบบไม่ต่อเนื่อง
+
+การค บคุมด้ ยคอมพิ เตอร์ องค์ประกอบของการจำลองแบบไม่ต่อเนื่อง
+การออกแบบตั ค บคุมแบบไม่ต่อเนื่อง การเชื่อมต่อกับคอมพิ เตอร์ เซนเซอร์ การ
+ร้างชุดคำ ั่ง ำ รับค บคุมเครื่อ งจักรกลและกระบ นการ การค บคุมแบบเชิง
+อันดับโดยใช้พีแอลซี การจำลองกระบ นการ
+Computer control. Elements of discrete modeling. Design of a
+discrete controller. Computer interfacing. Sensors. Command
+generation in machine and process control. Sequential control using
+PLC. Process modeling.
+03601464
+
+เซนเซอร์และตั แปลง ัญญาณ
+
+3(3-0-6)
+
+(Sensors and Transducers)
+ิชาที่ต้องเรียนมาก่อน: 03601231
+อุ ป กรณ์ ก าร ัด และค บคุ ม เบื้ อ งต้ น ตั แปลง ั ญ ญาณแอนะล็ อ กและ
+ดิจิตอล เทคนิคการ ัดค ามดัน ตั ่ง ัญญาณค ามดันต่าง การ ัดอัตราการไ ล
+ของของเ ล ด้ ยมิเตอร์ปฐมภูมิ มิเตอร์ทุติยภูมิและ ิธีพิเ
+
+การ ัดอุณ ภูมิด้ ย ิธี
+
+ไม่ใช้ไฟฟ้า ิธีใช้ไฟฟ้าและ ิธีฉายรัง ี ชนิ ดการ ัดระดับ ของเ ล การ ัดระดับ
+ของเ ล ทางตรง และการ ัดระดับของเ ล ทางอ้อมด้ ย ิธีค ามดันไฮโดร แตติก
+ิธีทางไฟฟ้าและ ิธีพิเ
+
+การค บคุมแบบดั้งเดิม
+
+Introduction to measurement and control devices. Analog and
+
+Introduction to measurement and control devices. Analog and
+digital transducers. Pressure measurement techniques. Differential
+pressure transmitter. Fluid flow measurement using primary meters,
+secondary meters and special methods. Measurement of temperature
+using non-electric methods, electric methods and radiation methods.
+Types of liquid level measurement using direct liquid level
+measurement and indirect liquid level measurement using hydrostatic
+pressure methods, electrical methods and special methods.
+Conventional controller.
+38
+
+03601465
+
+น ัตกรรมทางไฟฟ้าและอิเล็กทรอนิก ์
+
+3(3-0-6)
+
+(Electrical and Electronics Innovation)
+แน คิดน ัตกรรม การเปลี่ยนแปลงของน ัตกรรมเทคโนโลยี ผลกระทบ
+
+อุต า กรรมของน ัตกรรมเทคโนโลยี ผลกระทบในการแข่ งขันของตลาดและการ
+เปลี่ยนแปลงเทคโนโลยี การเปลี่ยนแปลงของตลาดด้านแน คิด การออกแบบ ่ งโซ่
+แ ่งคุณค่า น ัตกรรมทางไฟฟ้าและอิเล็กทรอนิก ์ แน คิดด้านค ามคิด ร้าง รรค์
+น ัตกรรมและการ ร้าง รรค์ และการ ร้าง ิทธิบัตรน ัตกรรม โครงงานขนาดเล็ก
+ในการ ร้างน ัตกรรมทางไฟฟ้าและอิเล็กทรอนิก ์
+Innovative concepts. Dynamics of technological innovation.
+Industrial implications of technological innovation. Competitive
+implications of market and technology dynamics. Dynamics of the
+market for ideas. Designing the value chain. Electrical and electronics
+Innovation; idea of creativity, innovation and inventiveness and
+construction. Innovation patent. Mini project in electrical and
+electronics innovation.
+03601466
+
+ระบบ ุ่นยนต์เบื้องต้น
+
+3(3-0-6)
+
+(Introduction to Robotic Systems)
+ภาพร มของกลไก ุ่ นยนต์ พล า ตร์ และการค บคุมที่ชาญฉลาด การ
+ออกแบบกลไก ำ รับการจัดการและ ุ่นยนต์เคลื่อนที่ การออกแบบการค บคุม
+ตั กระตุ้ น และเซนเซอร์ องค์ ป ระกอบการค บคุ ม เครื อ ข่ า ยไร้ าย การ ร้ า ง
+
+แบบจำลองงาน การเชื่อมต่อระ ่างมนุ ย์และเครื่องจักร การค บคุมตามเ ลาจริ ง
+ซอฟต์แ ร์ฝังตั การออกแบบและการ ร้างระบบ ุ่นยนต์
+Overview of robot mechanisms, dynamics and intelligent
+controls. Mechanism design for manipulators and mobile robots.
+Control design. Actuators and sensors. Control components. Wireless
+network. Task modeling. Human-machine interface. Real-time control.
+Embedded software. Design and construction of robotic systems.
+
+39
+
+03601467
+
+ระบบอาณัติ ัญญาณและค บคุมระบบราง
+
+3(3-0-6)
+
+(Railway Signaling and Control Systems)
+ประ ัติค ามเป็นมาของระบบราง การทำงานของระบบราง ระบบอาณัติ
+
+ัญญาณ การประมาณระยะ ่างระ ่างขบ นรถไฟและเ ลาเดินรถ ระบบป้องกัน
+ของระบบราง ระบบตร จจับตำแ น่งรถไฟ มาตรฐานและข้อกำ นด ำ รับระบบ
+อาณั ติ ั ญ ญาณ การ ั บ ราง ประแจกล ไฟ ั ญ ญาณ ระบบบั งคับ ั มพั น ธ์ ระบบ
+อาณัติ ัญญาณ ำ รับรถไฟในเขตเมือง ระบบอาณัติ ัญญาณ ำ รับรถไฟทางไกล
+History of railway system. Railway systems operation. Railway
+signaling system. Distance between trains and runtime estimations.
+Railway protection systems. Train position detection system. Standards
+and requirements for railway signaling systems. Turnout. Crossovers.
+Scissor. Interlock system. Railway signaling system for metro train.
+Railway signaling systems for long-distance train.
+03601471
+
+การ ิเคราะ ์และประยุกต์เครื่องจักรไฟฟ้า
+
+3(3-0-6)
+
+(Analysis and Applications of Electrical Machines)
+ิชาที่ต้องเรียนมาก่อน: 03601251
+การ ร้างแบบจำลองและ ิเคราะ ์เครื่องจักรไฟฟ้า การ ิเคราะ ์พล ัตของ
+เครื่องจักรกลชนิ ดเ นี่ย นำ การประยุกต์มอเตอร์ในภาคอุต า กรรมและภาค
+ขน ่ง ระบบขับเคลื่อนในยานยนต์ไฟฟ้าและระบบราง การค บคุมมอเตอร์โดยใช้
+อุปกรณ์โซลิด เตต
+
+Electrical machine modelling and analysis. Dynamic
+analysis of induction machines. Motor applications in industry and
+transportation. Traction drives in electric vehicles and railway systems.
+Motor control using solid state devices.
+
+40
+
+03601472
+
+การขับเคลื่อนด้ ยไฟฟ้า
+
+3(3-0-6)
+
+(Electric Drives)
+ิชาที่ต้องเรียนมาก่อน: 03601251
+องค์ประกอบของการขับเคลื่อนด้ ยไฟฟ้า คุณลัก ณะของโ ลด บริเ ณ
+
+องค์ประกอบของการขับเคลื่อนด้ ยไฟฟ้า คุณลัก ณะของโ ลด บริเ ณ
+การทำงาน ำ รั บ การขั บ เคลื่ อ น ิธี ก ารเบรกมอเตอร์ การ ่ งกำลั งและขนาด
+คุ ณ ลั ก ณะแรงบิ ด -ค ามเร็ ของมอเตอร์ ไฟฟ้ า ชนิ ด ของคอนโทรลเลอร์ การ
+ขับเคลื่อนมอเตอร์ไฟฟ้ากระแ ตรง การขับเคลื่อนมอเตอร์ไฟฟ้ากระแ ลับ ระบบ
+การขั บ เคลื่ อ นมอเตอร์ เซอร์ โ การประยุ ก ต์ ก ารขั บ เคลื่ อ นด้ ยไฟฟ้ า ในทาง
+อุต า กรรม
+Electric drive components. Load characteristics. Operating
+region of drives. Braking methods of motors. Power transmission and
+sizing. Torque-speed characteristics of electric motors. Types of
+controllers. Direct current (DC) motor drives. Alternating current (AC)
+motor drives. Servo drives systems. Applications of drives in industrial
+automations.
+03601473
+
+อิเล็กทรอนิก ์กำลัง
+
+3(3-0-6)
+
+(Power Electronics)
+ิชาที่ต้องเรียนมาก่อน: 03601231
+คุ ณ ลั ก ณะของอุ ป กรณ์ อิ เล็ ก ทรอนิ ก ์ ก ำลั ง ไดโอดกำลั ง ไทริ เตอร์
+ไบโพลาร์กำลัง มอ เฟต ไอจีบีที คุณลัก ณะของ ารแม่เ ล็ก แกน ม้อแปลงกำลัง
+แกนเฟอไรต์ แกนผงเ ล็กอัด เครื่องแปลงผันกำลังไฟฟ้า เครื่องแปลงผันกำลังไฟฟ้า
+
+แกนเฟอไรต์ แกนผงเ ล็กอัด เครื่องแปลงผันกำลังไฟฟ้า เครื่องแปลงผันกำลังไฟฟ้า
+กระแ ลับเป็นกระแ ตรง เครื่องแปลงผันกำลังไฟฟ้ากระแ ตรงเป็นกระแ ตรง
+เครื่องแปลงผันกำลังไฟฟ้ากระแ ลับเป็นกระแ ลับ เครื่องแปลงผันกำลังไฟฟ้า
+กระแ ตรงเป็นกระแ ลับ
+Characteristics of power electronics devices. Power diode.
+Thyristors. Power bipolar. MOSFET. IGBT. Characteristics of magnetic
+material. Power transformer core. Ferrite core. Iron powder core.
+
+41
+
+Converters. Alternating current (AC) to direct current (DC) converter.
+DC to DC converter. AC to AC converter. DC to AC converter.
+03601474
+
+ปฏิบัติการอิเล็กทรอนิก ์กำลัง
+
+1(0-3-2)
+
+(Power Electronics Laboratory)
+ิชาที่ต้องเรียนมาก่อน: 03601473
+ปฏิบัติการเกี่ย กับเรื่องที่เรียนใน ิชาอิเล็กทรอนิก ์กำลัง (03601473)
+Laboratory experiments on topics covered in Power Electronics
+(03601473).
+03601475
+
+อิเล็กทรอนิก ์กำลัง ำ รับการอนุรัก ์พลังงาน
+
+3(3-0-6)
+
+(Power Electronics for Energy Conservation)
+กฎ มายการอนุรัก ์พลังงาน การปรับปรุงแฟกเตอร์กำลัง การปรับโ ลด
+ได้ ดุ ล แผง ิตซ์ ลั ก อุป กรณ์ ั บ เปลี่ ยน การประยุ กต์ ม้ อแปลงเพื่ อ ประ ยั ด
+พลังงาน ลอดประ ยัดไฟฟ้าและการใช้แ งโดยรอบ บัลลา ต์อิเล็กทรอนิก ์ ม้อ
+แปลงอิเล็กทรอนิก ์ งจรอินเ อร์เตอร์และการประยุกต์ มอเตอร์ป ระ ิทธิภาพ ูง
+ระบบพลังงานเซลล์แ งอาทิตย์ กรณี ึก า
+Energy conservation law. Power factor improvement. Balanced
+load adjustment. Main distribution board. Transfer switches.
+Applications of transformer for energy conservation. Energy saver lamp
+and ambient light utilization. Electronic ballasts. Electronic
+transformers. Inverter circuits and application. High efficient motors.
+
+Solar cell power systems. Case studies.
+03601476
+
+ระบบผลิตไฟฟ้าจำ น่าย
+
+3(3-0-6)
+
+(Distributed Generation Systems)
+พื้ น ฐานระบบผลิ ต ไฟฟ้ า จำ น่ า ย เทคโนโลยี ข องเครื่ อ งกำเนิ ด ไฟฟ้ า
+จำ น่าย การเชื่อมต่อกริด ภา ะแยกตั อิ ระ ข้อกำ นดของเครื่องกำเนิดไฟฟ้า
+จำ น่าย การค บคุมเครื่องกำเนิดไฟฟ้าจำ น่ายแบบอินเ อร์เตอร์ ผลกระทบของ
+42
+
+การติดตั้งเครื่องกำเนิดไฟฟ้าจำ น่าย คุณ ภาพกำลังไฟฟ้า การป้องกันของระบบ
+ผลิตไฟฟ้าจำ น่าย โครงข่ายไฟฟ้าอัจฉริยะ แง่มุมทางด้านเ ร ฐ า ตร์ การจำลอง
+ระบบผลิตไฟฟ้าจำ น่าย
+Basic of distributed generation systems. Technologies of
+
+distributed generation. Grid interconnection. Islanding. Grid code of
+distributed generation. Inverter-base distribution generation control.
+Impacts of distributed generation installations. Power quality.
+Protection of distribution generation systems. Smart grid. Economic
+aspects. Distributed generation system simulation.
+03601477
+
+พลังงาน มุนเ ียนและการกักเก็บพลังงาน
+
+3(3-0-6)
+
+(Renewable Energy and Energy Storage)
+ระบบพลังงานและแ ล่งกำเนิดพลังงาน มุนเ ียนเบื้องต้น ักยภาพของ
+แ ล่ งกำเนิ ด พลั งงาน มุ น เ ี ย นในประเท ไทย ค ามแตกต่ างของเทคโนโลยี
+พลั งงานดั้ งเดิ ม และพลั งงาน มุ น เ ีย น เทคโนโลยี พ ลั งงาน มุ น เ ี ย น พลั งงาน
+แ งอาทิตย์ พลังงานลม พลังงานชี ม ล พลังงานก๊าซชี ภาพ และพลังงานขยะมูล
+ฝอยชุมชน เทคโนโลยีการกักเก็บพลังงานและการประยุกต์ ระบบพลังงาน มุนเ ียน
+แบบอิ ระ ระบบพลังงาน มุนเ ียนแบบเชื่อมต่อกับระบบจำ น่ายไฟฟ้า กฎ มาย
+ระเบี ยบข้อบั งคับ และนโยบายของพลังงาน มุนเ ียนและการกักเก็บพลั งงานใน
+แง่มุมทางด้านเ ร ฐ า ตร์
+Introduction to energy systems and renewable energy
+resources. Potential of renewable resources in Thailand. Difference of
+
+conventional and renewable energy technologies. Renewable energy
+technologies; solar, wind, biomass, biogas and municipal solid waste.
+Energy storage technologies and applications. Stand-alone renewable
+energy system. Grid-connected renewable energy system. Laws,
+regulations and policies of renewable energy and energy storage in
+economics aspects.
+
+43
+
+03601478
+
+การอนุรัก ์และการจัดการพลังงาน
+
+3(3-0-6)
+
+(Energy Conservation and Management)
+การอนุ รั ก ์ แ ละการจั ด การพลั ง งานเบื้ อ งต้ น กฎ มายและระเบี ย บ
+ข้ อ บั ง คั บ ของการอนุ รั ก ์ พ ลั ง งาน การตร จ ิ เคราะ ์ พ ลั ง งาน พื้ น ฐานของ
+ประ ิ ทธิภ าพพลังงาน ลั กการของประ ิท ธิภ าพพลั งงานในอาคารและโรงงาน
+
+ประ ิ ทธิภ าพพลังงาน ลั กการของประ ิท ธิภ าพพลั งงานในอาคารและโรงงาน
+อุต า กรรม การบริ ารจัดการโ ลด การบริ ารจัดการและ ิเคราะ ์พลังงานใน
+อาคารและโรงงานอุต า กรรม เทคนิคในการใช้พลังงานอย่างมีประ ิทธิภาพใน
+ระบบแ ง ่าง ระบบค ามร้อน ระบายอากา และเครื่องปรับอากา มอเตอร์
+อุต า กรรม การผลิต ไฟฟ้าด้ ยค ามร้อนร่ ม มาตรการการอนุรัก ์พลังงานและ
+การ ิเคราะ ์เชิงเ ร ฐ า ตร์
+Introduction to energy conservation and management. Laws
+and regulations of energy conservation. Energy audit. Basic of energy
+efficiency. Principle of energy efficiency in building and industry. Load
+management. Energy management and analysis in building and
+industry. Techniques to use energy efficiently in lighting systems,
+heating systems, ventilating and air-conditioning systems. Industrial
+motors. Co-generation. Energy conservation measures and economic
+analysis.
+03601479
+
+ระบบยานยนต์ไฟฟ้า
+
+3(3-0-6)
+
+(Electric Vehicle Systems)
+การใช้ไฟฟ้าในการขน ่ง ระบบขับเคลื่อนของยานยนต์ไฟฟ้าและยานยนต์
+ไฟฟ้าแบบไฮบริด ยานยนต์ไฟฟ้า ยานยนต์ไฟฟ้าแบบไฮบริด ยานยนต์ไฟฟ้าแบบ
+
+ไฟฟ้าแบบไฮบริด ยานยนต์ไฟฟ้า ยานยนต์ไฟฟ้าแบบไฮบริด ยานยนต์ไฟฟ้าแบบ
+ปลั๊ ก -อิ น ไฮบริ ด มอเตอร์ ำ รั บ ยานยนต์ ไฟฟ้ า มอเตอร์ ก ระแ ตรง มอเตอร์
+ซิงโครนั ชนิดแม่เ ล็กถา ร มอเตอร์เ นี่ย นำ มอเตอร์ชนิดรีลักแตนซ์ แบตเตอรี่
+และระบบการเก็บพลังงาน คอนเ อร์เตอร์ อินเ อร์เตอร์และการขับเคลื่อนมอเตอร์
+เครื่องประจุแบตเตอรี่ยานยนต์ไฟฟ้า
+Transportation electrification. Electric and hybrid electric
+vehicle drivetrain systems. Electric vehicles, hybrid electric vehicles,
+44
+
+plug-in hybrid vehicles. Motors for electric vehicles, DC motor,
+permanent-magnet synchronous motor, induction motor, switched
+reluctance motor, battery and energy storage systems. Converters,
+inverters and motor drives. Electric vehicle battery chargers.
+
+03601495
+
+โครงงาน ิ กรรมไฟฟ้าและอิเล็กทรอนิก ์ I
+
+2(0-6-3)
+
+(Electrical and Electronics Engineering Project I)
+โครงงาน ิจัยและพัฒนาทาง ิ กรรมไฟฟ้าและอิเล็กทรอนิก ์
+Research and development project in electrical and
+electronics engineering.
+03601496
+
+เรื่องเฉพาะทาง ิ กรรมไฟฟ้าและอิเล็กทรอนิก ์
+
+3(3-0-6)
+
+(Selected Topics in Electrical and Electronics Engineering)
+กึ า ั ข้อที่น่า นใจใน าขา ิ กรรมไฟฟ้าและอิเล็กทรอนิก ์
+Study in selected topics in electrical and electronics
+engineering.
+03601497
+
+ัมมนา
+
+1
+
+(Seminar)
+การนำเ นอและอภิ ป ราย ั ข้ อ ที่ น่ า นใจทาง ิ กรรมไฟฟ้ า และ
+อิเล็กทรอนิก ์ในระดับปริญญาตรี
+Presentation and discussion on current interesting topics in
+electrical and electronics engineering at the bachelor’s degree level.
+
+03601498
+
+ปัญ าพิเ
+
+1-3
+
+(Special Problems)
+การ ึก าค้นค ้าทาง ิ กรรมไฟฟ้าและอิเล็กทรอนิก ์ระดับปริญญาตรี
+และเรียบเรียงเขียนเป็นรายงาน
+
+45
+
+Study and research in electrical and electronics engineering at
+the bachelor’s degree level and complied into a written reports.
+03601499
+
+โครงงาน ิ กรรมไฟฟ้าและอิเล็กทรอนิก ์ II
+(Electrical and Electronics Engineering Project II)
+
+2(0-6-3)
+
+ิชาที่ต้องเรียนมาก่อน: 03601495
+ทำโครงงาน ิจัยและพัฒนาทาง ิ กรรมไฟฟ้าและอิเล็กทรอนิก ์ต่อเนื่อง
+จาก ิชาโครงงาน ิ กรรมไฟฟ้า I
+Continuing the same research and development project in
+electrical and electronics engineering as in electrical engineering
+project I.
+
+46
+
+รายวิชาที่เป็นร ั วิชาของ ลัก ูตรที่เป็นรายวิชาบริการ
+03601101
+
+ิ กรรมอิเล็กทรอนิก ์อุต า กรรมเบื้องต้น
+
+3(3-0-6)
+
+(Introduction to Industrial Electronics Engineering)
+ระบบเลขฐานและร ั ลอจิกเกตพื้ น ฐานและการออกแบบ งจรลอจิก
+ลักการแปลง ัญญาณแอนะลอกและดิจิทัล อุปกรณ์ ารกึ่งตั นำ การค บคุมทาง
+
+ลักการแปลง ัญญาณแอนะลอกและดิจิทัล อุปกรณ์ ารกึ่งตั นำ การค บคุมทาง
+อุ ต า กรรม อุ ป กรณ์ รั บ เข้ าและ ่ ง ออก ำ รั บ การค บคุ ม ทางอุ ต า กรรม
+พื้นฐานอิเล็กทรอนิก ์กำลังและเครื่องแปลงผันกำลัง การขั บเคลื่อนมอเตอร์ไฟฟ้า
+กระแ ตรงและมอเตอร์ไฟฟ้ากระแ ลับ ตั ค บคุมตรรกะโปรแกรมได้ (พีแอลซี)
+และการเชื่อมต่อ การประยุกต์พีแอลซีในระบบอัตโนมัติเบื้องต้น
+Base number systems and codes. Basic logic gate and logic
+circuit design. Analog and digital conversion principles. Semiconductor
+devices. Industrial control. Input and output devices for industrial
+control. Power electronics basics and converters. Driving direct current
+motor and alternating current motor. Programmable logic controller
+(PLC) and interfaces. Basic applications of PLC in automation systems.
+03601102
+
+ิ กรรมไฟฟ้าอุต า กรรมเบื้องต้น
+
+3(3-0-6)
+
+(Introduction to Industrial Electrical Engineering)
+การ ิเคราะ ์ งจรไฟฟ้ากระแ ตรงและกระแ ลับ ระบบไฟฟ้า ามเฟ
+อุปกรณ์ไฟฟ้าและอิเล็กทรอนิก ์พื้ นฐาน เครื่องจักรกลไฟฟ้าเบื้องต้น เครื่องมือ ัด
+ทางไฟฟ้า พื้นฐานการติดตั้งระบบไฟฟ้าในอาคารและโรงงาน ค ามปลอดภัยในงาน
+ิ กรรมไฟฟ้า
+Direct current and alternating current circuit analysis. Three
+
+Direct current and alternating current circuit analysis. Three
+phase systems. Basic electrical and electronic equipment. Basic
+electrical machine. Electrical measuring instruments. Basic electrical
+system installation in buildings and factories. Safety in electrical
+engineering.
+
+47
+
+03601201
+
+ิ กรรมไฟฟ้าเบื้องต้น
+
+3(3-0-6)
+
+(Introduction to Electrical Engineering)
+การ ิเคราะ ์ งจรกระแ ตรงและกระแ ลับ เครื่องกำเนิดไฟฟ้าและการ
+ใช้ ง าน มอเตอร์ แ ละการใช้ ง าน ม้ อ แปลง ระบบไฟ ามเฟ ระบบ ่ ง กำลั ง
+เครื่องมือทางไฟฟ้า
+Direct current and alternating current circuit analysis.
+
+Generators and their uses. Motors and their uses. Transformers. Threephase systems. Power transmission system. Electrical instruments.
+03601202
+
+ปฏิบัติการ ิ กรรมไฟฟ้า
+
+1(0-3-2)
+
+(Electrical Engineering Laboratory)
+ิชาที่ต้องเรียนมาก่อน: 03601201
+ปฏิบัติการเกี่ย กับเรื่องที่เรียนใน ิชา ิ กรรมไฟฟ้าเบื้องต้น
+Laboratory experiments on topics covered in Introduction to
+Electrical Engineering.
+03601203
+
+อิเล็กทรอนิก ์ ำ รับ ิ กรคอมพิ เตอร์
+
+3(3-0-6)
+
+(Electronics for Computer Engineers)
+ารกึ่ ง ตั นำและอุ ป กรณ์ อิ เล็ ก ทรอนิ ก ์ งจรเรี ย งกระแ การแปลง
+กระแ ไฟฟ้ า ลั บ และการแปลงไฟฟ้ า กระแ ตรง ทรานซิ เตอร์ แ บบมอ
+ทรานซิ เตอร์แบบ องขั้ งจรร มแบบทีทีแอล งจรขยาย งจรขยายกำลัง งจร
+พัล ์ แลตช์ ฟลิบฟลอบ ตั ขยายดำเนินการ อุปกรณ์และ งจรอิเล็กทรอนิก ์กำลัง
+การออกแบบพีซีบดี ้ ยโปรแกรมคอมพิ เตอร์
+Semiconductor and electronic devices. Rectifier circuit.
+
+Alternating current and direct current conversions. MOS transistors.
+Bipolar transistors. TTL integrated circuits. Amplifiers. Power amplifier
+circuits. Pulse circuits. Latches. Flip flops. Operational amplifiers.
+Power electronic devices and circuits. PCB design with computer
+programs.
+48
+
+03601204
+
+การ ิเคราะ ์ งจรไฟฟ้า ำ รับ ิ กรคอมพิ เตอร์
+
+3(3-0-6)
+
+(Electric Circuit Analysis for Computer Engineers)
+น่ ยของปริมาณพื้นฐานทางไฟฟ้ า กฎของโอ ์ม กฎของเคอร์ชอฟ การ
+ิเคราะ ์โนดและเมซ ทฤ ฎีบท งจรไฟฟ้าของเท ินินและนอร์ตัน อุปกรณ์ ะ ม
+พลังงาน พื้นฐานการ ิเคราะ ์ งจรกระแ ตรงและกระแ ลับ แรงดัน กระแ และ
+กำลั ง ไฟฟ้ า ม้ อ แปลงไฟฟ้ า พื้ น ฐานเครื่ อ งมื อ ั ด ทางไฟฟ้ า การประยุ ก ต์ ใ น
+
+งจรไฟฟ้า
+Units of electrical quantity. Ohm’s law. Kirchhoff’s laws. Node
+and mesh analysis. Thevenin’s and Norton’s theorems. Energy storage
+elements. Basic direct and alternating current circuit analysis. Voltage,
+current and power. Transformers. Basic electrical measurement
+instruments. Applications in electrical circuit.
+03601205
+
+ปฏิบัติการ งจรไฟฟ้า ำ รับ ิ กรคอมพิ เตอร์
+
+1(0-3-2)
+
+(Electric Circuit Laboratory for Computer Engineers)
+ิชาที่ต้องเรียนมาก่อน รือพร้อมกัน: 03601204
+ปฏิ บั ติ ก ารเกี่ ย กั บ เรื่อ งที่ เรี ย นใน ิ ช าการ ิเคราะ ์ งจรไฟฟ้ า ำ รั บ
+ิ กรคอมพิ เตอร์ (03601204)
+Laboratory experiments on topics covered in Electric Circuit
+Analysis for Computer Engineers (03601204)
+03601206
+
+ปฏิบัติการ ิ กรรมอิเล็กทรอนิก ์อุต า กรรมเบื้องต้น
+
+1(0-3-2)
+
+(Introduction to Industrial Electronics Engineering Laboratory)
+ิชาที่ต้องเรียนมาก่อน รือพร้อมกัน: 03601101
+
+ปฏิบัติการเกี่ย กับเรื่องที่เรียนใน ิชา ิ กรรมอิเล็กทรอนิก ์อุต า กรรม
+เบื้องต้น
+Laboratory experiments on topics covered in Introduction to
+Industrial Electronics Engineering.
+
+49
+
+03601207
+
+ปฏิบัติการ ิ กรรมไฟฟ้าอุต า กรรมเบื้องต้น
+
+1(0-3-2)
+
+(Introduction to Industrial Electrical Engineering Laboratory)
+ิชาที่ต้องเรียนมาก่อน รือพร้อมกัน: 03601102
+ปฏิบัติการเกี่ย กับเรื่องที่เรียนใน ิชา ิ กรรมไฟฟ้าอุต า กรรมเบื้องต้น
+Laboratory experiments on topics covered in Introduction to
+Industrial Electrical Engineering.
+
+03601208
+
+ระบบอัตโนมัติในการผลิต
+
+3(3-0-6)
+
+(Automation System in Manufacturing)
+ิชาที่ต้องเรียนมาก่อน: 03601101
+องค์ประกอบพื้นฐาน ำ รับระบบอัตโนมัติในกระบ นการผลิต ตั ค บคุม
+อุ ต า กรรม การกำ นด ภา ะ ั ญ ญาณแอนะล็ อ กและดิ จิ ทั ล การค บคุ ม
+กระบ นการและการเคลื่อนที่ ตั รับรู้และตั กระตุ้นอุต า กรรม การค บคุมลำดับ
+และตั ค บคุมตรรกะโปรแกรมได้ การเชื่อมต่อพีแอลซี การเขียนโปรแกรมพีแอลซี
+การเชื่อมต่อระ ่างมนุ ย์และเครื่องจักร ภาพร มของ ุ่นยนต์อุต า กรรม การ
+เขี ย นโปรแกรม ุ่ น ยนต์ แ ละซอฟต์ แ ร์จ ำลอง ถานการณ์ ฮาร์ด แ ร์ ก ารเขี ย น
+โปรแกรม ุ่นยนต์
+Fundamental elements for automation in manufacturing
+process. Industrial controllers. Analog and digital signal conditioning.
+Process and motion control. Industrial sensors and actuators.
+Sequential control and programmable logic controllers. PLC interfaces.
+PLC programming. Human-machine Interface. Overview of industrial
+robots. Robot programming and simulation software. Robot
+programming hardware.
+
+programming hardware.
+
+50
+
+03601303
+
+ปฏิบัติการอิเล็กทรอนิก ์ ำ รับ ิ กรคอมพิ เตอร์
+
+1(0-3-2)
+
+(Electronics Laboratory for Computer Engineers)
+ิชาที่ต้องเรียนมาก่อน: 03601203
+ปฏิ บั ติ ก ารเกี่ ย กั บ เรื่ อ งที่ เรี ย นใน ิ ช าอิ เล็ ก ทรอนิ ก ์ ำ รั บ ิ กร
+คอมพิ เตอร์ (03601203)
+Laboratory experiments on topics covered in Electronics for
+Computer Engineers (03601203).
+
+03601304
+
+ปฏิบัติการระบบอัตโนมัติในการผลิต
+
+1(0-3-2)
+
+(Automation System in Manufacturing Laboratory)
+ิชาที่ต้องเรียนมาก่อน: 03601208
+ปฏิบัติการเกี่ย กับเรื่องที่เรียนใน ิชาระบบอัตโนมัติในการผลิต
+Laboratory experiments on topics covered in Automation
+System in Manufacturing.
+รายวิชาที่เป็นร ั นอก ลัก ูตร
+01403114
+
+ปฏิบัติการ ลักมูลเคมีทั่ ไป
+
+1(0-3-2)
+
+(Laboratory in Fundamentals of General Chemistry)
+ปฏิบัติการ ำ รับ ิชา ลักมูลเคมีทั่ ไป
+Laboratory in Fundamentals of General Chemistry.
+01403117
+
+ลักมูลเคมีทั่ ไป
+(Fundamentals of General Chemistry)
+ิชาที่ต้องเรียนมาก่อน: 01403114
+
+3(3-0-6)
+
+โครง ร้างอะตอมตารางพีริออดิกและ มบัติตามตารางพีริออดิกพันธะเคมี
+ปริมาณ ัมพันธ์แก๊ ของเ ล ของแข็ง ารละลายจลนพล า ตร์เคมี มดุลเคมีกรด
+และเบ มดุลของไอออนธาตุเรพรีเซนเททีฟโล ะอโล ะและกึ่งโล ะโล ะแทรนซิ
+ชัน
+51
+
+Atomic structure, periodic table and periodic properties,
+chemical bonds, stoichiometry, gases, liquids, solids, solutions,
+chemical kinetics, chemical equilibria, acids and bases, ionic equilibria,
+representative elements, metals, nonmetals and metalloids, transition
+metals.
+01417167
+
+คณิต า ตร์ ิ กรรม I
+
+3(3-0-6)
+
+(Engineering Mathematics I)
+ลิมิตและค ามต่อเนื่องของฟังก์ชันอนุพันธ์และการประยุกต์ค่าเชิงอนุพันธ์
+ปริพันธ์และการประยุกต์ระบบพิกัดเชิงขั้ ปริพันธ์ไม่ตรงแบบลาดับและอนุกรมการ
+อุปนัยเชิงคณิต า ตร์
+Limits and continuity of functions, derivatives and applications,
+differentials, integration and applications, polar coordinates, improper
+integrals, sequences and series, mathematical induction.
+01417168
+
+คณิต า ตร์ ิ กรรม II
+
+3(3-0-6)
+
+(Engineering Mathematics II)
+ิชาที่ต้องเรียนมาก่อน: 01417167
+เ กเตอร์และเรขาคณิต ิเคราะ ์ทรงตันแคลคูลั ของฟังก์ชัน ลายตั แปร
+แคลคูลั ของฟังก์ชันฟังก์ชันค่าเ กเตอร์
+Vector and solid analytic geometry, calculus of multivariables
+functions, calculus of vector – valued functions.
+01420111
+
+ฟิ ิก ์ทั่ ไป I
+(General Physics I)
+
+3(3-0-6)
+
+กล า ตร์การเคลื่ อ นที่ แ บบฮาร์ม อนิ กคลื่ น กล า ตร์ข องไ ลอุณ พล
+า ตร์
+Mechanics, harmonic motion, waves, fluid mechanics,
+thermodynamics.
+52
+
+01420113
+
+ปฏิบัติการฟิ ิก ์ I
+
+1(0-3-2)
+
+(Laboratory in Physics I)
+ิชาที่ต้องเรียนมาก่อน: 01420111 รือพร้อมกัน รือ 01420117 รือพร้อมกัน
+ปฏิบัติการ ำ รับ ิชาฟิ ิก ์ทั่ ไป I รือฟิ ิก ์พื้นฐาน I
+Laboratory for General Physics I or Basic Physics I.
+03600490
+
+กิจ ึก า
+(Co-operative Education)
+
+6
+
+(Co-operative Education)
+การปฏิบัติงานในลัก ณะพนักงานชั่ ครา ตามโครงงานที่ได้รับมอบ มาย
+ตลอดจนการจัดทำรายงานและการนำเ นอ
+On the job training as a temporary employee according to the
+assigned project including report and presentation.
+03602211
+
+ั ดุ า ตร์ ำ รับ ิ กร
+
+3(3-0-6)
+
+(Materials Science for Engineers)
+ค าม ัมพันธ์ระ ่างโครง ร้าง มบัติกระบ นการผลิตและการใช้งานของ
+ั ดุ ิ กรรมโล ะพอลิเมอร์เซรามิก ั ดุเชิงประกอบ แผนภูมิ มดุลของเฟ และ
+การตีค าม มบัติทางกลและการเ ื่ อม ภาพของ ั ดุและ ั ดุใ ม่ ำ รับประยุกต์
+ทาง ิ กรรม
+Relationship between structures, properties, production
+processes and applications of engineering materials, metals, polymers,
+ceramics, composites. Phase equilibrium diagrams and their
+interpretation. Mechanical properties and material degradation. New
+materials for engineering application.
+03602301
+
+ลักพื้นฐานการจัดการผลิต
+
+3(3-0-6)
+
+03602301
+
+ลักพื้นฐานการจัดการผลิต
+
+3(3-0-6)
+
+(Basic Principles of Production Management)
+ค าม มายและค าม ำคัญของการจัดการการผลิต ลักการจัดองค์กรเพื่อ
+การผลิต การ ัดและการกำ นดอัตราผลผลิต ลักพื้นฐานการกำ นดมาตรฐานการ
+53
+
+ผลิต การค บคุมต้นทุนการผลิตเบื้องต้น การกำ นดแผนเชิงอุต า กรรมเบื้องต้น
+ลักพื้นฐานการค บคุมการผลิตและการปฏิบัติการ การจัดการผลิตที่ อดคล้องกับ
+อุป งค์และอุปทาน
+Definition and importance of production management.
+Principles of organization for production. Measurement and
+determination of yield rate. Basic principles of determination of
+production standards. Introduction to production cost controlling.
+Preliminary determination of industrial plan. Basic principles of
+
+production-and-operation
+
+controlling.
+
+Production
+
+management
+
+corresponding to demand and supply.
+03603101
+
+การโปรแกรมคอมพิ เตอร์เบื้องต้น
+
+3(2-3-6)
+
+(Introduction to Computer Programming)
+แน คิดทางคอมพิ เตอร์ ่ นประกอบคอมพิ เตอร์ การปฏิ ัมพันธ์ทาง
+ฮาร์ ด แ ร์ และซอร์ฟ แ ร์ แน คิด ทางอีดี พี การออกแบบโปรแกรมและระเบี ย บ
+ิธีการพัฒนา การโปรแกรมภา าระดับ ูง
+Computer concepts, Computer component, Hardware and
+software interaction, EPD concepts, Program design and development
+methodology, High-level language programming.
+03604111
+
+การเขียนแบบทาง ิ กรรม
+
+3(2-3-6)
+
+(Engineering Drawing)
+การเขียนตั อัก รและตั เลขภาพฉายออร์โธกราฟฟิกการเขียนภาพออร์โธ
+กราฟฟิ ก และการเขียนภาพ ามมิติ การใ ้ ขนาดและค ามคาดเคลื่ อน ภาพตั ด
+มุ ม มองช่ ยและแผ่ น คลี่ ก ารเขี ย นภาพร่าง การเขี ย นแบบรายละเอี ย ดและการ
+ประกอบ การเขียนแบบโดยใช้คอมพิ เตอร์ช่ ยขั้นต้น
+
+Lettering. Orthographic projection. Orthographic drawing and
+pictorial drawing. Dimensioning and tolerancing. Sections. Auxiliary
+
+54
+
+views and development. Freehand sketches. Detail and assembly
+drawing. Basic computer-aided drawing.
+03604223
+
+ลักพื้นฐานทางกล า ตร์ ิ กรรม
+
+3(3-0-6)
+
+(Basic Principles of Engineering Mechanics)
+ิชาที่ต้องเรียนมาก่อน: 01417167
+ระบบแรงและแรงลัพธ์ มดุลค ามเ ียดทานแ ้งการประยุกต์ มการ มดุล
+กั บ โครง ร้ า งและเครื่ อ งจั ก รกล ถิ ต ย า ตร์ ข องไ ลจลน า ตร์ แ ละ
+
+จลนพล า ตร์ของอนุภาคและ ัตถุแข็งเกร็ง กฎการเคลื่อนที่ของนิ ตัน ลักของ
+งานและพลังงาน อิมพัล ์และโมเมนตัม
+Force systems and resultant. Equilibrium. Dry friction.
+Application of equilibrium equations to structures and machines. Fluid
+statics. Kinematics and kinetics of particles and rigid bodies. Newton's
+laws of motion. Principles of work and energy. Impulse and
+momentum.
+03604281
+
+การฝึกงานโรงงาน
+
+1(0-3-2)
+
+(Workshop Practice)
+การฝึกงานเกี่ย กับการ ัดขนาดชิ้นงาน งานเชื่อมก๊าซและไฟฟ้า งานโล ะ
+แผ่น งานกลึง ค ามปลอดภัยในโรงงาน
+Practice in work-piece measuring. Gas and arc welding. Metal
+sheet works. Lathe works. Safety in workshop.
+
+55
+
+
