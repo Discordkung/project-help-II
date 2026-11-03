@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
+  <meta name="theme-color" content="#0f766e">
+  <title>DSEE Buddy</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400;500;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <header class="topbar">
+      <div class="brand">
+        <button id="historyBtn" class="icon-btn menu" title="ประวัติแชท" aria-label="ประวัติแชท">
+          <svg viewBox="0 0 24 24" width="20" height="20"><path fill="currentColor" d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+        </button>
+        <div class="logo" aria-hidden="true">D</div>
+        <div>
+          <h1>DSEE Buddy</h1>
+          <p id="status" class="status">กำลังเชื่อมต่อ…</p>
+        </div>
+      </div>
+      <button id="newChat" class="icon-btn" title="เริ่มแชทใหม่" aria-label="เริ่มแชทใหม่">
+        <svg viewBox="0 0 24 24" width="20" height="20"><path fill="currentColor" d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6z"/></svg>
+        <span>แชทใหม่</span>
+      </button>
+    </header>
+
+    <div id="scrim" class="scrim" hidden></div>
+    <aside id="drawer" class="drawer" aria-label="ประวัติแชท">
+      <div class="drawer-head">
+        <b>ประวัติแชท</b>
+        <button id="closeDrawer" class="icon-btn" aria-label="ปิด">✕</button>
+      </div>
+      <button id="drawerNew" class="new-btn">＋ แชทใหม่</button>
+      <ul id="convList" class="conv-list"></ul>
+      <p class="drawer-note">ประวัติเก็บแยกตามเครื่อง/เบราว์เซอร์นี้</p>
+    </aside>
+
+    <main id="chat" class="chat" aria-live="polite">
+      <section id="welcome" class="welcome">
+        <h2>สวัสดีครับ 👋</h2>
+        <p>ผมคือรุ่นพี่ AI ประจำสาขา <b>วิศวกรรมดิจิทัลและอิเล็กทรอนิกส์อัจฉริยะ</b><br>
+           ถามเรื่องหลักสูตร วิชาเรียน หรือเรื่องอื่นๆ อย่างการเขียนโค้ดก็ได้นะ</p>
+        <div class="chips">
+          <button class="chip">ปี 1 เทอม 1 ต้องเรียนอะไรบ้าง</button>
+          <button class="chip">ไมโครโพรเซสเซอร์ต้องผ่านวิชาอะไรก่อน</button>
+          <button class="chip">หลักสูตรนี้ต้องเรียนกี่หน่วยกิตถึงจะจบ</button>
+          <button class="chip">อธิบาย list comprehension ใน Python พร้อมตัวอย่าง</button>
+        </div>
+      </section>
+    </main>
+
+    <footer class="composer">
+      <div id="fileBar" class="file-bar" hidden>
+        <span id="fileLabel"></span>
+        <button id="fileClear" class="file-x" aria-label="เอาไฟล์ออก">✕</button>
+      </div>
+      <form id="form" class="input-row">
+        <label class="icon-btn attach" title="แนบไฟล์ (pdf, docx, xlsx, pptx, txt, โค้ด)">
+          <input id="fileInput" type="file" hidden
+                 accept=".pdf,.docx,.xlsx,.pptx,.txt,.md,.csv,.py,.js,.html,.css,.c,.cpp,.java,.json">
+          <svg viewBox="0 0 24 24" width="22" height="22"><path fill="currentColor" d="M16.5 6v11.5a4 4 0 0 1-8 0V5a2.5 2.5 0 0 1 5 0v10.5a1 1 0 0 1-2 0V6H10v9.5a2.5 2.5 0 0 0 5 0V5a4 4 0 0 0-8 0v12.5a5.5 5.5 0 0 0 11 0V6z"/></svg>
+        </label>
+        <textarea id="input" rows="1" placeholder="พิมพ์คำถามได้เลย…" enterkeyhint="send"></textarea>
+        <button id="send" class="send" type="submit" aria-label="ส่ง">
+          <svg viewBox="0 0 24 24" width="20" height="20"><path fill="currentColor" d="M3.4 20.4 21 12 3.4 3.6 3.4 10l12.6 2-12.6 2z"/></svg>
+        </button>
+      </form>
+      <p class="hint">ข้อมูลหลักสูตร DSEE พ.ศ. 2566 · AI อาจผิดพลาดได้ ควรตรวจสอบกับฝ่ายวิชาการอีกครั้ง</p>
+    </footer>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

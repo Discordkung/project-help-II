@@ -1,0 +1,12 @@
+# ติดตั้งเฉพาะถ้าจะเทรนโมเดลในเครื่องตัวเอง (ต้องมี GPU NVIDIA)
+# pip install -r requirements.txt
+unsloth
+trl
+peft
+datasets
+safetensors
+bitsandbytes
+pandas
+openpyxl
+requests
+qrcode
